@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Kopíruje se %1$d souborů.</item>
+        <item quantity="one">Kopíruje se %1$d soubor.</item>
+        <item quantity="few">Kopírují se %1$d soubory.</item>
+        <item quantity="many">Kopíruje se %1$d souborů.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Selhalo kopírování %1$d souborů</item>
+        <item quantity="one">Selhalo kopírování %1$d souboru</item>
+        <item quantity="few">Selhalo kopírování %1$d souborů</item>
+        <item quantity="many">Selhalo kopírování %1$d souborů</item>
+    </plurals>
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">Nalezených: %d</item>
+        <item quantity="one">Nalezených: %d</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">Zbývající dny: %d</item>
+        <item quantity="one">Zbývající dny: %d</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">Budou staženy skladby: %d</item>
+        <item quantity="one">Bude stažena 1 skladba</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">Skladeb: %d</item>
+        <item quantity="one">Skladeb: %d</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d skladeb přidaných do playlistu</item>
+        <item quantity="one">1 skladba přidána do playlistu</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d skladeb odstraněno z playlistu.</item>
+        <item quantity="one">1 skladba odstraněna z playlistu.</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: 1</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">Budou odeslány skladby: %d</item>
+        <item quantity="one">Bude odeslána 1 skladba</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: 1</item>
+    </plurals> 
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">Nové: %d</item>
+        <item quantity="one">Nové: 1</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">Podobné skladby: %d</item>
+        <item quantity="one">Podobné skladby: %d</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">Přidáno: %d</item>
+        <item quantity="one">Přidáno: %d</item>
+    </plurals>
+    <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Vymazat playlist (%d)?</item>
+        <item quantity="one">Vymazat playlist (%d)?</item>
+    </plurals>
+    <plurals name="Nartists_count">
+        <item quantity="other">Umělci: %d</item>
+        <item quantity="one">Umělci: %d</item>
+    </plurals>
+    <plurals name="Ngroups_count">
+        <item quantity="other">Skupiny %d</item>
+        <item quantity="one">Skupiny %d</item>
+    </plurals>
+    <plurals name="dialog_delete_descript">
+        <item quantity="other">Vymazat skladby (%d)?</item>
+        <item quantity="one">Vymazat skladby (%d)?</item>
+    </plurals>
+    <plurals name="dialog_remove_descript">
+        <item quantity="other">Odebrat skladby (%d)?</item>
+        <item quantity="one">Odebrat skladby (%d)?</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">Přehrávač bude ukončen za %d min.</item>
+        <item quantity="one">Přehrávač bude ukončen za %d min.</item>
+    </plurals>
+    <plurals name="multichoice_title">
+        <item quantity="other">Vybráno: %d</item>
+        <item quantity="one">Vybráno: %d</item>
+    </plurals>
+    <plurals name="song_already_favorite">
+        <item quantity="other">Skladby již byly označeny.</item>
+        <item quantity="one">Skladby již byly označeny.</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+         <item quantity="other">"%1$d skladeb nebylo zalohovaných (%2$.1fMB)"</item>
+         <item quantity="one">"%1$d skladba nebyla zálohována (%2$.1fMB)"</item>
+     </plurals>
+     <plurals name="Nupload_song_button">
+         <item quantity="other">Zálohovat %1$d skladeb (%2$.1fMB)</item>
+         <item quantity="one">Zálohovat %1$d skladbu (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="Nbackup_songs">
+         <item quantity="other">Zálohování skladeb, zbývá %1$d skladeb (%2$.1fMB)</item>
+         <item quantity="one">Zálohování skladby, zbývá %1$d skladba (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="Nstop_backup_songs_message">
+         <item quantity="other">"%d skladeb nebylo zálohovaných do MiCloud. Zastavit?"</item>
+         <item quantity="one">"%d skladba nebyla zálohována do MiCloud. Zastavit?"</item>
+     </plurals>
+     <plurals name="Nsong_group_detail_subtitle">
+         <item quantity="other">Vytvořeno %1$s | celkem %2$d skladeb</item>
+         <item quantity="zero">Vytvořeno %1$s | celkem %2$d skladeb</item>
+         <item quantity="one">Vytvořeno %1$s | celkem %2$d skladeb</item>
+     </plurals>	
+     <plurals name="Nalbum_total_songs">
+         <item quantity="other">Celkem: %d skladeb</item>
+         <item quantity="zero">Celkem: %d skladeb</item>
+         <item quantity="one">Celkem: %d skladba</item>
+     </plurals>	
+</resources>
