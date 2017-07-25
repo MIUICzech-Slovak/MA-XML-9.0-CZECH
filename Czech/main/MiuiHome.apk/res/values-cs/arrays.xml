@@ -21,8 +21,8 @@
         <item>Klasický</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Widgety</item>
         <item>Tapety</item>
+        <item>Widgety</item>
 	<item>Nastavení</item>
     </string-array>
     <string-array name="gadget_weather_image">
