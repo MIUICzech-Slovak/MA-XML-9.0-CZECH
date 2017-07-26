@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="bluetooth_enter_passkey_msg">"Zadejte párovací kód a potom stiskněte tlačítko Return nebo Enter"</string>
-  <string name="bluetooth_enter_pin_msg">Zařízení</string>
-  <string name="bluetooth_enter_pin_msg_hs">Zařízení vyžaduje 16 místné heslo</string>
-</resources>
