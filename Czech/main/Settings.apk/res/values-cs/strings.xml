@@ -4995,4 +4995,12 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="vip_mode_info">V Tichém režimu budou oznámeny hovory a SMS od kontaktů ve VIP seznamu</string>
    <string name="wifi_eap_info_reconnect">Ověření selhalo, zkuste to znovu.</string>
    <string name="wifi_info_reconnect">Chyba hesla, zkuste to znovu!</string>
+   <string name="miui_lab_feature_applied">Aplikováno</string>
+   <string name="miui_lab_feature_off">Vyp</string>
+   <string name="miui_lab_feature_on">Zap</string>
+   <string name="miui_lab_features">MIUI lab funkce</string>
+   <string name="miui_lab_gallery_search_desc">Vyhledávání obrázků</string>
+   <string name="miui_lab_gallery_search_title">Vyhledat fotografie v galerii</string>
+   <string name="miui_lab_settings">MIUI lab</string>
+   <string name="miui_lab_slogan">Učit se, objevovat, prozkoumat.</string>
 </resources>

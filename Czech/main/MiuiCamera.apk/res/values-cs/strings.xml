@@ -449,4 +449,6 @@
   <string name="video_reach_size_limit">Byla dosažena maximální velikost souboru.</string>
   <string name="wait">Čekejte prosím...</string>
   <string name="pref_dualcamera_watermark_title">Vodoznak</string>  
+  <string name="screen_on_proximity_sensor_hint">Pro deaktivaci této funkce stiskněte současně hlasitost dolů a zpět.</string>
+   <string name="screen_on_proximity_sensor_summary">Nezarývejte prostor kolem sluchátka</string>
 </resources>

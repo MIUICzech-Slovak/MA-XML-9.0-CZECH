@@ -152,5 +152,8 @@ Zadejte město manuálně"</string>
   <string name="weather_alert">Varování</string>
   <string name="wind_direction_no_data">Vítr</string>
   <string name="xiaomi_weather_description_content">Xiaomi aplikace Počasí vám poskytuje informace o počasí ve vašem městě. Její odinstalování ovlivní widget hodin, teplotu v roletce a další funkce. Chcete ji odinstalovat?</string>
-  <string name="xiaomi_weather_description_title">O Počasí</string>  
+  <string name="xiaomi_weather_description_title">O Počasí</string> 
+  <string name="content_desc_activity_main_add_city">Přidat město</string>
+   <string name="content_desc_activity_main_add_city_manage">Správa měst</string>
+   <string name="content_desc_activity_main_more_settings">Více nastavení</string> 
 </resources>

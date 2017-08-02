@@ -963,4 +963,24 @@
    <string name="backup_cta_not_allow_desc">Povolte pro automatickou zálohu</string>
    <string name="backup_cta_not_allow_title">Není přístup k síti</string>
    <string name="cloud_storage_extend">Navýšit MiCloud úložiště</string>
+   <string name="album_name_locations">Místa</string>
+   <string name="album_name_people">Lidé</string>
+   <string name="album_name_tags">Značky</string>
+   <string name="empty_title_no_photos">Žádné fotografie nebo videa</string>
+   <string name="home_page_empty_action">Zhotovit fotografii</string>
+   <string name="people_album_empty_title">Fotografie mohou být tříděny podle lidí na nich</string>
+   <string name="people_mark_mode_title">Vyberte \"%s\"</string>
+   <string name="people_mark_mode_title_no_mark_name">Vyberte osobu</string>
+   <string name="places_album_empty_title">Fotografie mohou být tříděny podle polohy</string>
+   <string name="recent_album_empty_title">Nebyly přidány žádné nové fotografie</string>
+   <string name="search_net_error">Chyba sítě. Zkuste to znovu.</string>
+   <string name="search_request_open">Přidejte se k testovacímu týmu</string>
+   <string name="search_select_network">Vyberte síť</string>
+   <string name="search_setting_sub_title">Vylepšené vyhledávání obrázků</string>
+   <string name="search_setting_sub_title_open">Schváleno. Počkejte chvíli.</string>
+   <string name="search_setting_title">Vyhledat fotografie v galerii</string>
+   <string name="search_title_album">Album</string>
+   <string name="search_title_suggestion">Doporučené</string>
+   <string name="setup_network_connection">Nastavení sítě</string>
+   <string name="things_album_empty_title">Fotografie mohou být tříděny podle objektů na nich</string>
 </resources>
