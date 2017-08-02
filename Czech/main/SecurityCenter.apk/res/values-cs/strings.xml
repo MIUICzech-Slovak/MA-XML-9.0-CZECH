@@ -2523,4 +2523,6 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="uninstall_game_count">Nepřidáno her: %d</string>
    <string name="wlan_change_protection_detail">Nepřepínat automaticky na Wi-Fi po připojení na mobilní data</string>
    <string name="wlan_change_protection_title">Zamezit změnu sítě</string>
+   <string name="app_manager_pref_ads">Doporučení</string>
+   <string name="install">Instalovat</string>
 </resources>

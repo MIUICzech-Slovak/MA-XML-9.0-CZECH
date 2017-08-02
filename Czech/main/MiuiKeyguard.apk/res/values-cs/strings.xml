@@ -115,5 +115,7 @@
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
   <string name="wrong_password">Nesprávné heslo</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_calling">Nelze přepínat mezi profily během hovoru</string>  
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">Nelze přepínat mezi profily během hovoru</string> 
+  <string name="keyguard_left_remotecentral">MiRemote</string>
+  <string name="keyguard_left_smarthome">MiHome</string> 
 </resources>

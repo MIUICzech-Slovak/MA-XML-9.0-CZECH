@@ -28,5 +28,9 @@
      <plurals name="block_record_notification_more_text">
          <item quantity="other">Skrytá upozornění od %1$s &amp; %2$d apl.</item>
          <item quantity="one">Skrytá upozornění od %1$s &amp; 1 apl.</item>
-     </plurals>   
+     </plurals>  
+     <plurals name="fold_tips_title">
+         <item quantity="other">Skrytá upozornění: %d</item>
+         <item quantity="one">Skrytá upozornění: %d</item>
+     </plurals> 
 </resources>

@@ -140,4 +140,19 @@
   <string name="unknown_caller">Neznámé číslo</string>
   <string name="user_switching_dialog_text">Přepínání...</string>
   <string name="xspace_resolver_activity_title">Vybrat apl.</string>
+  <string name="always">Vždy</string>
+   <string name="close">Vyp</string>
+   <string name="description_title">Režim Nerušit</string>
+   <string name="eighthours">8 hodin</string>
+   <string name="fourhours">2 hodiny</string>
+   <string name="onehour">30 minut</string>
+   <string name="remain">Zbývá: %s</string>
+   <string name="silence_mode">Režim Nerušit</string>
+   <string name="standard">Ztišit</string>
+   <string name="standard_description">[Ztišit] Ztišit zvuky pro příchozí hovory a upozornění</string>
+   <string name="standard_title">Ztišeno</string>
+   <string name="total">Režim Nerušit</string>
+   <string name="total_description">[Režim Nerušit] Ztišit všechny zvuky a vypnout vibrace kromě budíku</string>
+   <string name="total_title">Režim Nerušit</string>
+   <string name="twohours">1 hodina</string>
 </resources>
