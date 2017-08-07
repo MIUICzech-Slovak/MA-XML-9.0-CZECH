@@ -403,4 +403,5 @@ přetažením dolů uzamknete"</string>
    <string name="un_important_notifications">Nedůležitá upozornění</string>
    <string name="unimportant_desc">Všechna nedůležitá upozornění budou zobrazena ve složce.</string>
    <string name="unimportant_title">Nedůležité</string>
+   <string name="screenshot_insert_failed">Načítání schreenshotu selhalo. Zkuste jej otevřít znovu.</string>
 </resources>

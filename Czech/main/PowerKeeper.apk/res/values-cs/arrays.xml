@@ -11,8 +11,8 @@
          <item>Výkonný režim</item>
      </string-array>
      <string-array name="thermal_summaries">
-         <item>Výkon bude omezen, aby nedocházelo k přehřívání zařízení</item>
-         <item>Ve výkonném režimu se může vaše zařízení přehřívat</item>
+         <item>Současný výchozí režim</item>
+         <item>Současný výkonný režim</item>
      </string-array>	
   <string-array name="event_name_translate">
     <item>Aplikace je na pozadí</item>

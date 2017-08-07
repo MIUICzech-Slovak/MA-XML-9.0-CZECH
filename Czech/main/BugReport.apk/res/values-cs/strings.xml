@@ -292,4 +292,9 @@
   <string name="warning_field_empty">Zadejte %1$s</string>
   <string name="warning_field_invalid">Vyberte platný %1$s</string>
   <string name="title_customer_service">Uživatelská podpora</string>
+  <string name="mobile_data_note_dialog_cancel">Čekat na Wi-Fi</string>
+   <string name="mobile_data_note_dialog_confirm">Odeslat</string>
+   <string name="mobile_data_note_dialog_content">Odesílání záznamů o chybě na mobilních datech může zvýšit vaše poplatky.</string>
+   <string name="mobile_data_note_dialog_content_with_file_size">Odesílání záznamů o chybě na mobilních datech spotřebuje %sMB.</string>
+   <string name="mobile_data_note_dialog_title">Upozornění na mobilní data</string>
 </resources>

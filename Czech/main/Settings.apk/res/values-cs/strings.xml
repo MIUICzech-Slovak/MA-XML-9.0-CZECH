@@ -1404,7 +1404,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="enable_service_password_reason">Protože zapnutí služby %1$s má vliv na šifrování dat, je třeba, abyste potvrdili své heslo.</string>
   <string name="enable_service_pattern_reason">Protože zapnutí služby %1$s má vliv na šifrování dat, je třeba, abyste potvrdili své gesto.</string>
   <string name="enable_service_pin_reason">Protože zapnutí služby %1$s má vliv na šifrování dat, je třeba, abyste potvrdili svůj kód PIN.</string>
-  <string name="enable_service_title">Použít %1$s?</string>
+  <string name="enable_service_title">Služba vykoná tyto akce:</string>
   <string name="enable_snapshot_screenlock">Rychlé pořízení fotografie</string>
   <string name="enable_terminal_summary">Aktivovat terminálovou aplikaci pro místní přístup k prostředí shell</string>
   <string name="enable_terminal_title">Místní terminál</string>
@@ -1426,6 +1426,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="encrypt_talkback_dialog_require_pin">Požadovat kód PIN?</string>
   <string name="encryption_continue_button">Pokračovat</string>
   <string name="encryption_interstitial_header">Šifrování</string>
+  <string name="lockscreen_magazine_title">Denní tapeta zamyk. obrazovky</string>
   <string name="encryption_interstitial_message_password">"Toto zařízení můžete dále ochránit tím, že před jeho spuštěním bude požadováno heslo. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků. 
 
 Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních."</string>

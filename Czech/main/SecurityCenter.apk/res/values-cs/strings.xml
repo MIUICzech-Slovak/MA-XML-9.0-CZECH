@@ -562,7 +562,7 @@
   <string name="cmcc_app_check_dialog_title">Systém je opraven</string>
   <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Přidávání Mi účtu</string>
-  <string name="confirm_fingerprint_msg">Přiložte prst na senzor otisku prstů</string>
+  <string name="confirm_fingerprint_msg">Ověřte svůj otisk prstu</string>
   <string name="confirm_reject_all_permission">Zakázat všem aplikacím používat tuto funkci?</string>
   <string name="connect_internet_by_mobiledata">Mobilní připojení</string>
   <string name="connect_internet_by_usbshare">Internet přes USB</string>
@@ -798,7 +798,7 @@ For more info check the message you received from your service provider"</string
   <string name="force_stop_dlg_title">Zakázat data na pozadí</string>
   <string name="foreground_traffic">Na popředí %s</string>
   <string name="forget_password_button_text">Zapomenuté heslo</string>
-  <string name="forget_pattern">Zapomněli jste vzor?</string>
+  <string name="forget_pattern">Zapomenuté heslo?</string>
   <string name="free_time_traffic">Limit dat mimo špičku</string>
   <string name="free_time_traffic_hint">Zadejte limit dat mimo špičku</string>
   <string name="free_time_traffic_settings">Nastavení dat mimo špičku</string>
@@ -2289,9 +2289,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
   <string name="main_button_usage_adjusting_bill">Probíhá změna...</string>
-   <string name="password_forget_pattern_confirm">Zálohovat data</string>
-   <string name="password_forget_pattern_message">Zálohujte svá data a obnovte obnovte tovární nastavení. Potom bude možné změnit vaše heslo.</string>
-   <string name="password_forget_pattern_title">Zálohujte svá data</string>
+   <string name="password_forget_pattern_confirm">Rozumím</string>
+   <string name="password_forget_pattern_message">Z bezpečnostních důvodů můžete obnovit vaše heslo až po obnovení továrního nastavení. Dotykem obnovíte tovární nastavení.</string>
+   <string name="password_forget_pattern_title">Upozornění</string>
    <string name="password_xspace_forget_pattern_message">Pro změnu hesla Druhého profilu jej musíte vymazat a vytvořit znovu.</string>
   <string name="card_main_hbassistant_summary">Zrychlit a zlepšit odezvu při hrách</string>
   <string name="card_main_hbassistant_title">Zrychlení her</string>  

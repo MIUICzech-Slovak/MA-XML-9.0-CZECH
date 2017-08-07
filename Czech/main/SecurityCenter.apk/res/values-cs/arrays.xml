@@ -190,5 +190,11 @@
          <item>Seřadit podle využití úložiště</item>
          <item>Seřadit podle spotřeby dat</item>
          <item>Seřadit podle spotřeby baterie</item>
+     </string-array>
+     <string-array name="title_app_info">
+         <item>Zdroj instalace</item>
+         <item>Čas instalace</item>
+         <item>Zdroj poslední aktualizace</item>
+         <item>Čas poslední aktualizace</item>
      </string-array>	
 </resources>

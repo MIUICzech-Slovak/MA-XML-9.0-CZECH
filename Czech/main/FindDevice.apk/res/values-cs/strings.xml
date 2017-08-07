@@ -77,4 +77,9 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlocking">Aktivování...</string>
   <string name="verifing_account">Ověřování hesla...</string>
   <string name="verify_password_failed">Nelze ověřit Mi účet. %s.</string>
+  <string name="find_device_error_access_denied">Přístup zamítnut.</string>
+   <string name="sys_notification_async_open_failed_content">Zkuste to znovu.</string>
+   <string name="sys_notification_async_open_failed_title">Nelze aktivovat vyhledávání zařízení</string>
+   <string name="sys_notification_async_verify_content">Naše aktualizované Podmínky ochrany soukromí vyžadují reaktivaci vyhledávání zařízení.</string>
+   <string name="sys_notification_async_verify_title">Reaktivace vyhledávání zařízení</string>
 </resources>
