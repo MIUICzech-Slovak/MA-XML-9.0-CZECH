@@ -93,8 +93,8 @@
   <string name="login_website_in_case_forget_password">Pro nastavení hesla jděte na i.xiaomi.com.</string>
   <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odemknuto s MiBand</string>
-  <string name="open_camera_hint_text">Potáhněte doleva pro %s</string>
-  <string name="open_remote_center_hint_text">Potáhněte doprava pro %s</string>
+  <string name="open_camera_hint_text">Potáhněte doleva pro Fotoaparát</string>
+  <string name="open_remote_center_hint_text">Potáhněte doprava pro MiRemote</string>
   <string name="open_wifi_settings">Nastavení sítě</string>
   <string name="phone_locked_foget_password">Zapomněli jste heslo?</string>
   <string name="phone_locked_foget_password_content">"Můžete se přihlásit na i.mi.com svým Mi účtom, který je propojen s tímto zařízením a vymazat vaše data. Všechny Vaše data budou vymazána. Potom můžte restartovat zařízení a obnovit vaše kontakty, SMS, fotografie z Mi Cloud, pokud jste měli povolenou synchronizaci. 
