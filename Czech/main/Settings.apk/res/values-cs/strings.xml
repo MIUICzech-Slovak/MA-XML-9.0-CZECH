@@ -5004,4 +5004,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="miui_lab_gallery_search_title">Vyhledat fotografie v galerii</string>
    <string name="miui_lab_settings">MIUI lab</string>
    <string name="miui_lab_slogan">Učit se, objevovat, prozkoumat.</string>
+   <string name="turn_off_keyguard_password_wait_dialog">Rušení hesla</string>
+   <string name="turn_update_keyguard_password_wait_dialog">Změna hesla</string>
 </resources>

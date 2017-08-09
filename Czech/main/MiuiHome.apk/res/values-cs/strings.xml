@@ -280,10 +280,10 @@
   <string name="widget_favorite_contacts_style">Rozměr</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
-  <string name="menu_auto_fill">Autom. vyplnit</string>
-   <string name="menu_cell_setting">Nastavení obrazovky</string>
-   <string name="menu_lock">Zamykací obrazovka</string>
-   <string name="menu_more">Více</string>
+  <string name="menu_auto_fill">Automaticky vyplnit</string>
+   <string name="menu_cell_setting">Mřížka</string>
+   <string name="menu_lock">Uzamknout ikony</string>
+   <string name="menu_more">Více nastavení</string>
    <string name="menu_trans_effect">Efekt přechodu</string>
    <string name="widget_quick_function">Zkratky</string>
 </resources>

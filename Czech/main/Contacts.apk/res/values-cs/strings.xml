@@ -1284,4 +1284,6 @@ Vyberte si z následujících možností:</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nic není vybráno</string>
   <string name="preference_other">Ostatní</string>
+  <string name="unfold_all">Rozbalit vše</string>
+  <string name="unknown_details_new_contact">Nový kontakt</string>
 </resources>
