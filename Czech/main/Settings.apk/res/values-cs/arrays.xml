@@ -10,6 +10,13 @@
         <item>Měřítko animace 5x</item>
         <item>Měřítko animace 10x</item>
     </string-array>
+    <string-array name="silent_mode_duration_text">
+         <item>Vždy</item>
+         <item>30 minut</item>
+         <item>1 hodina</item>
+         <item>2 hodiny</item>
+         <item>8 hodin</item>
+     </string-array>
     <string-array name="connect_mode_entries">
          <item>Kompatibilní režim</item>
          <item>Výkonný režim</item>
