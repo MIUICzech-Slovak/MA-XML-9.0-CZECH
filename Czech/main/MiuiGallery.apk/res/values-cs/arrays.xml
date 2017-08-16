@@ -36,5 +36,19 @@
          <item>Babička z otcové strany</item>
          <item>Děda z matčiné strany</item>
          <item>Babička z matčiné strany</item>
+     </string-array>
+     <string-array name="collage_month">
+         <item>Led</item>
+         <item>Úno</item>
+        <item>Bře</item>
+         <item>Dub</item>
+         <item>Kvě</item>
+         <item>Čer</item>
+         <item>Črv</item>
+         <item>Srp</item>
+         <item>Zář</item>
+         <item>Říj</item>
+         <item>Lis</item>
+         <item>Pro</item>
      </string-array>	
 </resources>

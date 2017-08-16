@@ -5009,4 +5009,14 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="normal_info">Všechny zvuky jsou povoleny</string>
    <string name="silent_duration">Trvání</string>
    <string name="my_device_disclaimer">Poznámka: Informace o HW, CPU, kapacitě baterie, velikosti displeje a rozlišení je poskytováno Xiaomi, designéry a dodavateli.</string>
+<string name="status_bar_settings_user_fold">Skupina upozornění</string>
+   <string name="status_bar_settings_user_fold_summary">Všechna méně důležitá upozornění budou zobrazena v extra skupině</string>  
+   <string name="turn_on_keyguard_password_alert">Zapamatujte si své heslo. V případě zapomenutí není možná jeho obnova.</string>
+   <string name="turn_on_keyguard_password_alert_choose">Zapamatujte si své heslo. Pokud jej zapomenete, bude nutné vymazat data a nastavit nové heslo.</string>
+   <string name="turn_on_keyguard_password_alert_foget_cacel">Později</string>
+   <string name="turn_on_keyguard_password_alert_foget_ok">Rozumím</string>
+   <string name="turn_on_keyguard_password_alert_foget_ok_time">Rozumím (%ds)</string>
+   <string name="turn_on_keyguard_password_alert_forget_content">Zapamatujte si své heslo. Pokud jej zapomenete, bude nutné vymazat data a nastavit nové heslo.</string>
+   <string name="turn_on_keyguard_password_alert_forget_title">V případě zapomenutí není možná jeho obnova.</string>
+   <string name="privacy_header_text_less_than_half">Pro tuto aplikaci je příliš málo místa. Potáhněte oddělovač dále.</string>
 </resources>

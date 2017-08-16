@@ -1286,4 +1286,8 @@ Vyberte si z následujících možností:</string>
   <string name="preference_other">Ostatní</string>
   <string name="unfold_all">Rozbalit vše</string>
   <string name="unknown_details_new_contact">Nový kontakt</string>
+  <string name="t9_search_empty_create_contact">Nový kontakt</string>
+   <string name="t9_search_empty_edit_contact">Přidat do kontaktů</string>
+   <string name="t9_search_empty_send_sms">Odeslat SMS</string>
+   <string name="t9_search_empty_video_call">Video hovor</string>  
 </resources>

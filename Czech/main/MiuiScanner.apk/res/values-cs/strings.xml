@@ -8,6 +8,7 @@
   <string name="allow_check_website_security">Zkontrolovat bezpečnost odkazů na web</string>
   <string name="app_description_content">Skener může načíst QR kódy, vizitky a dokumenty.</string>
   <string name="app_description_title">O skeneru</string>
+  <string name="document_recognize_null_tip">Dokument je prázdný</string>
   <string name="app_details">"Apl.: "</string>
   <string name="app_name">Skener</string>
   <string name="back">Zpět</string>

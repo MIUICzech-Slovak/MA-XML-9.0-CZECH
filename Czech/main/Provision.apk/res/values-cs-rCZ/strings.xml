@@ -68,4 +68,5 @@
   <string name="fail_to_generate_qr_code">Generování QR kódu selhalo, zkuste to znovu.</string>
    <string name="two_dimensional_code_scan">Skenování QR kódu</string>
    <string name="user_strayed_warning">Tato stránka je pouze pro testování, vraťte se zpět.</string>
+   <string name="application_permissions">Povolení aplikací</string>
 </resources>

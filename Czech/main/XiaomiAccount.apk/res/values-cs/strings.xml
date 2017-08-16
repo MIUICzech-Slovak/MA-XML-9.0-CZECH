@@ -478,4 +478,7 @@ Zkontrolujte také složku SPAM."</string>
    <string name="passport_set">Nastavit</string>
    <string name="passport_sms_send_success">Odesláno</string>
    <string name="passport_verifying_activator_phone">Ověřování zabezpečení...</string>
+   <string name="find_device_message">Zařízení je uzamčeno, zpráva: %1$s, telefon: %2$s.</string>
+   <string name="find_device_owner_phone">Zařízení je uzamčeno, telefon: %1$s.</string>
+   <string name="find_device_prompt_message">Zařízení je uzamčeno, zpráva: %1$s.</string>
 </resources>
