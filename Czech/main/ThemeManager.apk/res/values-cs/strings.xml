@@ -421,4 +421,19 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_settings_desktop_text">Domácí plocha</string>
   <string name="wallpaper_settings_lockscreen_text">Zamykací obrazovka</string>
   <string name="wallpaper_settings_page_title">tapeta</string>
+  <string name="can_not_apply">Nelze nastavit</string>
+   <string name="card_data_request_error">Nedostupné, zkuste to později...</string>
+   <string name="card_loading">Načítání...</string>
+   <string name="card_no_network">Žádná síť, připojte se a zkuste to znovu...</string>
+   <string name="card_retry">Znovu</string>
+   <string name="find_more_wallpapers">Více</string>
+   <string name="in_the_end">Nic víc</string>
+   <string name="local_photos">Lokální</string>
+   <string name="recently_used">Nedávno použito</string>
+   <string name="ringtone_set_success">Nastaveno</string>
+   <string name="system_precust">Systémové</string>
+   <string name="wallpaper_apply">Použít</string>
+   <string name="wallpaper_settings_loading_text">Načítání...</string>
+   <string name="wallpaper_settings_no_history">Žádná historie</string>
+   <string name="wallpaper_settings_pad_more_page_title">Více tapet</string>
 </resources>
