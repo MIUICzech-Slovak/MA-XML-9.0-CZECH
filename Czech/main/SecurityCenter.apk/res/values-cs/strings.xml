@@ -2293,6 +2293,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="password_forget_pattern_message">Z bezpečnostních důvodů můžete obnovit vaše heslo až po obnovení továrního nastavení. Dotykem obnovíte tovární nastavení.</string>
    <string name="password_forget_pattern_title">Upozornění</string>
    <string name="password_xspace_forget_pattern_message">Pro změnu hesla Druhého profilu jej musíte vymazat a vytvořit znovu.</string>
+  <string name="firewall_restrict_notify_title">%s nemůže použít síť</string>
   <string name="card_main_hbassistant_summary">Zrychlit a zlepšit odezvu při hrách</string>
   <string name="card_main_hbassistant_title">Zrychlení her</string>  
   <string name="auto_task_notify_task_exit_task">Ukončit úlohu</string>
@@ -2525,4 +2526,24 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="wlan_change_protection_title">Zamezit změnu sítě</string>
    <string name="app_manager_pref_ads">Doporučení</string>
    <string name="install">Instalovat</string>
+  <string name="app_manager_app_ifno_version">Verze</string>
+  <string name="app_manager_app_info_label">Info</string>
+  <string name="app_manager_app_info_name">Název</string>
+  <string name="app_manager_app_info_pkg">Název apk</string>
+  <string name="app_manager_copy_pkg_to_clip">Zkopírováno do schránky</string>
+  <string name="app_manager_hide_system_server">Skrýt systémové služby</string>
+  <string name="app_manager_show_all_apps">Zobrazit všechny apl.</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Je vyžadováno heslo pro otevření aplikace</string>
+  <string name="access_control_fingerprint_not_identified_msg">Nelze rozpoznat otisk.</string>
+  <string name="applock_bind_account_title">Obnovení hesla</string>
+  <string name="applock_header_text_less_than_half">Málo místa pro tuto aplikaci, potáhněte rozdělovač dál.</string>
+  <string name="forget_password_button_text_normal">Zapomenuté heslo</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">Nelze rozpoznat otisk.</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_pattern">Heslo není správné, zkuste to znovu.</string>
+  <string name="modify_password_mode">Změnit typ hesla</string>
+  <string name="password_forget_pattern_message_none">Aplikace nejsou uzamčené. Můžete obnovit heslo.</string>
+  <string name="password_forget_pattern_reset">Obnovit</string>
+  <string name="unlock_pattern">Vzor</string>
+  <string name="unlock_pattern_to_bind_fingerprint">Zadejte heslo pro aktivaci otisku</string>
+  <string name="ss_activity_main_support_text">Poskytuje %s</string>
 </resources>
