@@ -949,5 +949,13 @@ Postupujte dle pokynů"</item>
          <item>Poklepání - Spustit akci dvojím poklepáním</item>
          <item>Potáhnutí - Spustit akci potáhnutím</item>
 	 <item>Dotyk - Spustit akci</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_primary">
+         <item>CPU</item>
+         <item>Baterie</item>
+         <item>Fotoaparát</item>
+         <item>Displej</item>
+         <item>Rozlišení</item>
+         <item>Android</item>
      </string-array>			
 </resources>
