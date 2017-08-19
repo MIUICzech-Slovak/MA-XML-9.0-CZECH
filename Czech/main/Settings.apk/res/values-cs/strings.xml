@@ -5019,4 +5019,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="turn_on_keyguard_password_alert_forget_content">Zapamatujte si své heslo. Pokud jej zapomenete, bude nutné vymazat data a nastavit nové heslo.</string>
    <string name="turn_on_keyguard_password_alert_forget_title">V případě zapomenutí není možná jeho obnova.</string>
    <string name="privacy_header_text_less_than_half">Pro tuto aplikaci je příliš málo místa. Potáhněte oddělovač dále.</string>
+   <string name="default_spell_checker">Výchozí kontrola pravopisu</string>
 </resources>
