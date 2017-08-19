@@ -158,8 +158,8 @@
         <item quantity="one">Vyřešen %d problém s baterií</item>
      </plurals>
      <plurals name="search_app_count_txt_na">
-        <item quantity="other">Search %d apps</item>
-        <item quantity="one">Search %d app</item>
+        <item quantity="other">Vyhledat v %d apl.</item>
+        <item quantity="one">Vyhledat v %d apl.</item>
      </plurals>
      <plurals name="sp_back_title_text">
         <item quantity="other">%s platebních rizik</item>
