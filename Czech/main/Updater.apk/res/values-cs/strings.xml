@@ -4,7 +4,7 @@
   <string name="battery_islow">Připojte nabíječku</string>
   <string name="battery_islow_desc">Baterie je příliž slabá pro instalaci nové ROM, připojte nabíječku a zkuste to znovu později!</string>
   <string name="btn_changelog">Seznam změn</string>
-  <string name="btn_download">Stáhnout novou verzi</string>
+  <string name="btn_download">Stáhnout novou verzi (%1$s)</string>
   <string name="btn_install">Instalovat novou verzi</string>
   <string name="btn_no">Zrušit</string>
   <string name="btn_ok">OK</string>
