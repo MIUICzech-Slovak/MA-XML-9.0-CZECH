@@ -150,5 +150,25 @@
      <plurals name="settings_toggle_position_divider_page">
          <item quantity="other">%1$d přepínačů nad čarou je aktivních</item>
          <item quantity="one">1 přepínač nad čarou je aktivní</item>
+     </plurals>	
+     <plurals name="lockpassword_pin_too_short">
+         <item quantity="other">PIN musí mít %d čísel</item>
+         <item quantity="one">PIN musí mít %d čísel</item>
+     </plurals>
+     <plurals name="lockpassword_pin_too_long">
+         <item quantity="other">PIN může obsahovat až %d čísel</item>
+         <item quantity="one">PIN může obsahovat až %d čísel</item>
+     </plurals>
+     <plurals name="lockpattern_recording_incorrect_too_short">
+         <item quantity="other">Spojte alespoň %d body. Zkuste to znovu.</item>
+         <item quantity="one">Spojte alespoň %d body. Zkuste to znovu.</item>
+     </plurals>
+     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+         <item quantity="other">Příliš mnoho nesprávných pokusů. Zkuste to znovu za %ds.</item>
+         <item quantity="one">Příliš mnoho nesprávných pokusů. Zkuste to znovu za %ds.</item>
+     </plurals>
+     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+         <item quantity="other">Počkejte alespoň %ds a zkuste to znovu .</item>
+         <item quantity="one">Počkejte alespoň %ds a zkuste to znovu .</item>
      </plurals>		
 </resources>

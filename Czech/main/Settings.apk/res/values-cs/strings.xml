@@ -5020,4 +5020,13 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="turn_on_keyguard_password_alert_forget_title">V případě zapomenutí není možná jeho obnova.</string>
    <string name="privacy_header_text_less_than_half">Pro tuto aplikaci je příliš málo místa. Potáhněte oddělovač dále.</string>
    <string name="default_spell_checker">Výchozí kontrola pravopisu</string>
+    <string name="max_aspect_settings_all_app_display_loading">Načítání...</string>
+   <string name="restrict_max_aspect_ratio_title">Doporučit deaktivaci max. poměru stran</string>
+   <string name="screen_max_aspect_ratio_desc">Zda se aplikace může zobrazovat na celé obrazovce</string>
+   <string name="screen_max_aspect_ratio_title">Nastavení maximálního poměru stran</string>
+   <string name="status_bar_screen_button_force_immersive_desc">Potáhněte od spodní hrany displeje pro zobrazení tlačítek</string>
+   <string name="status_bar_screen_button_key_force_immersive">Skrýt tlačítka na displeji</string>
+   <string name="suggest_unrestrict_max_aspect_ratio_title">Doporučit aktivování max. poměru stran</string>
+   <string name="unrestrict_max_aspect_ratio_title">Podporovat max. poměru stran</string>
+   <string name="popup_window">Povolit vyskakovací okna</string>
 </resources>

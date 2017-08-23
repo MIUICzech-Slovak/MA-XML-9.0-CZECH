@@ -155,4 +155,9 @@
    <string name="total_description">[Režim Nerušit] Ztišit všechny zvuky a vypnout vibrace kromě budíku</string>
    <string name="total_title">Režim Nerušit</string>
    <string name="twohours">1 hodina</string>
+   <string name="miui_screen_ratio_hint">Chyba poměru stran</string>
+   <string name="miui_screen_ratio_hint_dont_show_again">Znovu nezobrazovat</string>
+   <string name="miui_screen_ratio_hint_go_to_settings">Jděte to Nastavení</string>
+   <string name="miui_screen_ratio_hint_message">Tato aplikace má povolený běh v režimu na celou obrazovku, což může způsobit její nesprávné zobrazení. Můžete to změnit v Nastavení - Další nastavení - Tlačítka.</string>
+   <string name="miui_screen_ratio_hint_ok">OK</string>  
 </resources>

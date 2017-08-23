@@ -212,4 +212,9 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
+  <string name="backup_security_tips_message">Aplikace, které používají osobní údaje nemusí být zálohovány nebo obnoveny správně.</string>
+   <string name="backup_security_tips_title">Bezpečnostní upozornění</string>
+   <string name="btn_got_it">Rozumím</string>
+   <string name="trans_security_tips_message">Některé aplikace nepodporují Přenos.</string>
+   <string name="trans_security_tips_title">Kompatibilita Přenosu</string> 
 </resources>

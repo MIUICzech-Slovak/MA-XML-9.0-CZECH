@@ -382,4 +382,8 @@
          <item quantity="other">Nepřidáno apl.: %d</item>
          <item quantity="one">Nepřidáno apl.: %d</item>
      </plurals>	
+     <plurals name="title_virus_clean">
+         <item quantity="other">Vyčištěných virů: %d</item>
+         <item quantity="one">Vyčištěných virů: %d</item>
+     </plurals>	
 </resources>
