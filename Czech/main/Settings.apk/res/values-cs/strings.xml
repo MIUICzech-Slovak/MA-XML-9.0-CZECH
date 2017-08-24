@@ -4998,10 +4998,10 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="miui_lab_feature_applied">Aplikováno</string>
    <string name="miui_lab_feature_off">Vyp</string>
    <string name="miui_lab_feature_on">Zap</string>
-   <string name="miui_lab_features">MIUI lab funkce</string>
+   <string name="miui_lab_features">MIUI Lab funkce</string>
    <string name="miui_lab_gallery_search_desc">Vyhledávání obrázků</string>
    <string name="miui_lab_gallery_search_title">Vyhledat fotografie v galerii</string>
-   <string name="miui_lab_settings">MIUI lab</string>
+   <string name="miui_lab_settings">MIUI Lab</string>
    <string name="miui_lab_slogan">Učit se, objevovat, prozkoumat.</string>
    <string name="turn_off_keyguard_password_wait_dialog">Rušení hesla</string>
    <string name="turn_update_keyguard_password_wait_dialog">Změna hesla</string>
