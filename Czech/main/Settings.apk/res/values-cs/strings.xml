@@ -5040,4 +5040,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="force_immersive_compatibility_hint_title">Problémy s kompatibilitou</string>
    <string name="manage_facerecoginition_text">Správovat tváře</string>
    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Po deaktivaci hesla zamykací obrazovky se vymaže i nastavení vašich otisků.</string>
+   <string name="bluetooth_device_misc_title">Zřídka používané zařízení</string>
+   <string name="bt_rarely_used_device_title">Zřídka používané zařízení (%d)</string>
 </resources>

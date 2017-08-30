@@ -884,4 +884,23 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="account_settings_preference_add_account">Přidejte účet</string>
+   <string name="account_settings_preference_head_icon">Zobrazit avatary</string>
+   <string name="account_settings_preference_notify">Upozornění</string>
+   <string name="account_settings_user_usage">Nastavení účtu</string>
+   <string name="account_setup_options_actionbar_title">Běžné nastavení</string>
+   <string name="account_sync_settings_settings">Synchronizovat kontakty a kalendáře</string>
+   <string name="account_sync_settingstip_description">Nastavení synchronizace</string>
+   <string name="conversation_detail_hide">Skrýt</string>
+   <string name="conversation_detail_show">Podrobnosti</string>
+   <string name="conversation_msg_header_collapsed_sent_to">"Odeslat "</string>
+   <string name="conversation_pull_ad_content">Efektivní E-mailový klient</string>
+   <string name="edit_signature">Upravit podpis</string>
+   <string name="login_support_tip_text">Podporuje všechny běžné e-mailové účty</string>
+   <string name="mailbox_name_display_add_account">Přidat účet</string>
+   <string name="new_signature_has_saved">Nový podpis byl uložen</string>
+   <string name="save_this_new_signature">Uložit nový podpis?</string>
+   <string name="search_bar_text">Vyhledat e-mail, odesílatele</string>
+   <string name="topic_merge_summary">Režim zobrazení ve vlákně</string>
+   <string name="update_to_wps_mail">Pro více možností nainstalujte WPS-mail</string>
 </resources>

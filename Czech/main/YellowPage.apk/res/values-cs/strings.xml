@@ -207,4 +207,7 @@ Mějte na paměti, že žádná banka nebo jiné společnosti se vás nesmí pt�
   <string name="yellow_page_call_log_title">Seznam hovorů</string>
   <string name="yellow_page_detail_title">Co je to</string>
   <string name="yellow_page_website">Oficiální stránka</string>
+  <string name="turn_on_online_antispam_enable">Povolit</string>
+   <string name="turn_on_online_antispam_summary">Povolit Caller ID pro rozpoznání neznámých čísel.</string>
+   <string name="turn_on_online_antispam_title">Povolit Caller ID</string>
 </resources>
