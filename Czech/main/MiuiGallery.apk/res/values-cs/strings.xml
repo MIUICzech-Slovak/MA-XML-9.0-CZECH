@@ -645,8 +645,8 @@
   <string name="picker_mobile_data_video">Nelze stáhnout videa přes mobilní data, přeskočeno %d.</string>
   <string name="picker_no_network_message">Síť není dostupná. Připojte se k síti a zkuste to znovu.</string>
   <string name="picker_origin_need_download">%1$d vybraných není v zařízení (%2$dMB), stáhnout přes mobilní data?</string>
-  <string name="picker_title_format">Vyberte %1$d do %2$d obrázků</string>
-  <string name="picker_title_selection_format">%d vybráno</string>
+  <string name="picker_title_format">Vyberte %1$d až %2$d obrázky</string>
+  <string name="picker_title_selection_format">Vybráno: %d</string>
   <string name="picker_title_unlimit">vyberte obrázek</string>
   <string name="posterize">Posterizovat</string>
   <string name="preparing_data">Zpracovávání dat...</string>

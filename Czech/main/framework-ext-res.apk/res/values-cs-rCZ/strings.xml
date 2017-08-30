@@ -159,5 +159,8 @@
    <string name="miui_screen_ratio_hint_dont_show_again">Znovu nezobrazovat</string>
    <string name="miui_screen_ratio_hint_go_to_settings">Jděte to Nastavení</string>
    <string name="miui_screen_ratio_hint_message">Tato aplikace má povolený běh v režimu na celou obrazovku, což může způsobit její nesprávné zobrazení. Můžete to změnit v Nastavení - Další nastavení - Tlačítka.</string>
-   <string name="miui_screen_ratio_hint_ok">OK</string>  
+   <string name="miui_screen_ratio_hint_ok">OK</string>
+   <string name="switch_brand_desc_tv">Zabezpečení je poskytováno Graphite</string>
+   <string name="switch_desc_tv">Dva profily. Jedno zařízení.</string>
+   <string name="switching_tv">Přepínání...</string>  
 </resources>

@@ -5029,4 +5029,15 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="suggest_unrestrict_max_aspect_ratio_title">Doporučit aktivování max. poměru stran</string>
    <string name="unrestrict_max_aspect_ratio_title">Podporovat max. poměru stran</string>
    <string name="popup_window">Povolit vyskakovací okna</string>
+   <string name="add_facerecoginition_text">Přidat tvář</string>
+   <string name="face_unlock_disable">Odemknutí tváří je vyp.</string>
+   <string name="face_unlock_enable">Odemknutí tváří je zap.</string>
+   <string name="fingerprint_first_open_screen_password_face_tittle">Biometrie (nejprve nastavte heslo)</string>
+   <string name="fingerprint_manage_tittle">Otisk prstu</string>
+   <string name="force_immersive_compatibility_dont_hide">Neskrývat</string>
+   <string name="force_immersive_compatibility_hide">Skrýt</string>
+   <string name="force_immersive_compatibility_hint_message">Některé aplikace nemusí pracovat správně, pokud skryteje tlačítka na displeji.</string>
+   <string name="force_immersive_compatibility_hint_title">Problémy s kompatibilitou</string>
+   <string name="manage_facerecoginition_text">Správovat tváře</string>
+   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Po deaktivaci hesla zamykací obrazovky se vymaže i nastavení vašich otisků.</string>
 </resources>
