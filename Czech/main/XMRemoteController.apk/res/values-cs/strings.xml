@@ -107,7 +107,7 @@
   <string name="cancel_share">Ukončit sdílení</string>
   <string name="cancel_share_done">Sdílení ukončeno</string>
   <string name="cancel_timer">Zrušení časovače</string>
-  <string name="cannot_be_used_in_current_mode">V aktuálním režimu nelze &lt;%1$s &gt; použít</string>
+  <string name="cannot_be_used_in_current_mode">V aktuálním režimu nelze %1$s použít</string>
   <string name="carrier_data">Operátor</string>
   <string name="catalyst_debugjs">Debug JS</string>
   <string name="catalyst_element_inspector">Prozkoumat prvek</string>
@@ -264,7 +264,7 @@
   <string name="gamepad_rule">V režimu Gamepad nelze použít orientaci na šířku</string>
   <string name="gesture_pad_first_line_tips">Pomocí tlačítek hlasitosti na vašem zařízení nastavte hlasitost</string>
   <string name="gesture_pad_orietaion_tips">Potáhněte prstem v libovolném směru. Klepnutím potvrďte.</string>
-  <string name="gesture_pad_sencond_line_tips">· Klepněte na &amp;a podržte prst ve středu obrazovky pro otevření nabídky. Posunutím nahoru nebo dolů pak upravte hlasitost.</string>
+  <string name="gesture_pad_sencond_line_tips">· Klepněte na a podržte prst ve středu obrazovky pro otevření nabídky. Posunutím nahoru nebo dolů pak upravte hlasitost.</string>
   <string name="gesture_pad_vol_tips">Pomocí tlačítek hlasitosti telefonu nastavte hlasitost na připojeném zařízení</string>
   <string name="get_backup_failed">Opravení selhalo, zkuste to znovu</string>
   <string name="get_backup_succeed">Obnovení úspěšně dokončeno. Celkem: %1$d | Stávající: %2$d | Obnoveno: %3$d</string>
@@ -293,7 +293,7 @@
   <string name="increase">Nahoru</string>
   <string name="input_complete">Hotovo</string>
   <string name="input_source">Vstupní zdroj</string>
-  <string name="input_speech_button">Podržte &amp; a nahrajte hlasový příkaz</string>
+  <string name="input_speech_button">Podržte a nahrajte hlasový příkaz</string>
   <string name="install">Nainstalovat</string>
   <string name="install_failed">Nelze nainstalovat %s</string>
   <string name="install_peel_content">Nainstalujte Peel Mi Ovladač pro použití TV průvodce</string>
@@ -470,7 +470,7 @@
   <string name="my_favorite">Oblíbené</string>
   <string name="my_notification">Oznámení</string>
   <string name="my_room">Můj pokoj</string>
-  <string name="my_room_underline">&lt;u&gt;M&amp;#367;j pokoj&lt;/u&gt;</string>
+  <string name="my_room_underline">Můj pokoj</string>
   <string name="my_setting">Nastavení</string>
   <string name="nearby">Zařízení v okolí</string>
   <string name="network_diagnosis">Kontrola sítě</string>
@@ -533,7 +533,7 @@
   <string name="press_to_continue_match">Pokračovat</string>
   <string name="press_to_match">Párovat</string>
   <string name="prev_remote">Předchozí ovladač</string>
-  <string name="privacy_content">Před použitím Mi Ovladače si prosím přečtěte &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;Z&amp;#225;sady ochrany osobn&amp;#237;ch &amp;#250;daj&amp;#367;&lt;/a&gt; a &lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Pravidla pro u&amp;#382;ivatele&lt;/a&gt; Xiaomi. Pro spr&amp;#225;vnou funk&amp;#269;nost aplikace je vy&amp;#382;adov&amp;#225;n p&amp;#345;&amp;#237;stup k internetu a ur&amp;#269;ov&amp;#225;n&amp;#237; va&amp;#353;&amp;#237; polohy.</string>
+  <string name="privacy_content">Před použitím Mi Ovladače si prosím přečtěte Zásady ochrany osobních údajů a Pravidla pro uživatele Xiaomi. Pro správnou funkčnost aplikace je vyžadován přístup k internetu a určování vaší polohy.</string>
   <string name="privacy_nohit">Příště nezobrazovat</string>
   <string name="privacy_title">Podmínky používání</string>
   <string name="projection_failed_for_disconnect">Žádné připojené zařízení</string>
@@ -700,7 +700,7 @@ přímo z vaší zamykací obrazovky"</string>
   <string name="timer_turn_off">Plánovaný čas vypnutí</string>
   <string name="timer_turn_on">Plánovaný čas zapnutí</string>
   <string name="title_nodata_feedback">Nelze získat info o zařízení</string>
-  <string name="to_be_used_in_these_modes">&lt;%1$s &gt; lze použít pouze v režimu %2$s</string>
+  <string name="to_be_used_in_these_modes">%1$s lze použít pouze v režimu %2$s</string>
   <string name="to_qq">Otevřete QQ a připojte se k naší skupině</string>
   <string name="to_qq_maintext">Připojte se k naší QQ skupině a zašlete nám váš názor.</string>
   <string name="to_qq_subtext">QQ skupina: 532652329</string>
