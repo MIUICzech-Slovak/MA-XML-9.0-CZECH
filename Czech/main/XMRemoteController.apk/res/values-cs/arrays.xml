@@ -1,73 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-    </string-array>
-    <string-array name="app_detail_tabs">
-        <item>Podrobnosti</item>
-        <item>Komentovat</item>
-    </string-array>
     <string-array name="ac_mode_array">
         <item>Chlazení</item>
-        <item>Vyhřívání</item>
+        <item>Topení</item>
         <item>Odvlhčování</item>
         <item>Ventilátor</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Vaše zařízení je pomocí Wi-Fi možné spárovat pouze s Mi TV, Mi Box a několika dalšími Android zařízeními.</item>
+        <item>Ujistěte se, že jste vybrali správný model klimatizace v procesu párování. Postupujte podle pokynů na vašem zařízení, dokud nebude párování dokončeno.</item>
+        <item>Bohužel ne. Momentálně lze jako infračervený ovladač použít pouze Mi 4, Mi 4c a Redmi Note 2.</item>
     </string-array>
     <string-array name="epg_week_tab">
         <item>Ne</item>
@@ -77,5 +19,10 @@
         <item>Čt</item>
         <item>Pá</item>
         <item>So</item>
+    </string-array>
+    <string-array name="question">
+        <item>Proč můj telefon pokračuje v hledání bezdrátových zařízení?</item>
+        <item>Proč mohu klimatizaci jen zapnout, ale již ji nelze vypnout?</item>
+        <item>Mohu používat Mi 3, Mi 2 a Redmi jako infračervený ovladač?</item>
     </string-array>
 </resources>
