@@ -116,4 +116,11 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
   <string name="sync_notification_title_format">Synchronizace: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
+  <string name="agree">Souhlasím</string>
+   <string name="phone_get_processing">Načítání...</string>
+   <string name="phone_get_text">Souhlasím s %1$s pro použití vašeho telefonního čísla: %2$s</string>
+   <string name="phone_get_title">Souhlasím s %1$s pro použití vašeho telefonního čísla</string>
+   <string name="phone_verify_processing">Ověřování...</string>
+   <string name="phone_verify_text">%1$s nepoužije vaše telefonní číslo, pouze jej ověří.</string>
+   <string name="phone_verify_title">Souhlasím s %1$s pro ověření vašeho telefonního čísla</string>
 </resources>
