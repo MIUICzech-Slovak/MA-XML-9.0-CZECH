@@ -962,5 +962,13 @@ Postupujte dle pokynů"</item>
          <item>Zobrazit jen na zamykací obrazovce a v roletce</item>
          <item>Zobrazit vždy</item>
          <item>Nezobrazovat</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_primary_mi3">
+         <item>CPU</item>
+         <item>Baterie</item>
+         <item>Fotoaparát</item>
+         <item>Displej</item>
+         <item>Rozlišení</item>
+         <item>Android</item>
      </string-array>			
 </resources>

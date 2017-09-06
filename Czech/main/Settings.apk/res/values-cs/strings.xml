@@ -5068,4 +5068,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="show_menu">Zobrazit Menu</string>
    <string name="three_gesture_down">Potáhnutí třemi prsty</string>
    <string name="turn_on_torch">Spustit svítilnu</string>
+   <string name="bug_report_settings">Hlášení chyb</string>
+   <string name="search_input_hint">Nastavení vyhledávání</string>
+   <string name="spellchecker_switch_title">Povolit kontrolu pravopisu</string>
 </resources>

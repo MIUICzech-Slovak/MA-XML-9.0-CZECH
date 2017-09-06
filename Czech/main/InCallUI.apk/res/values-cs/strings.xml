@@ -254,4 +254,5 @@
    <string name="card_title_answering_fail">Nelze přijmout hovor, zkuste to znovu.</string>
    <string name="card_title_hanging_up_fail">Nelze ukončit hovor, zkuste to znovu.</string>
    <string name="package_not_available">\"%s\" není dostupné</string>
+   <string name="card_title_answering_time_out">Nelze přijmout hovor, zkuste to znovu.</string>
 </resources>
