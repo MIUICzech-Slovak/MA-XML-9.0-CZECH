@@ -2584,4 +2584,5 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="background_restrict_app_dialog_message">Zákaz použití mobilních dat na pozadí pro tuto aplikaci může znamenat její nesprávnou funkčnost. Chcete zakázat data na pozadí?</string>
   <string name="menu_report">Nahlásit chybu</string>
   <string name="access_control_app_is_launching">Apl. se spouští</string>
+   <string name="button_text_forbid_now">Zapomenout</string>
 </resources>

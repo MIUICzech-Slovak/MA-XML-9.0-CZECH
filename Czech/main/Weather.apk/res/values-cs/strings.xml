@@ -167,4 +167,5 @@ Zadejte město manuálně"</string>
    <string name="update_night_setting_title_text">Aktualizace v noci</string>
    <string name="update_setting_title_text">Nastavení aktualizace</string>
    <string name="your_location">Vaše poloha</string>
+   <string name="hourly_forecast_date">d.M.</string>
 </resources>

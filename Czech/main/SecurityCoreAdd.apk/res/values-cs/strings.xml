@@ -286,4 +286,24 @@ Můžete je i znovu stáhnout."</string>
    <string name="gms_title">Povolit Google služby</string>
    <string name="gpg_message">Vytvoření klonované aplikace z her vyžaduje Google Play Hry. Vytvořit klonovanou aplikaci pro Google Play Hry?</string>
    <string name="gpg_title">Google Play Hry</string>
+    <string name="create_second_space">Vytvořeno</string>
+   <string name="guide_start_ads_text">Kompletně nová úrověň zabezpečení</string>
+   <string name="guide_start_text">Dva profily, jedno zařízení.</string>
+   <string name="has_created_second_space">"Nyní můžete otevřít druhý profil.
+ Jedno zařízení, dva profily."</string>
+   <string name="input_space_finger">Nastavit</string>
+   <string name="input_space_password">Nastavit</string>
+   <string name="privacy_password_fingerprint_dialog_message">Přiložte prst na senzor</string>
+   <string name="privacy_password_fingerprint_dialog_title">Načtěte svůj otisk prstu</string>
+   <string name="set_space_finger">Nastavit otisk prstu</string>
+   <string name="set_space_finger_sub_text_suc">Otisk je nastaven</string>
+   <string name="set_space_password">Nastavit heslo</string>
+   <string name="show_decktop_quick_switch_icon">Zkratka na domácí ploše</string>
+   <string name="show_decktop_quick_switch_icon_detail">Zobrazit zkratku pro přepnutí profilu na domácí obrazovce</string>
+   <string name="show_noti_from_owner">Upozornění z druhého profilu</string>
+   <string name="show_noti_from_owner_detail">Dostávat upozornění v současném profilu z druhého profilu</string>
+   <string name="show_noti_quick_switch_icon">Zkratka v roletce</string>
+   <string name="show_noti_quick_switch_icon_detail">Zobrazit zkratku pro přepnutí profilu v roletce</string>
+   <string name="skip">Přeskočit</string>
+   <string name="space_finger_sub_text">Nastavte otisk prstu pro rychlejší přepnutí do druhého profilu</string>
 </resources>
