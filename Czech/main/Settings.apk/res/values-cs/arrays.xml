@@ -970,5 +970,15 @@ Postupujte dle pokynů"</item>
          <item>Displej</item>
          <item>Rozlišení</item>
          <item>Android</item>
-     </string-array>			
+     </string-array>	
+    <string-array name="check_importance_entries">
+        <item>Doporučené</item>
+        <item>Důležité</item>
+        <item>Nedůležité</item>
+    </string-array>	
+    <string-array name="check_importance_summary">
+        <item>Inteligentní úsudek. Méně důležité upozornění budou seřazeny do složky.</item>
+        <item>Upozornění budou zobrazeny přímo v roletce</item>
+        <item>Všechna upozornění budou seřazeny do složky</item>
+     </string-array>		 
 </resources>
