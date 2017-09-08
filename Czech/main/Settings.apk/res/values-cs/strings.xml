@@ -5074,6 +5074,4 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="check_importance">Zkontrolovat důležitost</string>
   <string name="statusbar_permission_desc">Oprávnění jsou dostupné pouze pro důležité upozornění</string>
   <string name="unimportant">Nedůležité</string>   
-  <string name="key_position_cat">Rozložení tlačítek</string>
-  <string name="screen_key_position">Navigační tlačítka</string>
 </resources>
