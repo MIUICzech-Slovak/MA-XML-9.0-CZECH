@@ -980,5 +980,9 @@ Postupujte dle pokynů"</item>
         <item>Inteligentní úsudek. Méně důležité upozornění budou seřazeny do složky.</item>
         <item>Upozornění budou zobrazeny přímo v roletce</item>
         <item>Všechna upozornění budou seřazeny do složky</item>
-     </string-array>		 
+     </string-array>
+    <string-array name="screen_key_position_action">
+        <item>Menu vlevo, Zpět vpravo</item>
+        <item>Zpět vlevo, Menu vpravo</item>
+    </string-array>			 
 </resources>
