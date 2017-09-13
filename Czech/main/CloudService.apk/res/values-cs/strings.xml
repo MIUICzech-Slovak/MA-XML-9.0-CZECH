@@ -553,4 +553,5 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
    <string name="micloud_find_device_verify_close">Deaktivovat vyhledávání zařízení</string>
    <string name="micloud_find_device_verify_fail">Nelze reaktivovat</string>
    <string name="micloud_find_device_verify_progress">Reaktivace...</string>
+   <string name="sync_dspt_entrance_provision_network">Tato aplikace vyžaduje připojení k síti pro její správnou funkčnost.</string>
 </resources>

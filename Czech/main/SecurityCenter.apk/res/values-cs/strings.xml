@@ -2585,4 +2585,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="menu_report">Nahlásit chybu</string>
   <string name="access_control_app_is_launching">Apl. se spouští</string>
    <string name="button_text_forbid_now">Zapomenout</string>
+    <string name="network_test_speed">Otestovat rychlost Wi-Fi</string>
 </resources>

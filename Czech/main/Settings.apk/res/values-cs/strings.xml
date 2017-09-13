@@ -5073,5 +5073,24 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="spellchecker_switch_title">Povolit kontrolu pravopisu</string>
   <string name="check_importance">Zkontrolovat důležitost</string>
   <string name="statusbar_permission_desc">Oprávnění jsou dostupné pouze pro důležité upozornění</string>
-  <string name="unimportant">Nedůležité</string>   
+  <string name="unimportant">Nedůležité</string> 
+  <string name="add_back_fingerprint_instruction_msg">Přiložte prst na senzor</string>
+   <string name="add_fingerprint_edge_instruction_msg">Pohněte prstem tak, aby senzor zaznamenal i kraje prstu.</string>
+   <string name="add_fingerprint_edge_instruction_title">Jemně pohněte prstem</string>
+   <string name="add_front_fingerprint_instruction_msg">Senzor je na zadní straně vašeho zařízení.</string>
+   <string name="setup_add_fingerprint_failed_retry_text">Nelze přidat ostisk</string>
+   <string name="setup_choose_unlock_fingerprint_msg">Nastavte odemykání před přidáním otisku prstu.</string>
+   <string name="setup_choose_unlock_mixed_password_color_normal">Heslo</string>
+   <string name="setup_choose_unlock_mixed_password_color_pressed">Heslo</string>
+   <string name="setup_choose_unlock_mixpassword_title">Nastavit heslo</string>
+   <string name="setup_choose_unlock_password_color_normal">PIN</string>
+   <string name="setup_choose_unlock_password_color_pressed">PIN</string>
+   <string name="setup_choose_unlock_password_msg">Zadejte 4 čísla</string>
+   <string name="setup_choose_unlock_password_title">Nastavit PIN</string>
+   <string name="setup_choose_unlock_pattern_color_normal">Vzor</string>
+   <string name="setup_choose_unlock_pattern_color_pressed">Vzor</string>
+   <string name="setup_choose_unlock_pattern_title">Nakreslete odemykací vzor</string>
+   <string name="setup_choose_unlock_type_title">Nastavit heslo</string>
+   <string name="setup_password_back">Zpět</string>
+   <string name="setup_password_confirm">OK</string>  
 </resources>

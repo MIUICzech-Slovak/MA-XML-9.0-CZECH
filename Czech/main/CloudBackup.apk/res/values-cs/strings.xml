@@ -122,4 +122,5 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="start_recover">Obnovit %s</string>
   <string name="success_open_cloudbackup">Povolena záloha pro rozložení plochy a apl.</string>
   <string name="wait_icon_download">Stahování ikony aplikace</string>
+  <string name="restore_data_title">Obnovit data</string>
 </resources>
