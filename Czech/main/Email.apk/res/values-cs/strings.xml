@@ -903,4 +903,15 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
    <string name="search_bar_text">Vyhledat e-mail, odesílatele</string>
    <string name="topic_merge_summary">Režim zobrazení ve vlákně</string>
    <string name="update_to_wps_mail">Pro více možností nainstalujte WPS-mail</string>
+   <string name="account_setup_basics_login_gmail_without_proxy">Použít aktuální připojení</string>
+   <string name="default_signature_2">Odesláno z mého %s</string>
+   <string name="oauth_login_usr_proxy">Proxy přihlášení</string>
+   <string name="open_calendar_and_contacts_permission">Povolte práva k používání Kalendáře a Kontaktů v nastaveních</string>
+   <string name="open_external_storage_and_calendar_permission">Povolte práva k používání Kalendáře a úložiště v nastaveních</string>
+   <string name="open_external_storage_and_contacts_and_calendar_permission">Povolte práva k používání Kalendáře, Kontaktů a úložiště v nastaveních</string>
+   <string name="open_external_storage_and_contacts_permission">Povolte práva k používání Kontaktů a úložiště v nastaveních</string>
+   <string name="sync_contacts_fail_per_content">Povolte práva ke Kontaktům</string>
+   <string name="sync_contacts_fail_per_title">Synchronizace kontaktů selhala</string>
+   <string name="sync_contacts_fail_permission">Synchronizace kontaktů selhala. Povolte práva ke Kontaktům v nastaveních.</string>
+   <string name="sync_contacts_req_per_ignored">Synchronizace kontaktů selhala</string>
 </resources>

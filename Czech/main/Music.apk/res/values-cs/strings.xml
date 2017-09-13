@@ -281,6 +281,7 @@
   <string name="local_header_title">Lokální hudba</string>
   <string name="toast_new_playlist_name_no_enter">"tlačítko 'Enter' bylo vymazáno"</string>
   <string name="toast_new_playlist_name_too_long">Název Playlistu je příliš dlouhý</string>
+  <string name="no_system_cropper_find">Systém neobsahuje funkci ořezání obrázků</string>
   <string name="lyric">Text</string>
   <string name="lyric_is_empty">Text není dostupný!</string>
   <string name="lyric_open_other_connect">Stahovat text pomocí mobilního připojení k internetu.</string>
