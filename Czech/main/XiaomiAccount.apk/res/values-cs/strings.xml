@@ -481,4 +481,8 @@ Zkontrolujte také složku SPAM."</string>
    <string name="find_device_message">Zařízení je uzamčeno, zpráva: %1$s, telefon: %2$s.</string>
    <string name="find_device_owner_phone">Zařízení je uzamčeno, telefon: %1$s.</string>
    <string name="find_device_prompt_message">Zařízení je uzamčeno, zpráva: %1$s.</string>
+   <string name="passport_no">Ne</string>
+   <string name="passport_quick_register">Přihlásit</string>
+   <string name="passport_set_password_no_phone_msg">Pokud chcete chránit svá data, nastavte heslo.</string>
+   <string name="passport_yes">Ano</string>
 </resources>

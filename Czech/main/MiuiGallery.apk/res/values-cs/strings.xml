@@ -1051,7 +1051,7 @@
    <string name="photo_editor_beautify">Zkrášlit</string>
    <string name="photo_editor_beautify_auto">Auto</string>
    <string name="photo_editor_beauty_compare">Originál</string>
-   <string name="photo_editor_crop_and_rotate">Ořezat a otočit</string>
+   <string name="photo_editor_crop_and_rotate">Ořezat</string>
   <string name="photo_editor_crop_reset">Obnovit</string>
    <string name="photo_editor_doodle">Doodle</string>
    <string name="photo_editor_filter">Filtr</string>
