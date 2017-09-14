@@ -295,4 +295,5 @@
   <string name="screen_overlay_button">Otevřít nastavení</string>
   <string name="screen_overlay_message">Pro změnu nastavení tohoto povolení, musíte nejprve vypnout překrytí displeje v Nastavení &gt; Aplikace</string>
   <string name="screen_overlay_title">Zjištěno překrytí displeje</string>
+  <string name="permission_warning_template_ask">Povolit %1$s tato oprávnění?</string>
 </resources>

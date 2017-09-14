@@ -981,4 +981,10 @@ Postupujte dle pokynů"</item>
         <item>Upozornění budou zobrazeny přímo v roletce</item>
         <item>Všechna upozornění budou seřazeny do složky</item>
      </string-array>
+    <string-array name="vip_mode_text">
+        <item>Od všech</item>
+        <item>Pouze od kontaktů</item>
+        <item>Pouze od oblíbených kontaktů</item>
+        <item>Žádný</item>
+    </string-array>	 
 </resources>
