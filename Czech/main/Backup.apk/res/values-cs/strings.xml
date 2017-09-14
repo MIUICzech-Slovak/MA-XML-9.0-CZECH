@@ -350,4 +350,12 @@ a Přenos je povolen"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
+   <string name="notif_trans_wait_for_reconnecting">Vzdálené zařízení je odpojeno. Připojte jej znovu.</string>
+   <string name="reconnect">Připojit znovu</string>
+   <string name="trans_connect_failed_device_incompatible">Zařízení není kompatibilní. Zruště přenos a zkuste to znovu.</string>
+   <string name="trans_device_wait_for_reconnecting">Zařízení je odpojeno. Připojte jej znovu.</string>
+   <string name="trans_operate_reconnect_new_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
+ Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>
+   <string name="trans_operate_reconnect_old_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
+ Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>  
 </resources>
