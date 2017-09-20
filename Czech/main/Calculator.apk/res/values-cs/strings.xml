@@ -329,4 +329,5 @@
 má velikost: %2$s"</string>
 <string name="xiaomi_update_dialog_message_diff">"Uvedená verze %1$s
 Delta aktualizace má velikost: %2$s"</string>
+<string name="global_network_confirm_content">Výpočet daní, kurzů měn a hypotéky vyžaduje stažení dat přes internetové připojení</string>
 </resources>
