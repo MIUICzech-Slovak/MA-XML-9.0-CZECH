@@ -2586,4 +2586,15 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="access_control_app_is_launching">Apl. se spouští</string>
    <string name="button_text_forbid_now">Zapomenout</string>
     <string name="network_test_speed">Otestovat rychlost Wi-Fi</string>
+    <string name="pref_special_package_setting">Upravit datový balíček</string>
+   <string name="pref_special_package_setting_summary">Spravovat denní limit dat, navýšení a sledování spotřeby dat aplikací</string>
+   <string name="pref_over_traffic_limit">Po překročení balíčku</string>
+   <string name="pref_category_extra_package_tile">Navýšení balíčku dat</string>
+   <string name="pref_key_extra_package_value">Velikost balíčku</string>
+   <string name="pref_key_half_year_package_value">Velikost balíčku</string>
+   <string name="pref_category_daily_package_tile">Denní objem dat</string>
+   <string name="pref_key_daily_package_switch">Denní objem dat</string>
+   <string name="pref_key_daily_package_value">Denní objem dat</string>
+   <string name="pref_key_daily_package_summary">Denní obnovení datového balíčku</string>
+   <string name="pref_key_direction_traffic">Ignorovat spotřebu dat</string>
 </resources>
