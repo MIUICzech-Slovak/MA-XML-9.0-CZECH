@@ -64,4 +64,8 @@
          <item quantity="other">Pokračovat v synchr. za %d minut</item>
          <item quantity="one">Pokračovat v synchr. za %d minutu</item>
      </plurals>	
+     <plurals name="dirty_secretphoto_count">
+         <item quantity="other">Skryté fotografie (%d) nejsou synchronizované. Odhlaste se po dokončení synchronizace, aby nebyly vymazány.</item>
+         <item quantity="one">Skrytá fotografie (%d) není synchronizovaná. Odhlaste se po dokončení synchronizace, aby nebyla vymazána.</item>
+     </plurals>
 </resources>
