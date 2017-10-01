@@ -123,7 +123,7 @@ Ujistěte se, že váš prst pokryje střed senzoru"</string>
   <string name="add_fingerprint_instruction_msg">Odemkněte vaše zařízení nebo ověřte platbu otiskem prstu</string>
   <string name="add_fingerprint_instruction_title">Položte prst na senzor</string>
   <string name="add_fingerprint_move_finger_title">Oddalte prst</string>
-  <string name="add_fingerprint_name_suggest_text">Názov odtlačku</string>
+  <string name="add_fingerprint_name_suggest_text">Název otisku</string>
   <string name="add_fingerprint_put_finger_edge_msg">Po přitlačení na senzor oddalte prst a opakujte znovu.</string>
   <string name="add_fingerprint_put_finger_msg">Po přitlačení na senzor oddalte prst a opakujte znovu.</string>
   <string name="add_fingerprint_put_finger_title">Přiložte a oddalte prst</string>
