@@ -29,6 +29,8 @@
   <string name="all">Vše</string>
   <string name="all_ep">Všechny ep.</string>
   <string name="all_episode">All Episodes</string>
+  <string name="app_charging_wifi_mode">Aktualizovat aplikaci při nabíjení</string>
+  <string name="app_charging_wifi_mode_summary">Automaticky aktualizovat aplikaci při připojení k síti WLAN a při nabíjení</string>
   <string name="app_latest_version">Již máte nejnovější verzi aplikace</string>
   <string name="app_name">MiVideo</string>
   <string name="app_plugin_ready">%1$s komentář je připraven</string>
@@ -43,6 +45,7 @@
   <string name="average_score">Hodnocení</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
+  <string name="bmp_quality_mode_desc">Zlepšit obrazovou kvalitu videa</string>
   <string name="buffering">Načítání...</string>
   <string name="buffering_video_netplay_label_v5">Načítání...</string>
   <string name="cancel">Zrušit</string>
@@ -427,7 +430,4 @@
   <string name="xiaomi_user">Mi uživatel</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-<string name="app_charging_wifi_mode">Aktualizovat aplikaci při nabíjení</string>
-<string name="app_charging_wifi_mode_summary">Automaticky aktualizovat aplikaci při připojení k síti WLAN a při nabíjení</string>
-<string name="bmp_quality_mode_desc">Zlepšit obrazovou kvalitu videa</string>
 </resources>

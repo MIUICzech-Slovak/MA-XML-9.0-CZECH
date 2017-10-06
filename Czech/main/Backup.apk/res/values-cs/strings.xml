@@ -157,6 +157,7 @@
   <string name="notif_trans_receiving_failed">Příjem dat selhal</string>
   <string name="notif_trans_sending_completed">Data úspěšně odeslána</string>
   <string name="notif_trans_sending_failed">Odeslání dat selhalo</string>
+  <string name="notif_trans_wait_for_reconnecting">Vzdálené zařízení je odpojeno. Připojte jej znovu.</string>
   <string name="page_loading">Načítání...</string>
   <string name="progress_backup_hint">Zálohování dat...</string>
   <string name="progress_restore_hint">Obnovování dat...</string>
@@ -164,6 +165,7 @@
   <string name="prompt_sending">Odesílání...</string>
   <string name="prompt_writing">Zálohování...</string>
   <string name="read_encrypt_fail">Šifrování se nezdařilo</string>
+  <string name="reconnect">Připojit znovu</string>
   <string name="refresh">Obnovit</string>
   <string name="remote_receive">Přijmout</string>
   <string name="restore">Obnovení</string>
@@ -254,6 +256,7 @@
   <string name="trans_calculating_base_size">Výpočet velikosti aplikací</string>
   <string name="trans_cancel_confirm">Probíhá přenos, chcete jej zastavit?</string>
   <string name="trans_cancelling">Ukončování...</string>
+  <string name="trans_connect_failed_device_incompatible">Zařízení není kompatibilní. Zruště přenos a zkuste to znovu.</string>
   <string name="trans_connect_failed_message">Připojení selhalo, zkuste to znovu nebo restartujte. Na druhém zařízení jděte do Nastavení &gt; Další nastavení &gt; Přesun do nového zařízení, Stiskněte [Jsem odesílatel], nebo spusťte přesun znovu po restartu</string>
   <string name="trans_connect_failed_title">Připojení selhalo</string>
   <string name="trans_connect_failed_toast">Nelze se připojit</string>
@@ -264,6 +267,7 @@
   <string name="trans_detail_category_sysdata">Systémová data</string>
   <string name="trans_detail_category_userdata">Apl.</string>
   <string name="trans_device_disconnected">Zařízení odpojeno</string>
+  <string name="trans_device_wait_for_reconnecting">Zařízení je odpojeno. Připojte jej znovu.</string>
   <string name="trans_generate_qr_code_failed">Nelze vytvořit QR kód</string>
   <string name="trans_main_tutor">Přesuňte kontakty, historii hovorů, zprávy, nastavení plochy, aplikace, nastavení, atd. do nového zařízení.</string>
   <string name="trans_my_device">Mé zařízení</string>
@@ -281,6 +285,10 @@ a stiskněte [Jsem příjemce] pro vytvoření QR kódu"</string>
   <string name="trans_operate_old_phone_tips2">"Metoda B
 Nastavení &gt; Další nastavení &gt; Přesun do nového zařízení
 a stiskněte [Jsem odesílatel]"</string>
+  <string name="trans_operate_reconnect_new_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
+ Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>
+  <string name="trans_operate_reconnect_old_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
+ Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>
   <string name="trans_please_waiting">Čekejte prosím...</string>
   <string name="trans_progress_subdescript_br_receiver">Obnovení %1$s, %2$s dokončeno</string>
   <string name="trans_progress_subdescript_br_sender">Zálohování %1$s, %2$s dokončeno</string>
@@ -350,12 +358,4 @@ a Přenos je povolen"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
-   <string name="notif_trans_wait_for_reconnecting">Vzdálené zařízení je odpojeno. Připojte jej znovu.</string>
-   <string name="reconnect">Připojit znovu</string>
-   <string name="trans_connect_failed_device_incompatible">Zařízení není kompatibilní. Zruště přenos a zkuste to znovu.</string>
-   <string name="trans_device_wait_for_reconnecting">Zařízení je odpojeno. Připojte jej znovu.</string>
-   <string name="trans_operate_reconnect_new_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
- Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>
-   <string name="trans_operate_reconnect_old_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
- Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>  
 </resources>

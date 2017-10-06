@@ -23,6 +23,7 @@
   <string name="add_contact_dlg_message_fmt">Přidat \"%s\" do kontaktů?</string>
   <string name="add_display_photo_entry">Přidat fotografii</string>
   <string name="add_field">Přidat další položku</string>
+  <string name="add_field_toast">Žádné položky na přidání.</string>
   <string name="add_incall_show_entry">Přidat video</string>
   <string name="add_new_account">Přidat nový účet</string>
   <string name="add_new_entry_for_section">Přidat nový</string>
@@ -857,6 +858,7 @@ Synchronizujte je nyní."</string>
   <string name="openDialKeyboard">Číselník</string>
   <string name="open_contact">Zobrazit kontakt</string>
   <string name="open_dial_pad_description">Otevřít číselník</string>
+  <string name="option_delete_batch_contacts">Vymazat více najednou</string>
   <string name="option_delete_contact">Vymazat</string>
   <string name="option_delete_group">Vymazat</string>
   <string name="option_edit_contact">Upravit</string>
@@ -960,6 +962,7 @@ Synchronizujte je nyní."</string>
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Importovat/Exportovat kontakty</string>
   <string name="preference_key_trash_bin_title">Prohledat zálohované kontakty, které byly nedávno vymazány.</string>
+  <string name="preference_other">Ostatní</string>
   <string name="preference_others">Ostatní</string>
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Další nastavení telefonu</string>
@@ -987,7 +990,6 @@ Synchronizujte je nyní."</string>
   <string name="profileSavedErrorToast">Nelze uložit změny</string>
   <string name="profileSavedToast">Změny nebyly uloženy</string>
   <string name="profile_delete_toast">Profil vymazán</string>
-  <string name="option_delete_batch_contacts">Vymazat více najednou</string>
   <string name="profile_display_name">Nastavit můj profil</string>
   <string name="profile_name">Můj profil</string>
   <string name="profile_name_photo">Fotografie</string>
@@ -1078,7 +1080,9 @@ Synchronizujte je nyní."</string>
   <string name="search_wipe_data">Organize;Contacts</string>
   <string name="searching_vcard_message">Vyhledávání dat karty vCard na kartě SD</string>
   <string name="select_all">Vybrat vše</string>
+  <string name="select_all_exceed">Vyberte maximálně %1$d, ne vše</string>
   <string name="select_done">Není třeba vybírat více</string>
+  <string name="select_exceed">Vyberte maximálně %1$d</string>
   <string name="select_groups">Zvolit skupinu</string>
   <string name="select_none">Nic není vybráno, operace je neplatná</string>
   <string name="select_show_contacts">Zobrazit kontakt</string>
@@ -1123,6 +1127,7 @@ Synchronizujte je nyní."</string>
   <string name="sim_error_password_error">Nesprávné heslo.</string>
   <string name="sim_error_storage_full">Úložiště je plné.</string>
   <string name="sim_error_text_too_long">Jméno je příliš dlouhé.</string>
+  <string name="sim_export_error">SIM není připravena, zkuste to znovu</string>
   <string name="sim_export_loading">Informace o SIM kartě se načítají. Tato operace může trvat déle.</string>
   <string name="sim_indexed_contact_not_exist" formatted="false">Pozice %1$d na SIM kartě není platná, měla by být mezi %2$d a %3$d</string>
   <string name="sim_no_contact">Žádné kontakty na SIM kartě</string>
@@ -1175,6 +1180,10 @@ Synchronizujte je nyní."</string>
   <string name="strequentList">Oblíbené</string>
   <string name="success_message_import_from_account">Import byl úspěšný</string>
   <string name="summary_kind_title">Souhrn</string>
+  <string name="t9_search_empty_create_contact">Nový kontakt</string>
+  <string name="t9_search_empty_edit_contact">Přidat do kontaktů</string>
+  <string name="t9_search_empty_send_sms">Odeslat SMS</string>
+  <string name="t9_search_empty_video_call">Video hovor</string>
   <string name="t9_search_guide_pinyin">Stiskněte 8 a 2 pro vyhledání Tchýně</string>
   <string name="t9_search_guide_pinyin_title1">Rychlé vyhledání kontaktu stiskem písmen</string>
   <string name="t9_search_guide_pinyin_title2">Stiskěte 2 nebo 3 pro vyhledání Anna Fialová</string>
@@ -1196,6 +1205,7 @@ Synchronizujte je nyní."</string>
   <string name="toast_for_saving_nickname">Přezdívka uložena</string>
   <string name="toast_join_with_empty_contact">Prosím, zadejte jméno kontaktu před spojením s dalším kontaktem.</string>
   <string name="toast_making_personal_copy">Vytvářím osobní kopii</string>
+  <string name="toast_start_intent_failed">Nebyla nalezena vhodná aplikace</string>
   <string name="toast_text_copied">Text zkopírován</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zítra</string>
@@ -1206,10 +1216,12 @@ Synchronizujte je nyní."</string>
   <string name="type_outgoing">Odchozí hovor</string>
   <string name="type_voicemail">Hlasová zpráva</string>
   <string name="unable_get_device_id">Nelze získat IMEI</string>
+  <string name="unfold_all">Rozbalit vše</string>
   <string name="unknow_phone_number_call_failed">Nelze volat na neznámé číslo.</string>
   <string name="unknow_phone_number_mms_failed">Nelze odeslat SMS na neznámé číslo.</string>
   <string name="unknown">Neznámý</string>
   <string name="unknown_contact_name">Neznámý kontakt</string>
+  <string name="unknown_details_new_contact">Nový kontakt</string>
   <string name="update_sim_contact_photo_toast">Pro kontakty na SIM kartě nelze nastavit fotografii</string>
   <string name="upgrade_in_progress">"Aktualizace seznamu kontaktů"</string>
   <string name="upgrade_out_of_memory">Proces aktualizace kontaktů. 
@@ -1283,16 +1295,4 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="preference_other">Ostatní</string>
-  <string name="unfold_all">Rozbalit vše</string>
-  <string name="unknown_details_new_contact">Nový kontakt</string>
-  <string name="t9_search_empty_create_contact">Nový kontakt</string>
-   <string name="t9_search_empty_edit_contact">Přidat do kontaktů</string>
-   <string name="t9_search_empty_send_sms">Odeslat SMS</string>
-   <string name="t9_search_empty_video_call">Video hovor</string> 
-   <string name="select_all_exceed">Vyberte maximálně %1$d, ne vše</string>
-   <string name="select_exceed">Vyberte maximálně %1$d</string>   
-   <string name="add_field_toast">Žádné položky na přidání.</string>
-   <string name="sim_export_error">SIM není připravena, zkuste to znovu</string>
-   <string name="toast_start_intent_failed">Nebyla nalezena vhodná aplikace</string>
 </resources>

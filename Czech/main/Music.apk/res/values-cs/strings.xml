@@ -208,11 +208,15 @@
   <string name="female_artist">Zpeváci</string>
   <string name="file_not_found">"Soubor neexistuje"</string>
   <string name="filter_by_duration">Filtrovat podle délky</string>
+  <string name="filter_by_duration_max">%d min.</string>
+  <string name="filter_by_duration_min">%d sek.</string>
   <string name="filter_by_duration_prefix">"Minimální délka: "</string>
   <string name="filter_by_duration_summary">Nezobrazovat krátké audio soubory</string>
   <string name="filter_by_folder">Filtrovat podle</string>
   <string name="filter_by_folder_summary">Zvolit složky ke zobrazení</string>
   <string name="filter_by_size">Filtrovat podle velikosti</string>
+  <string name="filter_by_size_max">%d MB</string>
+  <string name="filter_by_size_min">%d KB</string>
   <string name="filter_by_size_prefix">"Minimální velikost: "</string>
   <string name="filter_by_size_summary">Nezobrazovat malé audio soubory</string>
   <string name="find_music">Prohledat skladby</string>
@@ -266,6 +270,7 @@
   <string name="load_shuffle">Načítání...</string>
   <string name="loadercontainer_loading">Načítání...</string>
   <string name="loading_hint">Načítání...</string>
+  <string name="local_header_title">Lokální hudba</string>
   <string name="local_music">Offline</string>
   <string name="local_music_empty">Lokální playlist je prázdný</string>
   <string name="local_music_empty_goto_online">Žádné skladby</string>
@@ -278,10 +283,6 @@
   <string name="login_first">Přihlaste ke svému Mi účtu</string>
   <string name="lrc_search_failed">"Texty nebyly nalezeny!"</string>
   <string name="lrc_searching">Hledání textů...</string>
-  <string name="local_header_title">Lokální hudba</string>
-  <string name="toast_new_playlist_name_no_enter">"tlačítko 'Enter' bylo vymazáno"</string>
-  <string name="toast_new_playlist_name_too_long">Název Playlistu je příliš dlouhý</string>
-  <string name="no_system_cropper_find">Systém neobsahuje funkci ořezání obrázků</string>
   <string name="lyric">Text</string>
   <string name="lyric_is_empty">Text není dostupný!</string>
   <string name="lyric_open_other_connect">Stahovat text pomocí mobilního připojení k internetu.</string>
@@ -370,6 +371,7 @@
   <string name="no_scanned_songs">Prázdné</string>
   <string name="no_song">Žádné skladby</string>
   <string name="no_song_downloaded">Nelze stáhnout skladbu</string>
+  <string name="no_system_cropper_find">Systém neobsahuje funkci ořezání obrázků</string>
   <string name="normal_quality">Dobrá kvalita</string>
   <string name="not_login">Nepřihlášen</string>
   <string name="not_selected">Vyberte skladbu</string>
@@ -545,6 +547,8 @@
   <string name="title_search_history">Prohledat historii</string>
   <string name="title_search_hot">Horké</string>
   <string name="toast_cancel_play">Přehrávání zrušeno</string>
+  <string name="toast_new_playlist_name_no_enter">"tlačítko 'Enter' bylo vymazáno"</string>
+  <string name="toast_new_playlist_name_too_long">Název Playlistu je příliš dlouhý</string>
   <string name="today_update">Aktualizovaná Hudba</string>
   <string name="too_freq">Příliš častá operace</string>
   <string name="tos">Podmínky používání</string>
@@ -578,8 +582,4 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství.</string>
-<string name="filter_by_size_max">%d MB</string>
-<string name="filter_by_size_min">%d KB</string>
-<string name="filter_by_duration_min">%d sek.</string>
-<string name="filter_by_duration_max">%d min.</string>
 </resources>

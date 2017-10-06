@@ -5,6 +5,7 @@
   <string name="SMTP_username_text">Jméno</string>
   <string name="account_duplicate_dlg_message_fmt">"Toto uživatelské jméno již používáte pro účet „%s“</string>
   <string name="account_duplicate_dlg_title">Duplicitní účet</string>
+  <string name="account_failure">Chyba účtu</string>
   <string name="account_name_toast">Tento název již existuje</string>
   <string name="account_options_sync_title">Synchronizace</string>
   <string name="account_password_spaces_error">Toto heslo začíná nebo končí nejméně jednou mezerou. Většina serverů hesla s mezerami nepodporuje.</string>
@@ -41,6 +42,9 @@
   <string name="account_settings_notify_summary">Zobrazit oznámení, když přijde e-mail</string>
   <string name="account_settings_param">Nastavení účtu</string>
   <string name="account_settings_policies">Zásady zabezpečení</string>
+  <string name="account_settings_preference_add_account">Přidejte účet</string>
+  <string name="account_settings_preference_head_icon">Zobrazit avatary</string>
+  <string name="account_settings_preference_notify">Upozornění</string>
   <string name="account_settings_retry_label">Pokusit se synchronizovat</string>
   <string name="account_settings_retry_summary">Pokud chcete účet synchronizovat, dotkněte se tohoto tlačítka</string>
   <string name="account_settings_ringtone">Zvuk oznámení</string>
@@ -54,6 +58,7 @@
   <string name="account_settings_sync_email_summary">Synchronizovat e-maily pro tento účet</string>
   <string name="account_settings_unsupported_label">Zásady, které nejsou podporované</string>
   <string name="account_settings_unsupported_summary">Žádné</string>
+  <string name="account_settings_user_usage">Nastavení účtu</string>
   <string name="account_settings_using_ringtone">Přehrát zvuk</string>
   <string name="account_settings_vibrate_when_label">Vibrace</string>
   <string name="account_setup_account_type_instructions">O jaký typ účtu se jedná?</string>
@@ -62,6 +67,7 @@
   <string name="account_setup_autodiscover_dlg_authfail_message">Potvrďte, že uživatelské jméno, heslo a nastavení účtu jsou správné.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Problém s nastavením účtu</string>
   <string name="account_setup_basics_email_label">E-mailová adresa</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Použít aktuální připojení</string>
   <string name="account_setup_basics_manual_setup_action">Ruční nastavení</string>
   <string name="account_setup_basics_password_label">Heslo</string>
   <string name="account_setup_basics_title">Nastavení účtu</string>
@@ -114,6 +120,7 @@
   <string name="account_setup_incoming_username_label">Uživatelské jméno</string>
   <string name="account_setup_incoming_username_label_default_hint">Může obsahovat i doménu</string>
   <string name="account_setup_need_password_verification">Váš účet vyžaduje potvrzení hesla</string>
+  <string name="account_setup_options_actionbar_title">Běžné nastavení</string>
   <string name="account_setup_options_mail_check_frequency_10min">Každých 10 minut</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Každých 12 hodin</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Každou hodinu</string>
@@ -141,6 +148,8 @@
   <string name="account_setup_server_acc_manager_title">Správa účtů</string>
   <string name="account_setup_username_password_toast">Zadejte platnou e-mailovou adresu a heslo.</string>
   <string name="account_sync_off">Synchronizace účtu je vypnuta</string>
+  <string name="account_sync_settings_settings">Synchronizovat kontakty a kalendáře</string>
+  <string name="account_sync_settingstip_description">Nastavení synchronizace</string>
   <string name="account_waiting_for_folders_msg">Načítání seznamu složek...</string>
   <string name="actionbar_large_unread_count">Nepřečteno: %1$d+</string>
   <string name="activity_folder_selection">Výběr složky</string>
@@ -221,23 +230,13 @@
   <string name="cancel_pop3_attchemt_downloading">Zrušení stahování příloh není podporováno v POP3 protokolu.</string>
   <string name="cant_move_or_change_labels">Přesun nelze uskutečnit, protože vybrané zprávy pocházejí z různých účtů.</string>
   <string name="cc">Kopie</string>
-  <string name="account_failure">Chyba účtu</string>
-   <string name="changepw_dialog_tips_please_clikc_btn">Zkontrolujte ověřovací kód %s a přihlaste se znovu</string>
-   <string name="dialog_system_auto_sync_account_no_open">Synchr. účtu není povolena a zprávy nebudou synchronizovány</string>
-   <string name="dialog_system_auto_sync_master_no_open">Synchr. účtu není povolena a zprávy nebudou synchronizovány</string>
-   <string name="drawer_classification">Kategorie</string>
-   <string name="mail_description_content">Aplikace Email je klient pro správu vaší emailové komunikace.</string>
-   <string name="mail_description_title">Co je Email</string>
-   <string name="syncing_wait_restart">Zkusit znova</string>
-   <string name="syncing_wait_restart_title">"Připojení k serveru selhalo. 
-  Nelze načíst zprávy"</string>
-   <string name="system_setup_open_error">Synchronizace není povolena.</string>
   <string name="cc_attribution">Kopie: %1$s</string>
   <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Kopie: "</string>
   <string name="change_folders_selection_dialog_title">Změnit složky</string>
   <string name="change_sync_settings">Změnit nastavení synchronizace</string>
   <string name="changepw_dialog_tips">Zadejte znovu heslo pro \"%s\"</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Zkontrolujte ověřovací kód %s a přihlaste se znovu</string>
   <string name="chat_item_msg_people_unit">lidí</string>
   <string name="chat_item_msg_user_etc">…</string>
   <string name="chat_view_description">Zobrazit konverzace</string>
@@ -306,10 +305,14 @@
   <string name="contextmenu_send_mail">Odeslat e-mail</string>
   <string name="contextmenu_sharelink">Sdílet odkaz</string>
   <string name="contextmenu_sms_dot">SMS...</string>
+  <string name="conversation_detail_hide">Skrýt</string>
+  <string name="conversation_detail_show">Podrobnosti</string>
   <string name="conversation_folder_moved">Přesunuto do složky %1$s</string>
   <string name="conversation_item_mark_read">Přečteno</string>
   <string name="conversation_item_mark_unread">Nepřečteno</string>
+  <string name="conversation_msg_header_collapsed_sent_to">"Odeslat "</string>
   <string name="conversation_photo_welcome_text">Dotykem na obrázek odesílatele vyberete danou konverzaci.</string>
+  <string name="conversation_pull_ad_content">Efektivní E-mailový klient</string>
   <string name="conversation_quick_button_approve">Souhlasím</string>
   <string name="conversation_quick_button_disapprove">Nesouhlasím</string>
   <string name="conversation_quick_button_received">Přijato</string>
@@ -326,6 +329,7 @@
   <string name="default_">VÝCHOZÍ</string>
   <string name="default_setup">VÝCHOZÍ NASTAVENÍ</string>
   <string name="default_signature">Odesláno z MIUI</string>
+  <string name="default_signature_2">Odesláno z mého %s</string>
   <string name="del_account_questionnair_hint">Sdělte nám prosím důvod smazání tohoto účtu.</string>
   <string name="delete">Smazat</string>
   <string name="delete_message_flow">Vymazat tok zprávy</string>
@@ -343,6 +347,8 @@
   <string name="dialog_insufficient_space_for_single_account_on_internal">Není dostatek volného místa pro %s.</string>
   <string name="dialog_insufficient_space_on_external">Není dostatek volného místa pro stažení přílohy.</string>
   <string name="dialog_insufficient_space_on_internal">Není dostatek volného místa</string>
+  <string name="dialog_system_auto_sync_account_no_open">Synchr. účtu není povolena a zprávy nebudou synchronizovány</string>
+  <string name="dialog_system_auto_sync_master_no_open">Synchr. účtu není povolena a zprávy nebudou synchronizovány</string>
   <string name="disable_admin_warning">UPOZORNĚNÍ: Deaktivujete-li oprávnění aplikace E-mail spravovat toto zařízení, budou smazány všechny účty aplikace E-mail, které toto oprávnění vyžadují. Společně s těmito účty budou smazány i všechny jejich e-maily, kontakty, události v kalendářích a další údaje.</string>
   <string name="discard">Zahodit</string>
   <string name="discard_drafts">Zahodit koncepty</string>
@@ -369,10 +375,12 @@
   <string name="download_message_failed_for_too_large">Zpráva je příliš velká na stažení.</string>
   <string name="download_whole_email">Stáhnout celou zprávu</string>
   <string name="draft_count_format"> (%1$s)</string>
+  <string name="drawer_classification">Kategorie</string>
   <string name="drawer_close">Zavřít navigační složku</string>
   <string name="drawer_contacts">Kontakty</string>
   <string name="drawer_open">Otevřít navigační složku</string>
   <string name="edit_quick_response_dialog">Rychlá odpověď</string>
+  <string name="edit_signature">Upravit podpis</string>
   <string name="email_netease">NetEase Mail</string>
   <string name="email_qq">QQ Mail</string>
   <string name="email_setting">Nastavení E-mailu</string>
@@ -474,12 +482,16 @@
   <string name="login">Přihlásit</string>
   <string name="login_failed_ticker">Přihlášení k účtu %s se nezdařilo.</string>
   <string name="login_failed_title">Přihlášení se nezdařilo</string>
+  <string name="login_support_tip_text">Podporuje všechny běžné e-mailové účty</string>
   <string name="long_press_to_select_tip">Jednu konverzaci vyberete přidržením, další konverzace vyberete klepnutím.</string>
   <string name="mail">E-mail</string>
   <string name="mail_body_turncated">Tato zpráva je příliš velká a je zobrazena jen její část. Zkontrolujte ji ve svém PC.</string>
+  <string name="mail_description_content">Aplikace Email je klient pro správu vaší emailové komunikace.</string>
+  <string name="mail_description_title">Co je Email</string>
   <string name="mail_header_network_not_available">Chybí připojení k internetu.</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinované zobrazení</string>
   <string name="mailbox_name_display_ad">Reklamy a upozornění</string>
+  <string name="mailbox_name_display_add_account">Přidat účet</string>
   <string name="mailbox_name_display_drafts">Koncepty</string>
   <string name="mailbox_name_display_inbox">Doručená pošta</string>
   <string name="mailbox_name_display_junk">Nevyžádaná pošta</string>
@@ -563,6 +575,7 @@
   <string name="network_unavailable">Síť není dostupná</string>
   <string name="new_incoming_messages_one">Nová zpráva od %s. Zobrazit.</string>
   <string name="new_messages">Nové zprávy: %1$d</string>
+  <string name="new_signature_has_saved">Nový podpis byl uložen</string>
   <string name="next_action">Další</string>
   <string name="no">Ne</string>
   <string name="no_application_found">Tuto přílohu nelze zobrazit v žádné dostupné aplikaci.</string>
@@ -586,8 +599,13 @@
   <string name="oauth_error_description">Nepodařilo se autorizovat</string>
   <string name="oauth_gmail_login_notify">Google vyžaduje zadání hesla na přihlašovací stránce společnosti Google</string>
   <string name="oauth_login_continue">Pokračovat</string>
+  <string name="oauth_login_usr_proxy">Proxy přihlášení</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
+  <string name="open_calendar_and_contacts_permission">Povolte práva k používání Kalendáře a Kontaktů v nastaveních</string>
+  <string name="open_external_storage_and_calendar_permission">Povolte práva k používání Kalendáře a úložiště v nastaveních</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">Povolte práva k používání Kalendáře, Kontaktů a úložiště v nastaveních</string>
+  <string name="open_external_storage_and_contacts_permission">Povolte práva k používání Kontaktů a úložiště v nastaveních</string>
   <string name="outbox_alert_button_no_resend">"Neodeslat"</string>
   <string name="outbox_alert_button_resend">Odeslat</string>
   <string name="outbox_alert_certificate_error">Neplatný certifikát E-mailu, je nutné ho aktualizovat.</string>
@@ -746,9 +764,11 @@
   <string name="save_draft_failed">Ukládání konceptu selhalo</string>
   <string name="save_power_summary">Úspora energie ve stanoveném čase</string>
   <string name="save_power_title">Úspora energie</string>
+  <string name="save_this_new_signature">Uložit nový podpis?</string>
   <string name="saved">Uloženo, %s</string>
   <string name="saving">Ukládání...</string>
   <string name="sdcard_cannot_use">SD karta není dostupná</string>
+  <string name="search_bar_text">Vyhledat e-mail, odesílatele</string>
   <string name="search_hint">Hledat v e-mailu</string>
   <string name="search_result">Nalezeno:</string>
   <string name="search_tabs_name_all">Vše</string>
@@ -808,8 +828,15 @@
   <string name="str_select_none">Odznačit</string>
   <string name="subject_and_snippet" formatted="false">%s – %s</string>
   <string name="subject_hint">Předmět</string>
+  <string name="sync_contacts_fail_per_content">Povolte práva ke Kontaktům</string>
+  <string name="sync_contacts_fail_per_title">Synchronizace kontaktů selhala</string>
+  <string name="sync_contacts_fail_permission">Synchronizace kontaktů selhala. Povolte práva ke Kontaktům v nastaveních.</string>
+  <string name="sync_contacts_req_per_ignored">Synchronizace kontaktů selhala</string>
   <string name="sync_error">Chyba synchronizace.</string>
   <string name="sync_error_message">Ve vašem zařízení není pro synchronizaci dostatek místa.</string>
+  <string name="syncing_wait_restart">Zkusit znova</string>
+  <string name="syncing_wait_restart_title">"Připojení k serveru selhalo. 
+  Nelze načíst zprávy"</string>
   <string name="system_account_create_failed">Účet se nepodařilo vytvořit. Zkuste to znovu.</string>
   <string name="system_folders_sent_dlg">Vyberte složku odeslaných položek svého serveru.</string>
   <string name="system_folders_sent_summary">Vyberte složku odeslaných položek svého serveru.</string>
@@ -818,6 +845,7 @@
   <string name="system_folders_trash_dlg">Vyberte složku Koš svého serveru.</string>
   <string name="system_folders_trash_summary">Vyberte složku Koš svého serveru.</string>
   <string name="system_folders_trash_title">Složka Koš</string>
+  <string name="system_setup_open_error">Synchronizace není povolena.</string>
   <string name="tablet">tablet</string>
   <string name="tap_to_configure">Nastavte dotykem</string>
   <string name="tap_to_enable_sync">Zapnete ji klepnutím.</string>
@@ -833,6 +861,7 @@
   <string name="too_large_to_attach_multiple">Jeden nebo více souborů nebylo připojeno. Limit je %1$s.</string>
   <string name="too_large_to_attach_single">Nelze připojit soubor větši než %1$s.</string>
   <string name="topic_merge">Spojit téma</string>
+  <string name="topic_merge_summary">Režim zobrazení ve vlákně</string>
   <string name="translation_loading">Načítání...</string>
   <string name="translation_no_result">Nic nebylo nalezeno</string>
   <string name="translation_query_failure">Selhalo</string>
@@ -850,6 +879,7 @@
   <string name="unselected_lable">Více</string>
   <string name="unsent_messages_in_outbox">Neodeslané zprávy ve složce %2$s: %1$s</string>
   <string name="unzip_file_failed">Rozbalení souboru selhalo!</string>
+  <string name="update_to_wps_mail">Pro více možností nainstalujte WPS-mail</string>
   <string name="updated_at">Naposledy: %1$s</string>
   <string name="upload_log">Odeslat záznamy pro diagnostiku</string>
   <string name="upload_log_failed">Odesílání selhalo</string>
@@ -884,34 +914,4 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
-  <string name="account_settings_preference_add_account">Přidejte účet</string>
-   <string name="account_settings_preference_head_icon">Zobrazit avatary</string>
-   <string name="account_settings_preference_notify">Upozornění</string>
-   <string name="account_settings_user_usage">Nastavení účtu</string>
-   <string name="account_setup_options_actionbar_title">Běžné nastavení</string>
-   <string name="account_sync_settings_settings">Synchronizovat kontakty a kalendáře</string>
-   <string name="account_sync_settingstip_description">Nastavení synchronizace</string>
-   <string name="conversation_detail_hide">Skrýt</string>
-   <string name="conversation_detail_show">Podrobnosti</string>
-   <string name="conversation_msg_header_collapsed_sent_to">"Odeslat "</string>
-   <string name="conversation_pull_ad_content">Efektivní E-mailový klient</string>
-   <string name="edit_signature">Upravit podpis</string>
-   <string name="login_support_tip_text">Podporuje všechny běžné e-mailové účty</string>
-   <string name="mailbox_name_display_add_account">Přidat účet</string>
-   <string name="new_signature_has_saved">Nový podpis byl uložen</string>
-   <string name="save_this_new_signature">Uložit nový podpis?</string>
-   <string name="search_bar_text">Vyhledat e-mail, odesílatele</string>
-   <string name="topic_merge_summary">Režim zobrazení ve vlákně</string>
-   <string name="update_to_wps_mail">Pro více možností nainstalujte WPS-mail</string>
-   <string name="account_setup_basics_login_gmail_without_proxy">Použít aktuální připojení</string>
-   <string name="default_signature_2">Odesláno z mého %s</string>
-   <string name="oauth_login_usr_proxy">Proxy přihlášení</string>
-   <string name="open_calendar_and_contacts_permission">Povolte práva k používání Kalendáře a Kontaktů v nastaveních</string>
-   <string name="open_external_storage_and_calendar_permission">Povolte práva k používání Kalendáře a úložiště v nastaveních</string>
-   <string name="open_external_storage_and_contacts_and_calendar_permission">Povolte práva k používání Kalendáře, Kontaktů a úložiště v nastaveních</string>
-   <string name="open_external_storage_and_contacts_permission">Povolte práva k používání Kontaktů a úložiště v nastaveních</string>
-   <string name="sync_contacts_fail_per_content">Povolte práva ke Kontaktům</string>
-   <string name="sync_contacts_fail_per_title">Synchronizace kontaktů selhala</string>
-   <string name="sync_contacts_fail_permission">Synchronizace kontaktů selhala. Povolte práva ke Kontaktům v nastaveních.</string>
-   <string name="sync_contacts_req_per_ignored">Synchronizace kontaktů selhala</string>
 </resources>

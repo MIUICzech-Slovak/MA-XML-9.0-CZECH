@@ -105,6 +105,7 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
   <string name="activate_status_desc_wait_for_sms_success">Aktivační SMS ze serveru přijata</string>
   <string name="activate_status_title_activating">Aktivace Vaší SIM karty</string>
   <string name="activate_status_title_activating_msim">Aktivace Vaší SIM karty %d</string>
+  <string name="agree">Souhlasím</string>
   <string name="app_name">Aktivace SIM</string>
   <string name="error_device_id_message">"Nesprávné ID zařízení: %s
 ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou dostupné některé služby a funkce."</string>
@@ -112,15 +113,14 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
   <string name="explain_send_sms_permission_button">Ověřit</string>
   <string name="explain_send_sms_permission_msg">Pro povolení %s, Mi Service Framework odešle SMS pro ověření vašeho telefonního čísla. Tato SMS bude zpoplatněna dle vašeho operátora.</string>
   <string name="explain_send_sms_permission_title">Ověření vašeho telefonního čísla</string>
+  <string name="phone_get_processing">Načítání...</string>
+  <string name="phone_get_text">Souhlasím s %1$s pro použití vašeho telefonního čísla: %2$s</string>
+  <string name="phone_get_title">Souhlasím s %1$s pro použití vašeho telefonního čísla</string>
+  <string name="phone_verify_processing">Ověřování...</string>
+  <string name="phone_verify_text">%1$s nepoužije vaše telefonní číslo, pouze jej ověří.</string>
+  <string name="phone_verify_title">Souhlasím s %1$s pro ověření vašeho telefonního čísla</string>
   <string name="sim_unactivated_title">Vaše SIM karta není aktivovaná</string>
   <string name="sync_notification_title_format">Synchronizace: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
-  <string name="agree">Souhlasím</string>
-   <string name="phone_get_processing">Načítání...</string>
-   <string name="phone_get_text">Souhlasím s %1$s pro použití vašeho telefonního čísla: %2$s</string>
-   <string name="phone_get_title">Souhlasím s %1$s pro použití vašeho telefonního čísla</string>
-   <string name="phone_verify_processing">Ověřování...</string>
-   <string name="phone_verify_text">%1$s nepoužije vaše telefonní číslo, pouze jej ověří.</string>
-   <string name="phone_verify_title">Souhlasím s %1$s pro ověření vašeho telefonního čísla</string>
 </resources>

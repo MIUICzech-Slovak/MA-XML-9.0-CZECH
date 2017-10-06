@@ -290,10 +290,10 @@
   <string name="permission_group_title_settings_related">Nastavení</string>
   <string name="permission_request_title">Požadavek na oprávnění</string>
   <string name="permission_warning_template">Povolit %1$s pre %2$s ?</string>
+  <string name="permission_warning_template_ask">Povolit %1$s tato oprávnění?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nemá oprávnění %2$s. Práva aplikace můžete změnit v Optimalizace &gt; Povolení."</string>
   <string name="permisson_reject_notice_toast_text2">nemá práva pro %1$s.</string>
   <string name="screen_overlay_button">Otevřít nastavení</string>
   <string name="screen_overlay_message">Pro změnu nastavení tohoto povolení, musíte nejprve vypnout překrytí displeje v Nastavení &gt; Aplikace</string>
   <string name="screen_overlay_title">Zjištěno překrytí displeje</string>
-  <string name="permission_warning_template_ask">Povolit %1$s tato oprávnění?</string>
 </resources>

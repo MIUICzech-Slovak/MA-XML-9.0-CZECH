@@ -3,11 +3,13 @@
   <string name="accessibility_call_muted">Hovor ztišen</string>
   <string name="accessibility_speakerphone_enabled">Reproduktor je zapnutý</string>
   <string name="add_vm_number_str">Přidat číslo</string>
+  <string name="callFailed_simError">Chyba SIM karty</string>
   <string name="can_not_dial_vt_while_voice_prompt">Nelze uskutečnit video hovor při hlasovém hovoru</string>
   <string name="can_not_dial_while_vt_prompt">Nelze vytočit při hovoru</string>
   <string name="change_default_dialer_dialog_title">Chcete změnit výchozí aplikaci vytáčení?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Chcete použít aplikaci %s jako výchozí aplikaci vytáčení?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Chcete použít aplikaci %1$s namísto aplikace %2$s jako výchozí aplikaci pro vytáčení?</string>
+  <string name="close">Zavřít</string>
   <string name="dial_conference_fail_prompt">Nelze vytočit hovor, aktuální síť nepodporuje VoLTE.</string>
   <string name="dial_vt_fail_prompt">Aktuální síť nepodporuje VoLTE. Přepnout na běžný hlasový hovor?</string>
   <string name="duplicate_video_call_not_allowed">Hovor momentálně nelze přidat.</string>
@@ -15,6 +17,8 @@
   <string name="headset_plugin_view_text">Hands-free je připojeno</string>
   <string name="headset_plugin_view_title">Hands-free</string>
   <string name="incall_error_call_failed">Nelze uskutečnit hovor.</string>
+  <string name="incall_error_power_off">Deaktivujte režim Letadlo pro uskutečnění hovoru.</string>
+  <string name="incall_error_supp_service_unknown">Tato služba není podporována.</string>
   <string name="no_vm_number">Číslo hlasové schránky neexistuje</string>
   <string name="no_vm_number_msg">Na kartě SIM není uloženo žádné číslo hlasové schránky.</string>
   <string name="notification_missedCallTicker">Zmeškaný hovor od %s</string>
@@ -45,8 +49,4 @@
   <string name="voice_dial_out">Hlasový hovor</string>
   <string name="voice_report_incoming_call">Volání</string>
   <string name="voice_report_unknown_num">Neznámé číslo</string>
-  <string name="callFailed_simError">Chyba SIM karty</string>
-   <string name="close">Zavřít</string>
-   <string name="incall_error_power_off">Deaktivujte režim Letadlo pro uskutečnění hovoru.</string>
-   <string name="incall_error_supp_service_unknown">Tato služba není podporována.</string>
 </resources>

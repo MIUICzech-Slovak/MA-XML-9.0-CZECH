@@ -24,6 +24,7 @@
   <string name="error_open_file_failed_no_app_found">Nelze otěvřít tento soubor</string>
   <string name="frames">Počet snímků</string>
   <string name="frames_summary">Více snímků eliminuje rozmazání při pohybu</string>
+  <string name="frequently_click_toast">Probíhá spouštění služby, čekejte prosím...</string>
   <string name="gleam_led_while_recording">Blikat LED během nahrávání</string>
   <string name="hint_back">Zpět</string>
   <string name="hint_home">Domů</string>
@@ -37,6 +38,7 @@
   <string name="low_battery_title">Slabá baterie</string>
   <string name="low_battery_warning">Baterie je téměř vybitá. Nahrávání je zastaveno a uloženo.</string>
   <string name="low_memory">Máte méně, než 200 MB volného místa. Můžete nahrát maximálně 5 minut.</string>
+  <string name="low_memory_dior">Máte méně, než 500 MB volného místa na úložišti. Můžete nahrát max. 12 minut záznamu.</string>
   <string name="low_memory_title">Není dostatek volného místa</string>
   <string name="low_momery_warning">Není dostatek volného místa. Nahrávání je zastaveno a uloženo.</string>
   <string name="memory_not_allowed">Není dostatek volného místa pro nahrávání plochy. Uvolněte místo a zkuste to znovu.</string>
@@ -47,6 +49,8 @@
   <string name="operation_delete">Vymazat</string>
   <string name="operation_send">Odeslat</string>
   <string name="quit_recording">Ukončeno</string>
+  <string name="recording_failure">Poslední nahrávání selhalo, spusťte nahrávání znovu</string>
+  <string name="recording_max_size">Nahrávání bylo zastaveno a uloženo z důvodu maximální velikosti souboru. Můžete spustit nahrávání znovu a pokračovat.</string>
   <string name="resolution">Rozlišení</string>
   <string name="resolution_summary">Videa ve vysokém rozlišení jsou ostřejší</string>
   <string name="screen_orientation">Orientace</string>
@@ -61,13 +65,9 @@
   <string name="sound_source">Zdroj zvuku</string>
   <string name="sound_source_summary">Systémové zvuky nebo mikrofon</string>
   <string name="start">Start</string>
+  <string name="start_recording">Spustit nahrávání</string>
   <string name="stop_by_second_space">Přepnutí uživatelů zastaví nahrávání</string>
   <string name="stop_record_while_locking">Uzamčení zastaví nahrávání</string>
   <string name="stop_record_while_locking_summary">Ukončit nahrávání a uložit nahrávku uzamčením obrazovky</string>
-  <string name="low_memory_dior">Máte méně, než 500 MB volného místa na úložišti. Můžete nahrát max. 12 minut záznamu.</string>
-  <string name="frequently_click_toast">Probíhá spouštění služby, čekejte prosím...</string>
-  <string name="recording_failure">Poslední nahrávání selhalo, spusťte nahrávání znovu</string>
-   <string name="recording_max_size">Nahrávání bylo zastaveno a uloženo z důvodu maximální velikosti souboru. Můžete spustit nahrávání znovu a pokračovat.</string>
-   <string name="start_recording">Spustit nahrávání</string>
-   <string name="stop_recording">Zastavit nahrávání</string>
+  <string name="stop_recording">Zastavit nahrávání</string>
 </resources>

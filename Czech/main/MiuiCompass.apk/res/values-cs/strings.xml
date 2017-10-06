@@ -6,6 +6,8 @@
   <string name="altitude_uncalibrate_refresh">Znovu</string>
   <string name="altitude_uncalibrate_tip">Nelze kalibrovat nadmořskou výšku.</string>
   <string name="altitude_unit">m</string>
+  <string name="app_description_content">Aplikace kompas vám zobrazí, kde se právě nachází sever.</string>
+  <string name="app_description_title">O kompasu</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_failed">Kalibrace nadmořské výšky selhala</string>
   <string name="calibrate_failed_no_location">Kalibrace selhala. Nelze získat aktuální polohu</string>
@@ -50,6 +52,4 @@
   <string name="shake_enter_tip">Zatřesením zkalibrujete</string>
   <string name="using_camera_confirm_cancel">Ukončit</string>
   <string name="using_camera_confirm_ok">OK</string>
-  <string name="app_description_content">Aplikace kompas vám zobrazí, kde se právě nachází sever.</string>
-   <string name="app_description_title">O kompasu</string>
 </resources>

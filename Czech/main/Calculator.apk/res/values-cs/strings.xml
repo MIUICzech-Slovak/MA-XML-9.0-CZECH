@@ -25,6 +25,8 @@
   <string name="dateformat">dd.MM.yyyy</string>
   <string name="day">den</string>
   <string name="deleteDesc">odstranit</string>
+  <string name="description_content">Kalkulačka slouží nejen na matematické počty, ale i na konverzi měn a výpočet fyzikálních veličin.</string>
+  <string name="description_title">O Kalkulačce</string>
   <string name="divDesc">děleno</string>
   <string name="dotDesc">desetiná čárka</string>
   <string name="eDesc">"Eulerovo číslo"</string>
@@ -35,6 +37,7 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilometr za hodinu</string>
   <string name="from_unit_short">km/h</string>
+  <string name="global_network_confirm_content">Výpočet daní, kurzů měn a hypotéky vyžaduje stažení dat přes internetové připojení</string>
   <string name="home_title_calculator">Kalkulačka</string>
   <string name="item_title_aa_payment">Rozdělit účet</string>
   <string name="item_title_area_conversion">Plocha</string>
@@ -108,6 +111,8 @@
   <string name="preference_alert_follow_qq_group">Kopírovat a vložit do QQ pro zpětnou vazbu</string>
   <string name="preference_alert_follow_wechat">Kopírovat a vložit do WeChat pro sledování</string>
   <string name="preference_alert_follow_wechat_button">Kopírovat</string>
+  <string name="preference_check_update_summary_current_version">Aktuální verze: %s</string>
+  <string name="preference_check_update_summary_new_version">Aktualizace %s je k dispozici</string>
   <string name="preference_check_update_title">Zkontrolovat aktualizace</string>
   <string name="preference_follow_us">Následuj nás</string>
   <string name="preference_follow_web_title">Oficiální webové stránky</string>
@@ -243,6 +248,8 @@
   <string name="unit_data_display_weight_uk.cwt">Hmotnostní cent (GB)</string>
   <string name="unit_data_display_weight_uk.st">Kámen</string>
   <string name="unit_data_display_weight_us.cwt">Hmotnostní cent (USA)</string>
+  <string name="unit_data_short_area_acre">akr</string>
+  <string name="unit_data_short_area_are">ar</string>
   <string name="unit_data_short_area_mu">mu</string>
   <string name="unit_data_short_area_qing">qing</string>
   <string name="unit_data_short_area_sq.chi">chi²</string>
@@ -278,8 +285,13 @@
   <string name="unit_data_short_temperature_k">K</string>
   <string name="unit_data_short_temperature_r">°R</string>
   <string name="unit_data_short_temperature_re">°Re</string>
+  <string name="unit_data_short_time_day">den</string>
+  <string name="unit_data_short_time_h">hod</string>
+  <string name="unit_data_short_time_min">min</string>
+  <string name="unit_data_short_time_s">sek</string>
   <string name="unit_data_short_time_us">μs</string>
   <string name="unit_data_short_time_week">týden</string>
+  <string name="unit_data_short_time_yr">rok</string>
   <string name="unit_data_short_velocity_c">c</string>
   <string name="unit_data_short_velocity_ftps">f/s</string>
   <string name="unit_data_short_velocity_inps">i/s</string>
@@ -313,21 +325,9 @@
   <string name="unit_year">R</string>
   <string name="unit_year_format">Rok %s</string>
   <string name="wf_word_figure">Finance</string>
-  <string name="description_content">Kalkulačka slouží nejen na matematické počty, ale i na konverzi měn a výpočet fyzikálních veličin.</string>
-   <string name="description_title">O Kalkulačce</string>  
-<string name="unit_data_short_area_acre">akr</string>
-<string name="unit_data_short_area_are">ar</string>
-<string name="unit_data_short_time_yr">rok</string>
-<string name="unit_data_short_time_day">den</string>
-<string name="unit_data_short_time_h">hod</string>
-<string name="unit_data_short_time_min">min</string>
-<string name="unit_data_short_time_s">sek</string>
-<string name="preference_check_update_summary_current_version">Aktuální verze: %s</string>
-<string name="preference_check_update_summary_new_version">Aktualizace %s je k dispozici</string>
-<string name="xiaomi_update_dialog_title">%1$s aktualizováno!</string>
-<string name="xiaomi_update_dialog_message">"Uvedená verze %1$s
+  <string name="xiaomi_update_dialog_message">"Uvedená verze %1$s
 má velikost: %2$s"</string>
-<string name="xiaomi_update_dialog_message_diff">"Uvedená verze %1$s
+  <string name="xiaomi_update_dialog_message_diff">"Uvedená verze %1$s
 Delta aktualizace má velikost: %2$s"</string>
-<string name="global_network_confirm_content">Výpočet daní, kurzů měn a hypotéky vyžaduje stažení dat přes internetové připojení</string>
+  <string name="xiaomi_update_dialog_title">%1$s aktualizováno!</string>
 </resources>

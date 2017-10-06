@@ -15,6 +15,8 @@
   <string name="bugreport_dump_start_notification_title">Vytváření hlášení o chybě...</string>
   <string name="bugreport_feedback_from">Od: %s</string>
   <string name="bugreport_tool_log">Vytvořit záznam o chybě</string>
+  <string name="bugreport_tool_log_dumping_desc">Trvá přibližně 1 min</string>
+  <string name="bugreport_tool_log_dumping_title">Vytváření hlášení</string>
   <string name="bugreport_tool_log_toast">Záznam uložen do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Vytváření záznamu o chybě (trvá zhruba 1 minutu)</string>
   <string name="close_feedback_main">Skrýt</string>
@@ -183,7 +185,16 @@
   <string name="michat_wait_for_a_moment">Chvilku strpení, pomoc je na cestě!</string>
   <string name="michat_webview_title">Zobrazit podrobnosti</string>
   <string name="min_error">Váš %1$s by měl být delší.</string>
+  <string name="mobile_data_note_dialog_cancel">Čekat na Wi-Fi</string>
+  <string name="mobile_data_note_dialog_confirm">Odeslat</string>
+  <string name="mobile_data_note_dialog_content">Odesílání záznamů o chybě na mobilních datech může zvýšit vaše poplatky.</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Odesílání záznamů o chybě na mobilních datech spotřebuje %sMB.</string>
+  <string name="mobile_data_note_dialog_title">Upozornění na mobilní data</string>
   <string name="modem_tool_log">Vytvořit záznam modemu</string>
+  <string name="modem_tool_log_dumping_desc">Dotykem zastavíte</string>
+  <string name="modem_tool_log_dumping_title">Vytváření hlášení</string>
+  <string name="modem_tool_log_finish_desc">Log uložen do %s</string>
+  <string name="modem_tool_log_finish_title">Hlášení vytvořeno</string>
   <string name="modem_tool_log_start">Spustit</string>
   <string name="modem_tool_log_start_toast">Záznam o modemu bude uložen do %s</string>
   <string name="modem_tool_log_stop">Zastavit</string>
@@ -263,6 +274,7 @@
   <string name="time_in_justnow">Přávě nyní</string>
   <string name="title_answer_feedback_main">Našli jsme odpovědi!</string>
   <string name="title_bbs_feedback_main">Více o Mi telefonech</string>
+  <string name="title_customer_service">Uživatelská podpora</string>
   <string name="title_frequent_question_feedback_main">Časté dotazy</string>
   <string name="title_mi_family">Mi Home v okolí</string>
   <string name="title_nonsystem_app">Jiné apl.</string>
@@ -291,16 +303,4 @@
   <string name="upload_log_failed">Protokoly se nepodařilo odeslat</string>
   <string name="warning_field_empty">Zadejte %1$s</string>
   <string name="warning_field_invalid">Vyberte platný %1$s</string>
-  <string name="title_customer_service">Uživatelská podpora</string>
-  <string name="mobile_data_note_dialog_cancel">Čekat na Wi-Fi</string>
-   <string name="mobile_data_note_dialog_confirm">Odeslat</string>
-   <string name="mobile_data_note_dialog_content">Odesílání záznamů o chybě na mobilních datech může zvýšit vaše poplatky.</string>
-   <string name="mobile_data_note_dialog_content_with_file_size">Odesílání záznamů o chybě na mobilních datech spotřebuje %sMB.</string>
-   <string name="mobile_data_note_dialog_title">Upozornění na mobilní data</string>
-   <string name="bugreport_tool_log_dumping_desc">Trvá přibližně 1 min</string>
-   <string name="bugreport_tool_log_dumping_title">Vytváření hlášení</string>
-   <string name="modem_tool_log_dumping_desc">Dotykem zastavíte</string>
-   <string name="modem_tool_log_dumping_title">Vytváření hlášení</string>
-   <string name="modem_tool_log_finish_desc">Log uložen do %s</string>
-   <string name="modem_tool_log_finish_title">Hlášení vytvořeno</string>
 </resources>

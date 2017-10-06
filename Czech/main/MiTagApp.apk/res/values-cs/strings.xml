@@ -16,8 +16,11 @@
   <string name="available_networks">Dostupné sítě</string>
   <string name="avg_read_tag">Průměr na den:</string>
   <string name="back_to_home">Zpět</string>
+  <string name="backup_security_tips_message">Aplikace, které používají osobní údaje nemusí být zálohovány nebo obnoveny správně.</string>
+  <string name="backup_security_tips_title">Bezpečnostní upozornění</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="brightness">Jas</string>
+  <string name="btn_got_it">Rozumím</string>
   <string name="btn_install">Instalovat</string>
   <string name="btn_start">Start</string>
   <string name="btn_write">Zapsat</string>
@@ -113,6 +116,7 @@ se dotknete štítku telefonem"</string>
   <string name="no_available_networks_summary">Zkuste to znovu po připojení k Wi-Fi</string>
   <string name="no_available_xiaomi_shop">Otevření obchodu Mi selhalo</string>
   <string name="not_save_btn">Ne</string>
+  <string name="notif_trans_wait_for_reconnecting">Vzdálené zařízení je odpojeno. Připojte jej znovu.</string>
   <string name="notification_value">Upozornění %s%%</string>
   <string name="null_task">Žádné úlohy</string>
   <string name="off">Vypnout</string>
@@ -137,6 +141,7 @@ se dotknete štítku telefonem"</string>
   <string name="pwd_prot_on">Zapnuto</string>
   <string name="read_a_tag">Načíst štítek</string>
   <string name="reading">Načítání...</string>
+  <string name="reconnect">Připojit znovu</string>
   <string name="remote_app">Na stáhnutí</string>
   <string name="remove_alert">Vymazat vybrané úlohy?</string>
   <string name="ringer_mode">Režim Zvonění</string>
@@ -187,6 +192,14 @@ se dotknete štítku telefonem"</string>
 přiložte další NFC štítek."</string>
   <string name="touch_and_write_more">"Pro zapsání další kopie,
 přiložte další NFC štítek."</string>
+  <string name="trans_connect_failed_device_incompatible">Zařízení není kompatibilní. Zruště přenos a zkuste to znovu.</string>
+  <string name="trans_device_wait_for_reconnecting">Zařízení je odpojeno. Připojte jej znovu.</string>
+  <string name="trans_operate_reconnect_new_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
+ Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>
+  <string name="trans_operate_reconnect_old_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
+ Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>
+  <string name="trans_security_tips_message">Některé aplikace nepodporují Přenos.</string>
+  <string name="trans_security_tips_title">Kompatibilita Přenosu</string>
   <string name="two_minutes">2 minuty</string>
   <string name="unavailable_net">"Instalace selhala: Nelze se připojit k síti"</string>
   <string name="unavailable_storage">"Instalace selhala: Nelze použít SD kartu"</string>
@@ -212,17 +225,4 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
-  <string name="backup_security_tips_message">Aplikace, které používají osobní údaje nemusí být zálohovány nebo obnoveny správně.</string>
-   <string name="backup_security_tips_title">Bezpečnostní upozornění</string>
-   <string name="btn_got_it">Rozumím</string>
-   <string name="trans_security_tips_message">Některé aplikace nepodporují Přenos.</string>
-   <string name="trans_security_tips_title">Kompatibilita Přenosu</string> 
-   <string name="notif_trans_wait_for_reconnecting">Vzdálené zařízení je odpojeno. Připojte jej znovu.</string>
-   <string name="reconnect">Připojit znovu</string>
-   <string name="trans_connect_failed_device_incompatible">Zařízení není kompatibilní. Zruště přenos a zkuste to znovu.</string>
-   <string name="trans_device_wait_for_reconnecting">Zařízení je odpojeno. Připojte jej znovu.</string>
-   <string name="trans_operate_reconnect_new_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
- Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>
-   <string name="trans_operate_reconnect_old_tips">"Počkejte, dokud se na novém telefonu nezobrazí \"Zařízení je odpojeno\".
- Potom stiskněte [Znovu připojit] pro vytvoření QR kódu."</string>
 </resources>

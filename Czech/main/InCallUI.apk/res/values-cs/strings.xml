@@ -59,10 +59,16 @@
   <string name="can_not_call_oneself">Nelze uskutečnit hovor na toto číslo</string>
   <string name="can_not_use">Nelze použít</string>
   <string name="cancel">Zrušit</string>
+  <string name="card_title_answering">Přijmutí hovoru</string>
+  <string name="card_title_answering_fail">Nelze přijmout hovor, zkuste to znovu.</string>
+  <string name="card_title_answering_time_out">Nelze přijmout hovor, zkuste to znovu.</string>
   <string name="card_title_call_ended">"Hovor ukončen "</string>
   <string name="card_title_conf_call">Konferenční hovor</string>
   <string name="card_title_dialing">Vytáčení</string>
   <string name="card_title_hanging_up">Ukončení hovoru</string>
+  <string name="card_title_hanging_up_fail">Nelze ukončit hovor, zkuste to znovu.</string>
+  <string name="card_title_hanging_up_restart">Nelze ukončit hovor. Restartujte zařízení.</string>
+  <string name="card_title_hanging_up_weak_signal">Slabý signál mobilní sítě. Hovor se ukončí.</string>
   <string name="card_title_in_call">Během hovoru</string>
   <string name="card_title_in_call_short">Hovor</string>
   <string name="card_title_in_video">Video</string>
@@ -216,14 +222,13 @@
   <string name="onscreen_close_preview_camera">Ukončit kameru</string>
   <string name="onscreen_hold_text">Podržet</string>
   <string name="onscreen_merge_calls_text">Spojit hovory</string>
+  <string name="onscreen_message_text">Zprávy</string>
   <string name="onscreen_mute_text">Ztišit</string>
-  <string name="card_title_hanging_up_restart">Nelze ukončit hovor. Restartujte zařízení.</string>
-   <string name="card_title_hanging_up_weak_signal">Slabý signál mobilní sítě. Hovor se ukončí.</string>  
-   <string name="onscreen_message_text">Zprávy</string>
   <string name="onscreen_note_calls_text">Poznámka</string>
   <string name="onscreen_note_text">Poznámka</string>
   <string name="onscreen_rcs_text">Zprávy</string>
   <string name="onscreen_swap_calls_text">Přepnout</string>
+  <string name="package_not_available">\"%s\" není dostupné</string>
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_yes">Ano</string>
   <string name="payphone">Veřejný telefon</string>
@@ -242,6 +247,7 @@
   <string name="unknown">Neznámé</string>
   <string name="unlock_phone">Odemknout zařízení</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
+  <string name="user_locked_prompt">Pro přístup ke kontaktům odemkněte zařízení.</string>
   <string name="video_call_not_allowed_if_tty_enabled">Vypněte TTY režim</string>
   <string name="video_conference_caller_info_name">Video konference %1$s</string>
   <string name="video_switch_to_voice_call_prompt">Přepnout na hlasový hovor</string>
@@ -249,10 +255,4 @@
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
-  <string name="user_locked_prompt">Pro přístup ke kontaktům odemkněte zařízení.</string>
-   <string name="card_title_answering">Přijmutí hovoru</string>
-   <string name="card_title_answering_fail">Nelze přijmout hovor, zkuste to znovu.</string>
-   <string name="card_title_hanging_up_fail">Nelze ukončit hovor, zkuste to znovu.</string>
-   <string name="package_not_available">\"%s\" není dostupné</string>
-   <string name="card_title_answering_time_out">Nelze přijmout hovor, zkuste to znovu.</string>
 </resources>

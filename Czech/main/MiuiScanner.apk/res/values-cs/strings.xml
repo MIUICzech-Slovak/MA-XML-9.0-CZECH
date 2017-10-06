@@ -8,7 +8,6 @@
   <string name="allow_check_website_security">Zkontrolovat bezpečnost odkazů na web</string>
   <string name="app_description_content">Skener může načíst QR kódy, vizitky a dokumenty.</string>
   <string name="app_description_title">O skeneru</string>
-  <string name="document_recognize_null_tip">Dokument je prázdný</string>
   <string name="app_details">"Apl.: "</string>
   <string name="app_name">Skener</string>
   <string name="back">Zpět</string>
@@ -45,6 +44,7 @@
   <string name="document_ocr_tip_msg">Rozpoznávání...</string>
   <string name="document_ocr_vendor_info">OCR poskytuje Kingsoft</string>
   <string name="document_recognize_fail_tip">Nelze rozpoznat dokument</string>
+  <string name="document_recognize_null_tip">Dokument je prázdný</string>
   <string name="document_rectify">Upravit</string>
   <string name="document_rectify_tip_msg">Úprava...</string>
   <string name="document_save_succeed_tip">Dokument uložen do %1$s</string>
@@ -73,6 +73,8 @@
   <string name="impunity_declaration_negative_text">Ukončit</string>
   <string name="impunity_declaration_positive_text">Povolit</string>
   <string name="impunity_declaration_title">Podmínky používání</string>
+  <string name="label_choose_picture">Vybrať obrázek</string>
+  <string name="label_flash_light">Svítilna</string>
   <string name="language_entry_chinese_cn">Simplified Chinese</string>
   <string name="language_entry_chinese_tw">Traditional Chinese</string>
   <string name="language_entry_danish">Danish</string>
@@ -166,6 +168,4 @@
   <string name="wifi_pwd">"Heslo: "</string>
   <string name="wifi_security">"Bezpečnost: "</string>
   <string name="wifi_ssid">"SSID: "</string>
-  <string name="label_choose_picture">Vybrať obrázek</string>
-   <string name="label_flash_light">Svítilna</string>
 </resources>

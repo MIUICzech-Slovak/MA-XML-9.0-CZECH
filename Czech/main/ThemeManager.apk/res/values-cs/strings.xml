@@ -22,6 +22,11 @@
   <string name="both_all_apply_failured">Nelze nastavit tapetu</string>
   <string name="both_all_apply_success">Tapeta nastavena</string>
   <string name="browser_local_resource">Lokální zdroje</string>
+  <string name="can_not_apply">Nelze nastavit</string>
+  <string name="card_data_request_error">Nedostupné, zkuste to později...</string>
+  <string name="card_loading">Načítání...</string>
+  <string name="card_no_network">Žádná síť, připojte se a zkuste to znovu...</string>
+  <string name="card_retry">Znovu</string>
   <string name="change_wallpaper">Změna tapety</string>
   <string name="choose_new_themes">Témata</string>
   <string name="close">Zavřít</string>
@@ -48,6 +53,7 @@
   <string name="fail_to_add_account">Přidávání účtu selhalo.</string>
   <string name="favorite_list">Oblíbené</string>
   <string name="favorite_list_format">Oblíbené %1$s</string>
+  <string name="find_more_wallpapers">Více</string>
   <string name="forcetouch_featured">Doporučené</string>
   <string name="forcetouch_free_themes">Zdarma</string>
   <string name="forcetouch_offline">Lokální</string>
@@ -86,6 +92,7 @@
   <string name="gift_used">Odesláno</string>
   <string name="home_apply_failured">Nelze nastavit tapetu</string>
   <string name="home_apply_success">Tapeta nastavena</string>
+  <string name="in_the_end">Nic víc</string>
   <string name="incompatible_dialog_message">Toto téma není plně kompatibilní s MIUI 8. Některé její části nemusí být zobrazeny správně nebo mohou způsobit neočekávané chyby.</string>
   <string name="incompatible_dialog_ok">Rozumím</string>
   <string name="incompatible_dialog_title">Problém s kompatibilitou</string>
@@ -94,6 +101,7 @@
   <string name="loading">Načítání...</string>
   <string name="loading_resource_detail_fail">Není dostupné mimo Čínu!</string>
   <string name="loading_resource_detail_info">Načítání...</string>
+  <string name="local_photos">Lokální</string>
   <string name="lockscreen_apply_failured">Nelze nastavit tapetu</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">Tapeta domácí obrazovky nastavena, ale nelze ji nastavit pro zámek obrazovky</string>
   <string name="lockscreen_apply_success">Tapeta nastavena</string>
@@ -126,6 +134,7 @@
   <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_format">Zakoupeno %1$s</string>
   <string name="purchased_list_legacy">Staré témata</string>
+  <string name="recently_used">Nedávno použito</string>
   <string name="reload">Znovu</string>
   <string name="resource_account_abnormal_state">Chyba účtu: Zkuste to znovu později.</string>
   <string name="resource_account_fail_to_add">Přidávání účtu selhalo.</string>
@@ -317,11 +326,13 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Čeká na stáhnutí...</string>
   <string name="resource_waiting_pause">Zastavit</string>
+  <string name="ringtone_set_success">Nastaveno</string>
   <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Žádná SD karta</string>
   <string name="selected_resource_file_invalid">Zvolený soubor je poškozený</string>
   <string name="settings">Nastavení</string>
+  <string name="system_precust">Systémové</string>
   <string name="the_picture_is_too_small">Obrázek je příliš malý</string>
   <string name="theme_apply_audio_dialog_item_alarm">Budík</string>
   <string name="theme_apply_audio_dialog_item_notification">Upozornění</string>
@@ -408,6 +419,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="uid_change_dialog_message">Vymazali jste aktualizace. Restartujte zařízení pro použití nových témat.</string>
   <string name="uid_change_dialog_ok">Rozumím</string>
   <string name="uid_change_dialog_title">Restartujte zařízení</string>
+  <string name="wallpaper_apply">Použít</string>
   <string name="wallpaper_auto_change_title">Zamykací obrazovka</string>
   <string name="wallpaper_crop">Ořezat</string>
   <string name="wallpaper_decoded_error">Nepodařilo se dešifrovat!</string>
@@ -419,21 +431,9 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
   <string name="wallpaper_settings_change_wallpaper">Změnit</string>
   <string name="wallpaper_settings_desktop_text">Domácí plocha</string>
+  <string name="wallpaper_settings_loading_text">Načítání...</string>
   <string name="wallpaper_settings_lockscreen_text">Zamykací obrazovka</string>
+  <string name="wallpaper_settings_no_history">Žádná historie</string>
+  <string name="wallpaper_settings_pad_more_page_title">Více tapet</string>
   <string name="wallpaper_settings_page_title">tapeta</string>
-  <string name="can_not_apply">Nelze nastavit</string>
-   <string name="card_data_request_error">Nedostupné, zkuste to později...</string>
-   <string name="card_loading">Načítání...</string>
-   <string name="card_no_network">Žádná síť, připojte se a zkuste to znovu...</string>
-   <string name="card_retry">Znovu</string>
-   <string name="find_more_wallpapers">Více</string>
-   <string name="in_the_end">Nic víc</string>
-   <string name="local_photos">Lokální</string>
-   <string name="recently_used">Nedávno použito</string>
-   <string name="ringtone_set_success">Nastaveno</string>
-   <string name="system_precust">Systémové</string>
-   <string name="wallpaper_apply">Použít</string>
-   <string name="wallpaper_settings_loading_text">Načítání...</string>
-   <string name="wallpaper_settings_no_history">Žádná historie</string>
-   <string name="wallpaper_settings_pad_more_page_title">Více tapet</string>
 </resources>

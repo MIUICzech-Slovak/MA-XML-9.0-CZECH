@@ -43,6 +43,7 @@
   <string name="cancel_operation">Zrušit operaci</string>
   <string name="cancel_success">Odebráno, všechny soubory byly přesunuty do %s</string>
   <string name="cancelled_by_user">Operace zrušena</string>
+  <string name="cannot_send">Nelze odeslat soubor z SD karty</string>
   <string name="category">Kategorie</string>
   <string name="category_all">Vše</string>
   <string name="category_apk">Aplikace</string>
@@ -86,6 +87,7 @@
   <string name="connect_network_setting_des">Upozornit na přístup k síti</string>
   <string name="connecting">Připojování...</string>
   <string name="connection_error">Nelze se připojit</string>
+  <string name="connection_lost">Odpojeno</string>
   <string name="copied">Zkopírováno</string>
   <string name="copy_failed">Kopírování selhalo</string>
   <string name="copy_failed_retry">Nelze zkopírovat. Počkejte %1$s a zkuste to znovu.</string>
@@ -107,6 +109,7 @@
   <string name="data_consumption_title">Internetové připojení</string>
   <string name="decompress_cancel">Zrušit</string>
   <string name="decompress_confirm">Rozbalit?</string>
+  <string name="decompress_corrupt">Nelze rozbalit soubory. Balíček je poškozen.</string>
   <string name="decompress_destination_error">Rozbalování selhalo. Do tohoto adresáře nelze soubor rozbalit.</string>
   <string name="decompress_encrypted_rar_not_supported">Šifrovaný rar soubor není podporován.</string>
   <string name="decompress_fail">Rozbalování selhalo!</string>
@@ -166,8 +169,14 @@
   <string name="encrypt_success_first_five">Úspěšně zašifrováno. Potáhněte dolů hlavní stránku aplikace Soubory pro jejich zobrazení.</string>
   <string name="encrypting">Šifrování...</string>
   <string name="error_contains_sharer_path">Nelze dešifrovat soubory ve složce /MIUI/Gallery/cloud/sharer. Přesuňte soubory do jiné složky a zkuste to znovu.</string>
+  <string name="error_create_dir">Nelze vytvořit složku</string>
+  <string name="error_create_file">Nelze vytvořit soubor</string>
+  <string name="error_delete_failed">Nelze vymazat soubor</string>
   <string name="error_filename_too_long">Název souboru je příliš dlouhý</string>
+  <string name="error_folder_already_exists">Tento soubor již existuje</string>
   <string name="error_info_cant_send_folder">Složka nemůže být přesunuta</string>
+  <string name="error_invalid_path">Nesprávná cesta</string>
+  <string name="error_not_support">Není podporováno</string>
   <string name="error_open_file_failed_no_app_found">Nebyla nalezena aplikace pro otevření tohoto souboru</string>
   <string name="expand_all">Vše</string>
   <string name="extended_storage_file_can_not_open">Nelze otevřít soubor. Zkopírujte soubor na interní úložiště.</string>
@@ -221,6 +230,7 @@
   <string name="has_installed">Nainstalováno</string>
   <string name="homepage_tab_category">Kategorie</string>
   <string name="homepage_tab_file_view">Úložiště</string>
+  <string name="homepage_tab_file_view_phone">Úložiště</string>
   <string name="homepage_tab_recent">Nedávné</string>
   <string name="hot_app">Populární apl</string>
   <string name="if_cancel">Zrušit tuto operaci?</string>
@@ -229,6 +239,8 @@
   <string name="installing">Instalace...</string>
   <string name="instruction">Zadejte v adresním řádku prohlížeče v PC:</string>
   <string name="instruction_pre">Slouží k přenosu souborů mezi telefonem a PC pomocí FTP protokolu.</string>
+  <string name="instruction_pre_pad">Dotykem spusťte FTP server</string>
+  <string name="instruction_pre_phone">Dotykem spustíte FTP server</string>
   <string name="just_now">Nyní</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Kategorie</string>
@@ -323,6 +335,8 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="move_icon_to_desktop_success">Nyní máte odkaz na aplikaci Soubory na Vaší ploše.</string>
   <string name="move_to">Přesunout do...</string>
   <string name="msg_set_password">Nejprve nastavte heslo</string>
+  <string name="mtp_device">Media zařízení (MTP)</string>
+  <string name="mtp_label">MTP</string>
   <string name="multi_select_title">Vybrané položky: %1$s</string>
   <string name="my_app">Data apl.</string>
   <string name="my_app_desc"/>
@@ -454,12 +468,15 @@ and never miss the cool new ones!"</string>
   <string name="operation_unfavorite">Odebrat z oblíbených</string>
   <string name="otg_file_can_not_open">Nie je možné otvoriť súbor na USB. Najskôr skopírujte súbor na interné úložisko.</string>
   <string name="overwrite_msg">\"%s\" již existuje. Dotykem jej přepíšete novým souborem.</string>
+  <string name="pad">Interní úložiště</string>
   <string name="pan_settting">MiDrive nastavení</string>
   <string name="partial_cancel_successful">Nelze odebrat některé soubory. Zbylé soubory byly přesunuty do %s"</string>
   <string name="partial_delete_failure">Nelze vymazat některé soubory</string>
   <string name="partial_encrypt_success">Nelze změnit některé soubory na soukromé</string>
   <string name="partial_repair_done">Některé soubory byly úspěšně obnoveny</string>
   <string name="paused">Pozastaveno</string>
+  <string name="permission_denial">Není přístup k souborům. Povolte aplikaci Soubory přístup k úložišti.</string>
+  <string name="permission_required">Není přístup k souborům. Povolte aplikaci Soubory přístup k úložišti.</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Interní úložiště</string>
   <string name="phone_storage">Úložiště</string>
@@ -648,6 +665,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="ui_main_toast_favorite_added">Označeno</string>
   <string name="ui_main_toast_favorite_removed">Oblíbené odstraněny</string>
   <string name="ui_main_toast_operation_failed">Odstranění oblíbených %1$s selhalo</string>
+  <string name="unknown_error">Nastala chyba. Počkejte chvíli a zkuste to znovu.</string>
   <string name="unlock_pattern_msg">Ochrana soukromí heslem chrání i vaše fotografie a SMS.</string>
   <string name="unlock_pattern_title">Nové heslo</string>
   <string name="unmount_inform_text">USB úložiště bude odpojeno.</string>
@@ -686,22 +704,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-  <string name="cannot_send">Nelze odeslat soubor z SD karty</string>
-   <string name="connection_lost">Odpojeno</string>
-   <string name="decompress_corrupt">Nelze rozbalit soubory. Balíček je poškozen.</string>
-   <string name="error_create_dir">Nelze vytvořit složku</string>
-   <string name="error_create_file">Nelze vytvořit soubor</string>
-   <string name="error_delete_failed">Nelze vymazat soubor</string>
-   <string name="error_folder_already_exists">Tento soubor již existuje</string>
-   <string name="error_invalid_path">Nesprávná cesta</string>
-   <string name="error_not_support">Není podporováno</string>
-   <string name="homepage_tab_file_view_phone">Úložiště</string>
-   <string name="instruction_pre_pad">Dotykem spusťte FTP server</string>
-   <string name="instruction_pre_phone">Dotykem spustíte FTP server</string>
-   <string name="mtp_device">Media zařízení (MTP)</string>
-   <string name="mtp_label">MTP</string>
-   <string name="pad">Interní úložiště</string>
-   <string name="permission_denial">Není přístup k souborům. Povolte aplikaci Soubory přístup k úložišti.</string>
-   <string name="permission_required">Není přístup k souborům. Povolte aplikaci Soubory přístup k úložišti.</string>
-   <string name="unknown_error">Nastala chyba. Počkejte chvíli a zkuste to znovu.</string>
 </resources>

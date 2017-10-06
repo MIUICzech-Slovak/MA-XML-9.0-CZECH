@@ -60,6 +60,8 @@
   <string name="hour">1 hod.</string>
   <string name="hour_unit">h</string>
   <string name="hours">%d hod.</string>
+  <string name="install_weather_app_error">Načítání selhalo.</string>
+  <string name="install_weather_app_loading">Načítání...</string>
   <string name="keep_screen_on">Ponechat zapnutý displej</string>
   <string name="label">Nastavit štítek</string>
   <string name="label_pref_summary">Název tohoto budíku</string>
@@ -144,6 +146,4 @@
   <string name="workday_alarm_clock">Pracovní den</string>
   <string name="worldclock_empty_text">Žádné světové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="install_weather_app_error">Načítání selhalo.</string>
-   <string name="install_weather_app_loading">Načítání...</string>  
 </resources>

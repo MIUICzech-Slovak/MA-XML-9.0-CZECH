@@ -1535,6 +1535,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="upload_file">Zvolit soubor</string>
   <string name="usb_accessory_notification_title">Připojeno k perifernímu zařízení USB</string>
   <string name="usb_cd_installer_notification_title">Připojeno jako instalátor</string>
+  <string name="usb_charging_notification_title">Pouze nabíjení USB</string>
   <string name="usb_mtp_notification_title">Připojeno jako mediální zařízení</string>
   <string name="usb_notification_message">Dotykem zobrazíte další možnosti rozhraní USB.</string>
   <string name="usb_ptp_notification_title">Připojeno jako fotoaparát</string>
@@ -1676,5 +1677,4 @@ Chcete ji zavřít?"</string>
   <string name="years">lety</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Na dobu neurčitou</string>
-  <string name="usb_charging_notification_title">Pouze nabíjení USB</string>
 </resources>

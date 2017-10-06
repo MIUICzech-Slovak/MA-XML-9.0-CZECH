@@ -344,6 +344,7 @@
   <string name="pref_camera_zsl_entry_off">Vypnuta (doporučeno)</string>
   <string name="pref_camera_zsl_entry_on">Zapnuta</string>
   <string name="pref_capture_settings">Nastavení fotoaparátu</string>
+  <string name="pref_dualcamera_watermark_title">Vodoznak</string>
   <string name="pref_face_beauty_title">Tón pleti</string>
   <string name="pref_front_mirror_entry_auto">Auto (v případě rozpoznané tváře</string>
   <string name="pref_front_mirror_entry_off">Vyp</string>
@@ -402,6 +403,8 @@
   <string name="pref_watermark_style_title">Přidat vodoznak do fotografie</string>
   <string name="preparing_sd">Příprava úložiště...</string>
   <string name="record_back_pressed_hint">Stiskněte zpět pro zastavení nahrávání</string>
+  <string name="screen_on_proximity_sensor_hint">Pro deaktivaci této funkce stiskněte současně hlasitost dolů a zpět.</string>
+  <string name="screen_on_proximity_sensor_summary">Nezarývejte prostor kolem sluchátka</string>
   <string name="see_qrcode_detals">Zobrazit podrobnosti o QR kódu</string>
   <string name="setting_top_text">Režim</string>
   <string name="simple_mode_button_asd_flash">Ukončit</string>
@@ -448,7 +451,4 @@
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Byla dosažena maximální velikost souboru.</string>
   <string name="wait">Čekejte prosím...</string>
-  <string name="pref_dualcamera_watermark_title">Vodoznak</string>  
-  <string name="screen_on_proximity_sensor_hint">Pro deaktivaci této funkce stiskněte současně hlasitost dolů a zpět.</string>
-   <string name="screen_on_proximity_sensor_summary">Nezarývejte prostor kolem sluchátka</string>
 </resources>

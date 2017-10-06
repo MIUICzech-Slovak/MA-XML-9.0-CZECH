@@ -218,6 +218,7 @@
   <string name="card_title_outgoing_barred">Odmítnuté odchozí hovory</string>
   <string name="card_title_redialing">Nový pokus o vytáčení</string>
   <string name="card_title_unconditionalCF">Nepodmíněné přesměrování hovoru je povoleno</string>
+  <string name="carrier_info">Info o operátorovi</string>
   <string name="carrier_name">(Název operátora)</string>
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
@@ -1278,5 +1279,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="carrier_info">Info o operátorovi</string>
 </resources>

@@ -12,10 +12,6 @@
   <string name="activity_title_image_gallery">Vymazat podobné fotografie</string>
   <string name="activity_title_large_file">Velké soubory</string>
   <string name="activity_title_main">Čistič</string>
-  <string name="app_description_content">Čistič vyhledá nepotřebné soubory a uvolní místo na vašem úložišti.</string>
-   <string name="app_description_title">O Čističi</string>  
-   <string name="engine_cm">Clean Master</string>
-   <string name="engine_tm">Tencent</string>
   <string name="activity_title_news">Novinky</string>
   <string name="activity_title_privacy_cache">Soukromí</string>
   <string name="activity_title_residual">Staré</string>
@@ -36,6 +32,8 @@
   <string name="apk_status_install">Nainstalovaná</string>
   <string name="apk_status_installed_old">Stará verze</string>
   <string name="apk_status_uninstalled">Není nainstalována</string>
+  <string name="app_description_content">Čistič vyhledá nepotřebné soubory a uvolní místo na vašem úložišti.</string>
+  <string name="app_description_title">O Čističi</string>
   <string name="app_install_tips_go_to">Spustit</string>
   <string name="app_install_tips_install_success">%1$s nainstalováno</string>
   <string name="app_name">CleanMaster</string>
@@ -168,7 +166,6 @@
   <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
   <string name="dialog_title_stop_scan">Zastavit kontrolu</string>
   <string name="dialog_title_uninstall_apps">Odinstalovat</string>
-  <string name="engine_init">Inicializace...</string>
   <string name="download">Stáhnout</string>
   <string name="downloading">Stahování...</string>
   <string name="empty">" "</string>
@@ -184,6 +181,9 @@
   <string name="empty_title_photos">Žádné fotografie</string>
   <string name="empty_title_residual">Žádné soubory</string>
   <string name="empty_title_video">Žádná videa na vymazání</string>
+  <string name="engine_cm">Clean Master</string>
+  <string name="engine_init">Inicializace...</string>
+  <string name="engine_tm">Tencent</string>
   <string name="file">Soubory</string>
   <string name="file_not_found">Soubor nebyl nalezen</string>
   <string name="flow_rank_title">Využití dat</string>
@@ -344,6 +344,7 @@
   <string name="pref_title_auto_clean_content_choose">Vyčistit</string>
   <string name="pref_title_auto_update_cleanup_db">Auto. aktualizace</string>
   <string name="pref_title_choose_engine">Databáze</string>
+  <string name="pref_title_clean_alert">Vyčistit automaticky</string>
   <string name="pref_title_cleanup_white_list">Seznam výjimek</string>
   <string name="pref_title_expand_cache_group">Rozbalit skupinu</string>
   <string name="pref_title_garbage_auto_clean_content">Obsah čištění</string>
@@ -459,5 +460,4 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
-<string name="pref_title_clean_alert">Vyčistit automaticky</string>
 </resources>

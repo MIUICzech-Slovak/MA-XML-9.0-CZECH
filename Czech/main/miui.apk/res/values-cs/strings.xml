@@ -5,6 +5,8 @@
   <string name="action_mode_deselect_all">Odznačit vše</string>
   <string name="action_mode_select_all">Vše</string>
   <string name="action_mode_title_empty">Vybrat</string>
+  <string name="actionbar_button_up_description">zpět</string>
+  <string name="actionbar_immersion_button_more_description">více</string>
   <string name="activate">Aktivovat</string>
   <string name="activate_fail_notification_title">Znovu aktivovat synchr.</string>
   <string name="activating">Aktivace...</string>
@@ -158,6 +160,7 @@
   <string name="friday_short">Pát</string>
   <string name="friday_shortest">P</string>
   <string name="hybrid_provider">Web. stránka je poskytovaná %1$s .</string>
+  <string name="immersion_button_close_description">zavřít</string>
   <string name="instruction">Pokyny</string>
   <string name="midnight">AM</string>
   <string name="monday">Pondělí</string>
@@ -220,6 +223,8 @@
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
+  <string name="search_input_description">Vyhledat</string>
+  <string name="search_mode_button_back_description">zpět</string>
   <string name="select_all">Vše</string>
   <string name="select_item">Odznačit vše</string>
   <string name="send">Odeslat</string>
@@ -328,9 +333,4 @@
   <string name="wednesday_short">Stř</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
-  <string name="immersion_button_close_description">zavřít</string>
-   <string name="search_input_description">Vyhledat</string>
-   <string name="actionbar_button_up_description">zpět</string>
-   <string name="actionbar_immersion_button_more_description">více</string>
-   <string name="search_mode_button_back_description">zpět</string>
 </resources>

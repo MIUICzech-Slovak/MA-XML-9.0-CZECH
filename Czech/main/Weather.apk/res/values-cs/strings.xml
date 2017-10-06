@@ -37,6 +37,9 @@
   <string name="close">Zavřít</string>
   <string name="common_loading_text">Načítání...</string>
   <string name="connect_fail">Špatné připojení. Zkuste to později.</string>
+  <string name="content_desc_activity_main_add_city">Přidat město</string>
+  <string name="content_desc_activity_main_add_city_manage">Správa měst</string>
+  <string name="content_desc_activity_main_more_settings">Více nastavení</string>
   <string name="daily_forcast_drawer_on_bottom">Skrýt</string>
   <string name="daily_forcast_drawer_on_top">%1$s-denní předpověď</string>
   <string name="daily_forcast_no_stable_direction">Vánek</string>
@@ -64,6 +67,7 @@
   <string name="gps_hint">Současná poloha</string>
   <string name="hide_topic">Skrýt</string>
   <string name="hourly_forcast_now">Nyní</string>
+  <string name="hourly_forecast_date">d.M.</string>
   <string name="hourly_forecast_title">Hodinová předpověď</string>
   <string name="indices_desc_feel">Pocitově %1$s °C</string>
   <string name="indices_desc_humidity">Vlhkost %1$s%%</string>
@@ -91,6 +95,7 @@
   <string name="international_details_uv_index_title">UV Index</string>
   <string name="international_details_wind_connect">%2$s %1$s</string>
   <string name="international_details_wind_title">Vítr</string>
+  <string name="it_is_going_to_rain">Bude pršet</string>
   <string name="locate_fail_detail_err">"Nelze najít Vaši polohu.
 Zadejte město manuálně"</string>
   <string name="location_management">Města</string>
@@ -112,9 +117,12 @@ Zadejte město manuálně"</string>
   <string name="more_details">Podrobnosti</string>
   <string name="network_not_available">Nelze se připojit k síti</string>
   <string name="network_unavailable">Žádná síť</string>
+  <string name="night_not_disturb_settings_summary">Neupozorňovat od 23:00 do 07:00</string>
+  <string name="night_not_disturb_settings_title">Nerušit v noci</string>
   <string name="no_network_btn">Zkusit znovu</string>
   <string name="open_browser">Otevřít v Prohlížeči</string>
   <string name="other">Ostatní</string>
+  <string name="other_warning_settings">Ostatní upozornění</string>
   <string name="precipitation_degree_five">bouřka</string>
   <string name="precipitation_degree_four">silný</string>
   <string name="precipitation_degree_one">bez deště</string>
@@ -122,11 +130,14 @@ Zadejte město manuálně"</string>
   <string name="precipitation_degree_two">lehký</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="radar_cloud_image_title">Radar</string>
+  <string name="rainfall_settings_summary">Upozornění na déšť</string>
+  <string name="rainfall_settings_title">Upozornění na déšť</string>
   <string name="realtime_cityname_default">Místo</string>
   <string name="realtime_humidity_title">Vlhkost</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Vítr</string>
   <string name="refresh_fail">Nelze se připojit k síti</string>
+  <string name="reminder_from_xiaomi_weather_app">Upozornění z aplikace Počasí</string>
   <string name="retry">Znovu</string>
   <string name="set">Nastavení</string>
   <string name="share">Sdílet</string>
@@ -146,26 +157,15 @@ Zadejte město manuálně"</string>
   <string name="unit">Jednotky</string>
   <string name="unit_temperature">Teplota</string>
   <string name="unit_wind">Rychlost větru</string>
+  <string name="update_night_setting_summary_text">Neaktualizovat v čase 23:00-07:00</string>
+  <string name="update_night_setting_title_text">Aktualizace v noci</string>
+  <string name="update_setting_title_text">Nastavení aktualizace</string>
   <string name="view_forecast_item_yesterday">Včera</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zítra</string>
   <string name="weather_alert">Varování</string>
   <string name="wind_direction_no_data">Vítr</string>
   <string name="xiaomi_weather_description_content">Xiaomi aplikace Počasí vám poskytuje informace o počasí ve vašem městě. Její odinstalování ovlivní widget hodin, teplotu v roletce a další funkce. Chcete ji odinstalovat?</string>
-  <string name="xiaomi_weather_description_title">O Počasí</string> 
-  <string name="content_desc_activity_main_add_city">Přidat město</string>
-   <string name="content_desc_activity_main_add_city_manage">Správa měst</string>
-   <string name="content_desc_activity_main_more_settings">Více nastavení</string> 
-   <string name="it_is_going_to_rain">Bude pršet</string>
-   <string name="night_not_disturb_settings_summary">Neupozorňovat od 23:00 do 07:00</string>
-   <string name="night_not_disturb_settings_title">Nerušit v noci</string>
-   <string name="other_warning_settings">Ostatní upozornění</string>
-   <string name="rainfall_settings_summary">Upozornění na déšť</string>
-   <string name="rainfall_settings_title">Upozornění na déšť</string>
-   <string name="reminder_from_xiaomi_weather_app">Upozornění z aplikace Počasí</string>
-   <string name="update_night_setting_summary_text">Neaktualizovat v čase 23:00-07:00</string>
-   <string name="update_night_setting_title_text">Aktualizace v noci</string>
-   <string name="update_setting_title_text">Nastavení aktualizace</string>
-   <string name="your_location">Vaše poloha</string>
-   <string name="hourly_forecast_date">d.M.</string>
+  <string name="xiaomi_weather_description_title">O Počasí</string>
+  <string name="your_location">Vaše poloha</string>
 </resources>

@@ -33,6 +33,7 @@
   <string name="add_countdown">Přidat odpočet</string>
   <string name="add_event">Přidat událost</string>
   <string name="add_topic_success">Odebrání "%s" úspěšné</string>
+  <string name="agenda_month_empty_hint">Žádné události na dnešek</string>
   <string name="agenda_today">Dnes, %1$s</string>
   <string name="agenda_tomorrow">ZÍTRA, %1$s</string>
   <string name="agenda_view">Agenda</string>
@@ -126,10 +127,6 @@
   <string name="delete_topic_dialog_title">Vymazat "%s"?</string>
   <string name="delete_topic_success">"%s" odebráno</string>
   <string name="description_label">Popis</string>
-  <string name="too_long_content">Příliš dlouhý popis</string>
-   <string name="too_long_description">Popis události je příliš dlouhý</string>
-   <string name="too_long_location">Popis polohy je příliš dlouhý</string>
-   <string name="too_long_name">Název je příliš dlouhý</string>
   <string name="dialog_msg_uninstall_apps_xspace">Odinstalovat tyto aplikace (včetně klonovaných)?</string>
   <string name="directory_searching_fmt">Vyhledávání na webu %s...</string>
   <string name="discard_label">Zrušit</string>
@@ -227,6 +224,7 @@
   <string name="hint_what">Název události</string>
   <string name="hint_where">Místo</string>
   <string name="holiday_card_title">Svátky</string>
+  <string name="homepage_today">D</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
@@ -245,6 +243,7 @@
   <string name="jump_date">Přejít</string>
   <string name="jump_date_full">Přejít na datum</string>
   <string name="label_recent_events">Nedávné události</string>
+  <string name="load_more_hint">Obnovit události z %1$d</string>
   <string name="loading">Načítání...</string>
   <string name="local_calendar_display_name">Místní kalendář</string>
   <string name="local_owner_account_name">Místní účet</string>
@@ -284,6 +283,7 @@
   <string name="new_event_dialog_option">Nová událost</string>
   <string name="no_calendars_found">Před přidáním události je nutné přidat do zařízení alespoň jeden účet s kalendářem a zobrazit ho. Chcete-li přidat účet, klepněte na tlačítko Přidat účet (pokud jste účet právě přidali, počkejte na dokončení synchronizace a zkuste to znovu). Případně se klepněte na tlačítko Zrušit a zkontrolujte, zda je zobrazen alespoň jeden kalendář.</string>
   <string name="no_contact_birthday_hint">Žádné narozeniny kontaktů nebyly nalezeny</string>
+  <string name="no_events_hint">Žádné události</string>
   <string name="no_local_calendar">Žádný lokální kalendář</string>
   <string name="no_network">Není dostupné internetové připojení</string>
   <string name="no_network_btn">Zkusit znovu</string>
@@ -336,6 +336,7 @@
   <string name="preferences_week_start_day_title">Začátek týdne</string>
   <string name="presence_label">Můj stav</string>
   <string name="privacy_label">Soukromá/Veřejná</string>
+  <string name="pull_to_refresh_hint">Potažením obnovíte události z %1$d</string>
   <string name="quick_response_custom_msg">Vlastní odpověď...</string>
   <string name="quick_response_dialog_title">Vyber vlastní odpověď</string>
   <string name="quick_response_email_failed">Není možné najít aplikaci E-mail</string>
@@ -344,6 +345,7 @@
   <string name="quick_response_settings_summary">Upravit vlastní odpověď při odeslání e-mailu</string>
   <string name="quick_response_settings_title">Upravit rychlé odpovědi</string>
   <string name="refresh">Obnovit</string>
+  <string name="refreshing_hint">Obnovování...</string>
   <string name="reminders_label">Přidat připomenutí</string>
   <string name="repeat_activity_label">Opakovat</string>
   <string name="repeat_custom_activity_label">Vlastní</string>
@@ -433,6 +435,10 @@
   <string name="today_no_events">Žádné události</string>
   <string name="tomorrow">Zítra</string>
   <string name="tomorrow_at_time_fmt">Zítra v %s</string>
+  <string name="too_long_content">Příliš dlouhý popis</string>
+  <string name="too_long_description">Popis události je příliš dlouhý</string>
+  <string name="too_long_location">Popis polohy je příliš dlouhý</string>
+  <string name="too_long_name">Název je příliš dlouhý</string>
   <string name="travel_airport">Airport</string>
   <string name="travel_carriage_number_text">Auto</string>
   <string name="travel_eta_advice">%2$s minute drive to %1$s.</string>
@@ -488,10 +494,4 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
-  <string name="agenda_month_empty_hint">Žádné události na dnešek</string>
-   <string name="load_more_hint">Obnovit události z %1$d</string>
-   <string name="no_events_hint">Žádné události</string>
-   <string name="pull_to_refresh_hint">Potažením obnovíte události z %1$d</string>
-   <string name="refreshing_hint">Obnovování...</string>
-    <string name="homepage_today">D</string>
 </resources>

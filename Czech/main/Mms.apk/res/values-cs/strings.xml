@@ -110,6 +110,7 @@
   <string name="context_menu_view_contact">Zobrazit kontakt</string>
   <string name="context_menu_view_mms">Zobrazit MMS</string>
   <string name="conversation">Zprávy</string>
+  <string name="conversation_listitem_avatar">Avatar</string>
   <string name="conversation_style">Bubliny</string>
   <string name="converting_to_picture_message">Převádění na multimediální zprávu...</string>
   <string name="converting_to_text_message">Převádění na textovou zprávu...</string>
@@ -124,12 +125,15 @@
   <string name="delete_message">Smazat</string>
   <string name="delete_phrase">Odstranit frázi</string>
   <string name="delete_unlocked">Smazat i zamknuté</string>
+  <string name="delete_verification_code_sms_message">Vymazat všechna jednorázová hesla?</string>
+  <string name="delete_verification_code_sms_title">Vymazat jednorázová hesla</string>
   <string name="delete_wild_sims">Vymazat čísla</string>
   <string name="delete_wild_sims_confirm">Všechny zprávy z tohoto čísla budou vymazány z vašeho telefonu. Můžete je obnovit na i.mi.com.</string>
   <string name="delete_wild_sims_title">Vymazat vybraná čísla</string>
   <string name="delivery_report_activity">Potvrzení o doručení</string>
   <string name="delivery_toast_body">Zpráva pro %s doručena</string>
   <string name="disable_notifications_dialog_message">Zamezit duplicitnímu oznamování zpráv pro výchozí SMS/MMS aplikaci?</string>
+  <string name="disabled">Deaktivováno</string>
   <string name="discard">Zrušit</string>
   <string name="discard_message">Zrušit</string>
   <string name="discard_message_reason">Zpráva bude zrušena, protože neobsahuje žádné platné příjemce.</string>
@@ -144,6 +148,7 @@
   <string name="duration_sec">Trvání (%s s)</string>
   <string name="duration_selector_title">"Doba trvání snímku "</string>
   <string name="duration_zero">Doba trvání musí být větší než 0 sekund</string>
+  <string name="earlier">Starší</string>
   <string name="edit">Upravit</string>
   <string name="edit_nickname_for_nocontact">Chybí příjemce. Přidejte alespoň jednoho příjemce a pak klepněte na tlačítko pro další možnosti.</string>
   <string name="edit_nickname_for_nocontact_by_robot">Chybí příjemce. Přidejte alespoň jednoho příjemce a pak klepněte na tlačítko pro další možnosti.</string>
@@ -152,12 +157,14 @@
   <string name="edit_slideshow_activity">Upravit prezentaci</string>
   <string name="enable_password_protect">Povolit ochranu heslem</string>
   <string name="enable_visible_pattern_title">Zobrazit vzor</string>
+  <string name="enabled">Povoleno</string>
   <string name="english_subject_limit">max 40 znaků</string>
   <string name="enter_edit_mode">Upravit</string>
   <string name="error_code_label">"Chyba kódu: "</string>
   <string name="error_state">Nekonzistentní stav</string>
   <string name="error_state_text">Vazby mezi zprávami a příjemci jsou nekonzistentní. Získejte chybové hlášení a odešlete ho na android-sms-bugs@google.com.</string>
   <string name="error_timed_msg">Zadejte platný čas!</string>
+  <string name="ex_type_guide">Informace</string>
   <string name="ex_type_mx">Cloudové zprávy</string>
   <string name="ex_type_sms">SMS</string>
   <string name="exceed_message_size_limitation">Byl dosažen limit velikosti zprávy.</string>
@@ -166,6 +173,7 @@
   <string name="expire_on">Platnost vyprší: %s</string>
   <string name="exporting_progress_private_message">Exportování zpráv ze soukromé schránky</string>
   <string name="fail_to_add_attachment">Nelze připojit přílohu</string>
+  <string name="fail_to_view_attachment">Příloha není dostupná</string>
   <string name="failed_to_add_media">Tuto položku %1$s, nelze do zprávy přidat.</string>
   <string name="failed_to_resize_image">Velikost fotografie se nepodařilo přizpůsobit.</string>
   <string name="fake_cell_alert_hint">Vypadá to, že sms byla odeslána z jiného čísla, než je zobrazeno. Buďte opatrní, pokud SMS vyžaduje přihlašovací údaje nebo platby.</string>
@@ -173,6 +181,7 @@
   <string name="fake_cell_detection_entry">Zjištěna falešná základní stanice</string>
   <string name="fake_cell_safe_hint">Tato zpráva je bezpečná</string>
   <string name="fake_cell_timeout_hint">Kontrola bezpečnosti selhala</string>
+  <string name="favorite_at_time">Označeno v: %1s</string>
   <string name="fdn_check_failure">Můžete posílat zprávy pouze na vaše povolená čísla.</string>
   <string name="festival">Doporučené</string>
   <string name="festival_continue">OK</string>
@@ -201,6 +210,8 @@
   <string name="group_message">Skupinové zprávy</string>
   <string name="group_message_failed_title">Selhalo odeslání zprávy k %d kontaktům. Zkusit to znovu?</string>
   <string name="group_resend_message">Odesílání (%d)</string>
+  <string name="group_verification_codes_summary">Automaticky spojovat do skupiny SMS s jednorázovými hesly</string>
+  <string name="group_verification_codes_title">Spojovat SMS s hesly</string>
   <string name="guild_add_attachments">Klepněte zde pro přidání příloh nebo smajlíků do zprávy</string>
   <string name="guild_add_recipients">Klepněte zde pro přidání příjemců z adresáře</string>
   <string name="guild_msim_switcher">Změnit SIM kartu</string>
@@ -265,6 +276,7 @@
   <string name="message_number">Telefonní číslo:</string>
   <string name="message_pending">Odesílání...</string>
   <string name="message_queued">V současné době nelze zprávu odeslat. Bude odeslána, jakmile bude služba k dispozici.</string>
+  <string name="message_queued_second_space">Nelze odeslat zprávu. Povolte přístup k síti.</string>
   <string name="message_readed">Přečteno</string>
   <string name="message_received">Doručeno</string>
   <string name="message_rejected">Odmítnuto</string>
@@ -375,6 +387,7 @@
   <string name="notification_multiple_title">Nové zprávy</string>
   <string name="number_add_hint">Zadejte číslo pro zařazení do soukromých kontaktů</string>
   <string name="open_audio_record_panel">Otevřít panel nahrávání zvuku</string>
+  <string name="open_edit_sms_panel">Upravit SMS</string>
   <string name="open_url_with_web">Otevřít URL v přohlížeči?</string>
   <string name="over_max_mms_size">MMS je příliš velká.</string>
   <string name="overwrite_edited_content">Upravený obsah bude přepsán. Pokračovat?</string>
@@ -401,11 +414,15 @@
   <string name="pref_other_title">Ostatní</string>
   <string name="pref_show_blocked_messages_summary">Zobrazit blokované SMS v konverzaci</string>
   <string name="pref_show_list_avatar_summary">Zobrazit podrobnosti a fotografie kontaktů</string>
+  <string name="pref_show_photo_word_summary">Automaticky přiřadit obrázek kontaktu bez fotografie</string>
+  <string name="pref_show_sms_template_entry_summary">Kontrolovat SMS pro jednorázová hesla</string>
   <string name="pref_show_sms_template_in_summary">Automaticky rozpoznat OTP v SMS zprávě</string>
   <string name="pref_show_sms_template_summary">Automaticky kopírovat a vložit ověřovací kód</string>
   <string name="pref_smart_messages_settings">Inteligentní SMS</string>
+  <string name="pref_sms_storage_title">Úložiště</string>
   <string name="pref_sms_theme_title">Nastavení vzhledu</string>
   <string name="pref_summary_allow_si_sl_push">Povolit zprávám načítat obsah webstránek</string>
+  <string name="pref_summary_auto_delete">Plné úložiště, vymažte staré zprávy.</string>
   <string name="pref_summary_delete_limit">Počet zpráv v konverzaci: %1$s</string>
   <string name="pref_summary_delivery_reports">Požadovat oznámení o doručení odeslané zprávy</string>
   <string name="pref_summary_delivery_ringtone">Upozornit zvukem při doručení zprávy</string>
@@ -427,6 +444,7 @@
   <string name="pref_time_auto_group_title">Seskupení zpráv</string>
   <string name="pref_title_about_smart_sms">O poskytovateli inteligentních zpráv</string>
   <string name="pref_title_allow_si_sl_push">Povolit WAP Push</string>
+  <string name="pref_title_auto_delete">Vymazat staré SMS</string>
   <string name="pref_title_card_format">Formát vizitky</string>
   <string name="pref_title_delivery_reports">Doručenka</string>
   <string name="pref_title_festival_networking">Upozornění na připojení</string>
@@ -437,6 +455,8 @@
   <string name="pref_title_mms_auto_retrieval">Načítat MMS zprávy automaticky</string>
   <string name="pref_title_mms_delete">Limit MMS zpráv</string>
   <string name="pref_title_mms_read_reports">Potvrzení o přečtení</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">Stáhnout MMS v mezinárodním roamingu</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">Stáhnout MMS v národním roamingu</string>
   <string name="pref_title_mms_retrieval_during_roaming">Načítat MMS při roamingu</string>
   <string name="pref_title_mms_validity_period">Doba platnosti MMS</string>
   <string name="pref_title_notification_body_enabled">Zobrazovat náhledy</string>
@@ -476,6 +496,7 @@
   <string name="prvate_contact">Soukromý kontakt</string>
   <string name="quick_reply">Odpovědět</string>
   <string name="rate_limit_surpassed">Potvrdit</string>
+  <string name="received_at_time">Přijato: %1s</string>
   <string name="received_label">"Přijaté: "</string>
   <string name="recipient_editor_count_format">%d lidí</string>
   <string name="recipient_label">"Příjemce: "</string>
@@ -553,6 +574,7 @@
   <string name="send_to">"Komu: "</string>
   <string name="send_to_count">Zprávy: %1$s</string>
   <string name="send_to_index_contact">Posílám %1$s z %2$s..</string>
+  <string name="sent_at_time">Odesláno: %1s</string>
   <string name="sent_label">"Odeslané: "</string>
   <string name="service_message_not_found">Zpráva není dostupná</string>
   <string name="service_network_problem">Nelze odeslat, potíže se sítí.</string>
@@ -593,6 +615,8 @@
   <string name="sp_mark_as_read_menu_title">Označit jako přečtené</string>
   <string name="sp_mark_as_read_progress">Označení všech zpráv jako přečtené...</string>
   <string name="sp_mark_as_read_title">Označit vše jako přečtené?</string>
+  <string name="sqlite_disk_full">Databáze nebo úložiště je plné</string>
+  <string name="sqlite_low_memory">Málo paměti</string>
   <string name="status_failed">Neúspěšný</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">Probíhá</string>
@@ -629,6 +653,7 @@
   <string name="title_hide_verification_code">Auto. skrýt OTP na zamyk. obrazovce</string>
   <string name="title_show_blocked_messages">Zobrazit blokované SMS</string>
   <string name="title_show_list_avatar">Zobrazit fotografie kontaktu</string>
+  <string name="title_show_photo_word">Přiřadit obrázek kontaktu</string>
   <string name="title_show_sms_template">Kontrola SMS zda obsahuje ověřovací kód</string>
   <string name="title_show_sms_template_in">Kontrola SMS pro OTP</string>
   <string name="title_timed_message_dialog">Nastavte čas odeslání</string>
@@ -637,6 +662,7 @@
   <string name="to_count">%d lidí</string>
   <string name="to_label">"Komu "</string>
   <string name="to_send_wrapper">Bude odesláno %s hod.</string>
+  <string name="today">Dnes</string>
   <string name="too_many_attachments">Počet vložených příloh je omezen na %1$s. Bude přidáno pouze prvních %2$s příloh.</string>
   <string name="too_many_recipients">Počet příjemců této zprávy je příliš vysoký (%1$s). Počet příjemců je omezen na %2$s.</string>
   <string name="too_many_unsent_mms">Nelze odeslat zprávu hned. Existuje příliš mnoho neodeslaných MMS zpráv.</string>
@@ -665,6 +691,8 @@ Pokus: %s."</string>
   <string name="user_agreement3">" a "</string>
   <string name="user_agreement4">Ochrana soukromí</string>
   <string name="user_agreement5">Tlačítkem OK souhlasíte s těmito podmínkami.</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Ověřovací kódy</string>
   <string name="view">Zobrazit</string>
   <string name="view_bookmark">Zobrazit původní zprávu</string>
   <string name="view_hms_attachment_fail">Stahování obrázku selhalo.</string>
@@ -680,33 +708,5 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
-  <string name="delete_verification_code_sms_message">Vymazat všechna jednorázová hesla?</string>
-   <string name="delete_verification_code_sms_title">Vymazat jednorázová hesla</string>
-   <string name="disabled">Deaktivováno</string>
-   <string name="earlier">Starší</string>
-   <string name="enabled">Povoleno</string>
-   <string name="favorite_at_time">Označeno v: %1s</string>
-   <string name="group_verification_codes_summary">Automaticky spojovat do skupiny SMS s jednorázovými hesly</string>
-   <string name="group_verification_codes_title">Spojovat SMS s hesly</string>
-   <string name="pref_show_sms_template_entry_summary">Kontrolovat SMS pro jednorázová hesla</string>
-   <string name="received_at_time">Přijato: %1s</string>
-   <string name="sent_at_time">Odesláno: %1s</string>
-   <string name="today">Dnes</string>
-   <string name="verification_code_icon_name">V</string>
-   <string name="verification_code_list_title">Ověřovací kódy</string>
-   <string name="yesterday">Včera</string>
-   <string name="fail_to_view_attachment">Příloha není dostupná</string>
-  <string name="pref_show_photo_word_summary">Automaticky přiřadit obrázek kontaktu bez fotografie</string>
-  <string name="title_show_photo_word">Přiřadit obrázek kontaktu</string>  
-   <string name="message_queued_second_space">Nelze odeslat zprávu. Povolte přístup k síti.</string>
-   <string name="sqlite_disk_full">Databáze nebo úložiště je plné</string>
-   <string name="sqlite_low_memory">Málo paměti</string>  
-   <string name="pref_sms_storage_title">Úložiště</string>
-   <string name="pref_summary_auto_delete">Plné úložiště, vymažte staré zprávy.</string>
-   <string name="pref_title_auto_delete">Vymazat staré SMS</string>
-   <string name="pref_title_mms_retrieval_during_international_roaming">Stáhnout MMS v mezinárodním roamingu</string>
-   <string name="pref_title_mms_retrieval_during_national_roaming">Stáhnout MMS v národním roamingu</string>
-   <string name="conversation_listitem_avatar">Avatar</string>
-   <string name="ex_type_guide">Informace</string>
-   <string name="open_edit_sms_panel">Upravit SMS</string>
+  <string name="yesterday">Včera</string>
 </resources>
