@@ -256,7 +256,6 @@ Zapojte do původního telefonu jeho kabel. Pomocí adaptéru v balení kabel p
   <string name="keywords_sounds">pípnutí z reproduktoru</string>
   <string name="keywords_unification">pracovní profil, spravovaný profil, sjednotit, sjednocení, práce, profil</string>
   <string name="keywords_vr_listener">VR virtuální realita přijímač stereo pomocná služba</string>
-  <string name="link_speed">%1$d Mb/s</string>
   <string name="locale_not_translated">V některých aplikacích nemusí být k dispozici</string>
   <string name="locale_remove_menu">Odstranit</string>
   <string name="location_off_summary">VYPNUTO</string>
@@ -396,7 +395,6 @@ Zapojte do původního telefonu jeho kabel. Pomocí adaptéru v balení kabel p
   <string name="one_userkey">jeden klíč uživatele</string>
   <string name="operator_warning">Operátor může data počítat jinak než zařízení</string>
   <string name="ota_disable_automatic_update">Automatické aktualizace systému</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="page_tab_title_summary">Vše</string>
   <string name="page_tab_title_support">Podpora</string>
   <string name="payment_summary">%1$s – nastaveno jako výchozí</string>
@@ -431,7 +429,6 @@ Zapojte do původního telefonu jeho kabel. Pomocí adaptéru v balení kabel p
   <string name="preview_page_indicator_content_description">Náhled, stránka %1$d z %2$d</string>
   <string name="preview_pager_content_description">Náhled</string>
   <string name="printer_info_desc">Další informace o této tiskárně</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_stats_total_duration">Za poslední období %3$s bylo využito %1$s z %2$s</string>
   <string name="process_stats_total_duration_percentage">Za dobu %2$s bylo použito %1$s paměti RAM</string>
   <string name="profile_section_header">Pracovní oznámení</string>
@@ -545,7 +542,6 @@ Poznámka: Otisk prstu nelze použít k odemykání tohoto zařízení. Další
   <string name="suggestion_remove">Odstranit</string>
   <string name="suggestions_summary">+%1$d</string>
   <string name="suggestions_title">Návrhy</string>
-  <string name="summary_range_symbol_combination">%1$s – %2$s</string>
   <string name="support_country_format" formatted="false">%s – %s</string>
   <string name="support_country_list_title">Podpora pro zemi:</string>
   <string name="support_disclaimer_content">""Abychom vám mohli odpovědět na dotazy ohledně telefonu, do Googlu budou odeslány informace o systému, včetně údajů o využití aplikací. 

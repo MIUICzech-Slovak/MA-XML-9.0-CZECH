@@ -238,7 +238,6 @@
   <string name="packaging_dialog_content">Generuje se hlášení, čekejte prosím…</string>
   <string name="permission_granted">Získaná povolení %1$s</string>
   <string name="pic_not_exist">Tento obrázek neexistuje</string>
-  <string name="pic_view_format">%1$s\"/\"%2$s</string>
   <string name="plus_one_submit_dialog_content">Vaše zpětná vazba společně s protokoly chyb bude odeslána na servery Mi.</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamatovat nastavení</string>
   <string name="post_miui_bbs_failed">Nelze odeslat příspěvek do fóra</string>

@@ -152,7 +152,6 @@
   <string name="disk_total">"Celkem: "</string>
   <string name="dlg_error_unmount_text">"Nelze odebrat USB úložiště. Zkuste to znovu."</string>
   <string name="download">Stáhnout</string>
-  <string name="download_current_progress">%1$d%%</string>
   <string name="download_fail">Nelkze stáhnout</string>
   <string name="download_failed">Stahování selhalo!</string>
   <string name="download_link_completed">Sdílím %1$s přes MiDrive. Klikněte na odkaz níže: </string>
@@ -186,7 +185,6 @@
   <string name="favorite_photo">Fotografie</string>
   <string name="favorite_ringtone">Vyzvánění</string>
   <string name="favorite_screen_cap">Screenshot MIUI</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_already_downlaoded">Soubor uložen do \"%1$s\"</string>
   <string name="file_change_btn_download">Stáhnout</string>
   <string name="file_change_btn_upload">Odeslat</string>

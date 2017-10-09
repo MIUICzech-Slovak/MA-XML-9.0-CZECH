@@ -264,7 +264,6 @@ pro %s."</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789AÁBCČDĎEÉĚFGHCHIÍJKLMNŇOÓPQRŘSŠTŤUÚVWXYÝZŽ"</string>
   <string name="fcComplete">Požadavek zadaný pomocí kódu funkce byl úspěšně dokončen.</string>
   <string name="fcError">Problém s připojením nebo neplatný kód funkce.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Najít</string>
   <string name="find_next">Najít další</string>
   <string name="find_on_page">Hledat na stránce</string>

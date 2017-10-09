@@ -90,7 +90,6 @@
   <string name="bind_stb">Pokračovat v párování set-top boxu</string>
   <string name="bind_stb_dlg">Spárujte váš set-top box pro možnost přepínání kanálů</string>
   <string name="bind_stb_dlg_agree">Párovat</string>
-  <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Vyberte výrobce</string>
   <string name="brand_title_all">Vše</string>
   <string name="brand_title_hot">Populární</string>
@@ -289,7 +288,6 @@
   <string name="hot_videos">Populární</string>
   <string name="hour">hod</string>
   <string name="humidity">Vlhkost:</string>
-  <string name="humidity_frame">%1$d%%</string>
   <string name="increase">Nahoru</string>
   <string name="input_complete">Hotovo</string>
   <string name="input_source">Vstupní zdroj</string>
@@ -345,7 +343,6 @@
   <string name="loading_ir_data">Ještě chvilku…</string>
   <string name="locate_current_place">Najít aktuální polohu</string>
   <string name="location_select">Přejmenovat zařízení</string>
-  <string name="lock_screen_device_sum">%1$d</string>
   <string name="login">Přihlásit se</string>
   <string name="login_directly">Přihlásit se</string>
   <string name="login_done">Přihlášeno</string>
@@ -371,7 +368,6 @@
   <string name="match_data">Detaily párování</string>
   <string name="match_data_error_tips">"Informace nenalazeny.
  Pro pokračování se vraťte o krok zpět"</string>
-  <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Směrová tlačítka fungují?</string>
   <string name="match_dvd_intro_pause">Uvolněte, když se přehrávání DVD pozastaví</string>
   <string name="match_dvd_intro_play">Uvolněte, když DVD začne přehrávat</string>
@@ -574,8 +570,6 @@ přímo z vaší zamykací obrazovky"</string>
   <string name="scaning">Vyhledávám…</string>
   <string name="scanning_milink">Vyhledávání zařízení…</string>
   <string name="scene_default">Výchozí</string>
-  <string name="scene_name_frame">%1$s %2$s%3$s</string>
-  <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screenshot">Snímek obrazovky</string>
   <string name="screenshot_failed">Snímek obrazovky se nezdařil</string>
   <string name="screenshot_failed_and_check_connection">Snímek obrazovky se nezdařil, zkontrolujte připojená zařízení</string>
@@ -675,7 +669,6 @@ přímo z vaší zamykací obrazovky"</string>
   <string name="start_match">Párovat</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Set-top box</string>
-  <string name="stb_detail_title_frame">%1$s - %2$d</string>
   <string name="stb_power">STB zap./vyp.</string>
   <string name="steps">Pokus #%d</string>
   <string name="stop_diagnosis">Zastavit</string>

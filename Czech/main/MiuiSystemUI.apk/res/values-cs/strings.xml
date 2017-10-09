@@ -221,7 +221,6 @@ Použijte síťovou nabíječku."</string>
   <string name="nav_guide_message">Můžete použít gesta na zobrazení/skrytí navigačních tlačítek.</string>
   <string name="nav_guide_ok">Nastavení</string>
   <string name="nav_guide_title">Skrýt navigační tlačítka</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_multi_window_app">Žádná aplikace s podporou Multi-Window</string>
   <string name="no_notification_tips">Žádné notifikace</string>
   <string name="no_weather_description">Získat info o počasí &gt;</string>
@@ -396,7 +395,6 @@ přetažením dolů uzamknete"</string>
   <string name="vpn_title">VPN aktivní</string>
   <string name="vpn_title_long">Připojování k VPN přes %s</string>
   <string name="weather_description">%1$s</string>
-  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Aktualizováno %1$s</string>
   <string name="wifi_connected_no_internet">Připojeno, žádný Internet</string>
   <string name="wifi_disabled_generic">Deaktivováno</string>

@@ -91,7 +91,6 @@
   <string name="call_sim_menu_title_suffix">(Primární)</string>
   <string name="call_telex">Volat na číslo Telex</string>
   <string name="call_tty_tdd">Volat na číslo TTY/TDD</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_work">Volat do práce</string>
   <string name="call_work_mobile">Volat na pracovní mobil</string>
   <string name="call_work_pager">Volat na pracovní pager</string>
@@ -476,7 +475,6 @@ Chyba: \"%s\""</string>
   <string name="foundTooManyContacts">Nalezeno více než %d</string>
   <string name="fraud_more_indemnity">Více</string>
   <string name="frequentList">Často používaní</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Celé jméno</string>
   <string name="gallery">Galerie</string>
   <string name="generic_no_account_prompt">Mějte svoje kontakty v bezpečí i když ztratíte telefon: synchronizujte je online.</string>
@@ -555,7 +553,6 @@ Chyba: \"%s\""</string>
   <string name="import_weibo_fetch_followers">Získávání Sina Weibo přátel...</string>
   <string name="import_weibo_notification_title_done">Import kompletní (%s)</string>
   <string name="import_weibo_progress_name">%1$s</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importování kontaktů ze SIM...</string>
   <string name="importing_sim_contacts_miui_prepare">Příprava na import...</string>
   <string name="importing_vcard_canceled_title">Import %s byl přerušen</string>
@@ -1133,7 +1130,6 @@ Synchronizujte je nyní."</string>
   <string name="sim_no_contact">Žádné kontakty na SIM kartě</string>
   <string name="sim_unloaded">SIM karta není načtena</string>
   <string name="single_group_list_empty">Prázdná skupina</string>
-  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Podle firmy</string>
   <string name="smart_group_company_unavailable">Neznámá firma</string>
   <string name="smart_group_frequency_1">Poslední měsíc</string>
@@ -1272,7 +1268,6 @@ Vyberte si z následujících možností:</string>
   <string name="voip_recommend_msg">Použít MiVoice</string>
   <string name="voip_shortcut_name">MiVoice</string>
   <string name="websiteLabelsGroup">WWW stránka</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Vymazat data</string>
   <string name="yellowPageNavigationIconLabel">Zlaté stránky</string>
   <string name="yellowPageNavigationLabel">Zlaté stránky</string>

@@ -97,7 +97,6 @@
   <string name="shutdown_alarm_enable_summary">Budík bude zvonit při vypnutém zařízení</string>
   <string name="shutdown_alarm_title">Zapnout zařízení před buzením</string>
   <string name="silent_alarm_summary">Tichý</string>
-  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Vypnout jen %s</string>
   <string name="slider_text">Potáhněte nahoru</string>
   <string name="snooze_confirm_cancel">Zrušit budík</string>

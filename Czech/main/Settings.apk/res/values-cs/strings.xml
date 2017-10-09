@@ -787,7 +787,6 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
   <string name="calendar_sound_title">Zvuk kalendáře</string>
   <string name="call_manager_enable_summary">Povolí této službě spravovat způsob uskutečňování hovorů.</string>
   <string name="call_manager_enable_title">Aktivovat Správce hovorů</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Správce hovorů</string>
   <string name="call_settings_primary_user_only">Změnit nastavení hovorů v Primárním profilu</string>
   <string name="call_settings_summary">Nastavení hlasové schránky, přesměrování a čekání hovorů a ID volajícího</string>
@@ -1298,7 +1297,6 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="dndm_auto_button_title">Naplánovat</string>
   <string name="dndm_auto_setting_group">Naplánovat aktivaci</string>
   <string name="dndm_auto_time_setting">Nastavení času</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Do</string>
   <string name="dndm_auto_time_turn_off_title">Automaticky deaktivovat režim Nerušit</string>
   <string name="dndm_auto_time_turn_on">Od</string>
@@ -1661,7 +1659,6 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
   <string name="gadget_picker_title">Zvolte gadget</string>
   <string name="gadget_state_off">vypnuto</string>
   <string name="gadget_state_on">zapnuto</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">vypínání</string>
   <string name="gadget_state_turning_on">zapínání</string>
   <string name="gadget_sync">Synchronizace</string>
@@ -2241,7 +2238,6 @@ V tomto zařízení jsou přítomni další uživatelé.
   <string name="memory_title">Dostupné: %1$s\u0009\u0009Celkem: %2$s</string>
   <string name="memory_usage">Využití paměti</string>
   <string name="memory_usage_apps">Paměť používaná aplikacemi</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Za poslední 3 hodiny bylo v průměru využito %1$s paměti.</string>
   <string name="menu_cancel">Zahodit</string>
   <string name="menu_check">Experience</string>
@@ -2302,7 +2298,6 @@ V tomto zařízení jsou přítomni další uživatelé.
   <string name="miracast_wifi_off">Pro použití Miracast zapněte Wi-Fi</string>
   <string name="misc_files">Různé soubory</string>
   <string name="misc_files_selected_count">vybráno: %1$d z %2$d</string>
-  <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
   <string name="miui_allow_alarm">povolit budík</string>
   <string name="miui_allow_light">povolit světlo</string>
   <string name="miui_allow_music">povolit hudbu</string>
@@ -2487,7 +2482,6 @@ Zvolte Váš operační systém:"</string>
   <string name="nfc_how_it_works_got_it">Rozumím</string>
   <string name="nfc_how_it_works_title">Platba na terminálu</string>
   <string name="nfc_more_title">Další...</string>
-  <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
   <string name="nfc_payment_default">Výchozí platební aplikace</string>
   <string name="nfc_payment_default_not_set">Nenastaveno</string>
   <string name="nfc_payment_favor_default">Vždy</string>
@@ -2509,7 +2503,6 @@ Zvolte Váš operační systém:"</string>
   <string name="nfc_se_wallet_title">Výchozí peněženka</string>
   <string name="night_mode_auto">Automatický</string>
   <string name="night_mode_no">Světlý</string>
-  <string name="night_mode_summary">%s</string>
   <string name="night_mode_title">Motiv</string>
   <string name="night_mode_yes">Tmavý</string>
   <string name="no">Ne</string>
@@ -2569,8 +2562,6 @@ Zvolte Váš operační systém:"</string>
   <string name="notifications_no_peeking">Rychlý náhled zakázán</string>
   <string name="notifications_priority">Prioritní</string>
   <string name="notifications_sensitive">Citlivý obsah byl skryt</string>
-  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="now">Teď</string>
   <string name="nsd_quick_toggle_summary">Povolit aplikacím v jiných zařízeních vyhledávat aplikace v tomto zařízení</string>
   <string name="nsd_quick_toggle_title">Zjistitelnost po síti</string>
@@ -3490,7 +3481,6 @@ Postup připnutí obrazovky:
   <string name="service_foreground_processes">Využito: %1$s</string>
   <string name="service_manage">Nastavení</string>
   <string name="service_manage_description">%1$s: právě se používá. Ovládací prvky zobrazte dotykem na Nastavení.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Probíhá restartování</string>
   <string name="service_started_by_app">Spuštěno aplikací.</string>
   <string name="service_stop">Zastavit</string>
@@ -3661,7 +3651,6 @@ Zbývá:"</string>
   <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>
   <string name="sim_select_card">Vyberte SIM kartu</string>
   <string name="sim_selection_required_pref">Vyžadován výběr</string>
-  <string name="sim_settings_summary">%1$s – %2$s</string>
   <string name="sim_settings_title">SIM karty</string>
   <string name="sim_setup_wizard_title">SIM karty</string>
   <string name="sim_slot_empty">Prázdná SIM</string>
@@ -4006,7 +3995,6 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Probíhá synchronizace...</string>
   <string name="sync_is_failing">Nastaly potíže se synchronizací. Služba bude brzy obnovena.</string>
-  <string name="sync_item_title">Synchr.: %s</string>
   <string name="sync_menu_sync_cancel">Zrušit synchronizaci</string>
   <string name="sync_menu_sync_now">Synchronizovat</string>
   <string name="sync_now">Synchr.</string>
@@ -5068,7 +5056,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zen_mode_rule_name_hint">Zadejte název pravidla</string>
   <string name="zen_mode_rule_name_warning">Název pravidla je již použito</string>
   <string name="zen_mode_rule_not_found_text">Pravidlo nebylo nalezeno</string>
-  <string name="zen_mode_rule_summary_combination">%1$s / %2$s</string>
   <string name="zen_mode_rule_type">Typ pravidla</string>
   <string name="zen_mode_rule_type_unknown">Neznámé</string>
   <string name="zen_mode_schedule_rule_days">Dny</string>
@@ -5081,7 +5068,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zen_mode_summary_alarms_only_by_time">Změna na možnost Pouze budíky, platná do %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Změna na možnost Pouze budíky, platná trvale</string>
   <string name="zen_mode_summary_always">Změna na možnost Vždy přerušit</string>
-  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_when">Automaticky zapnout</string>
   <string name="zen_mode_when_every_night">Každou noc</string>
   <string name="zen_mode_when_never">Nikdy</string>
