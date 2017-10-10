@@ -2597,4 +2597,12 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wlan_booster">WLAN speed boost</string>
   <string name="wlan_change_protection_detail">Nepřepínat automaticky na Wi-Fi po připojení na mobilní data</string>
   <string name="wlan_change_protection_title">Zamezit změnu sítě</string>
+  <string name="back_app_name">Zpět na zámek aplikací</string>
+  <string name="back_modifypassword">Zpět na změnu hesla</string>
+   <string name="antivirus_main_activity_back">Zpět z kontroly</string>
+   <string name="data_booster_desc">Deaktivovat druhou SIM kartu pro udržení stabilního připojení</string>
+   <string name="data_booster_title">Stabilizovat řipojení</string>
+   <string name="game_anti_disturb_msg">DND Hry</string>
+   <string name="gamebooster_main_activity_back">Nazpět ke Zrychlení her</string>
+   <string name="xunyou_server_expired">Relace vypršela</string>
 </resources>

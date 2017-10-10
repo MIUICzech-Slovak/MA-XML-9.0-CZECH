@@ -434,4 +434,14 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_settings_no_history">Žádná historie</string>
   <string name="wallpaper_settings_pad_more_page_title">Více tapet</string>
   <string name="wallpaper_settings_page_title">tapeta</string>
+  <string name="online_precust_animal">Zvířata</string>
+   <string name="online_precust_building">Architektura</string>
+  <string name="online_precust_cartoon">Pohádky</string>
+   <string name="online_precust_creative">Kreativita</string>
+   <string name="online_precust_entertainment">Zábava</string>
+   <string name="online_precust_lifestyle">Styl</string>
+   <string name="online_precust_plant">Rastliny</string>
+   <string name="online_precust_scenery">Krajiny</string>
+   <string name="online_precust_starry_sky">Vesmír</string>
+   <string name="region_not_support">Promiňte, téma není podporováno.</string>
 </resources>
