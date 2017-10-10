@@ -162,9 +162,10 @@
     </plurals>
     <plurals name="confirm_delete_draft">
          <item quantity="other">Vymazat %1$d konceptů?</item>
+	 <item quantity="one">Vymazat %1$d koncept?</item>
      </plurals>
      <plurals name="conversation_msg_header_count">
-         <item quantity="other">… %1$d lidí</item>
-         <item quantity="one">… %1$d člověk</item>
+         <item quantity="other">+%1$d lidí</item>
+         <item quantity="one">+%1$d člověk</item>
      </plurals>
 </resources>

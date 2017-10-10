@@ -145,4 +145,8 @@
   <string name="workday_alarm_clock">Pracovní den</string>
   <string name="worldclock_empty_text">Žádné světové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
+  <string name="add_timezone_title">Přidat časovou zónu</string>
+   <string name="go_back">Zpět</string>
+   <string name="life_post_setting_close_title">Zavřít</string>
+   <string name="more_setting">Více nastavení</string>
 </resources>

@@ -1077,4 +1077,19 @@
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
   <string name="you_are"/>
+  <string name="app_is_launching">%s se spouští…</string>
+   <string name="app_is_launching_common">Spouštění aplikace...</string>
+   <string name="photo_editor_navigator_download_network_metered_msg">Stažení %s vyžaduje 4MB dat. Stáhnout nyní?</string>
+   <string name="photo_editor_navigator_download_network_metered_title">Spotřeba dat</string>
+   <string name="photo_editor_navigator_module_download_failed">Nelze stáhnout %s</string>
+   <string name="photo_editor_navigator_module_download_now">Stáhnout</string>
+   <string name="photo_editor_navigator_module_download_success">Staženo</string>
+   <string name="photo_editor_navigator_module_download_wait_wlan">Čekat na Wi-Fi</string>
+   <string name="photo_editor_navigator_module_downloading">Stahování %s…</string>
+   <string name="photo_editor_navigator_need_download">Připojte se na internet a stáhněte %s.</string>
+   <string name="photo_editor_remover">Vymazat</string>
+   <string name="remover_edit_type_free">Objekty</string>
+   <string name="remover_edit_type_line">Čáry</string>
+   <string name="remover_erase_aera_too_big">Zóna vymazání je příliš velká</string>
+   <string name="remover_menu_processing">Zpracovávání</string>
 </resources>
