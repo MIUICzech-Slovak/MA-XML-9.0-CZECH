@@ -2605,4 +2605,29 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="game_anti_disturb_msg">DND Hry</string>
    <string name="gamebooster_main_activity_back">Nazpět ke Zrychlení her</string>
    <string name="xunyou_server_expired">Relace vypršela</string>
+   <string name="app_manager_clear_cache">Vyčistit cache</string>
+   <string name="app_manager_defaults_setting">Výchozí</string>
+   <string name="app_manager_disable_dlg_text">Pokud deaktivujete tuto aplikaci, ostatní aplikace nemusí fungovat správně.</string>
+   <string name="app_manager_disable_dlg_title">Deaktivovat vestavěnou aplikaci?</string>
+   <string name="app_manager_disable_text">Deaktivovat</string>
+   <string name="app_manager_disabled">Deaktivováno</string>
+   <string name="app_manager_enable_text">Povolit</string>
+   <string name="app_manager_enabled">Povoleno</string>
+   <string name="app_manager_globel_other_perm_title">Ostatní povolení</string>
+   <string name="app_manager_globel_perm_summary">Spravovat povolení, jako poloha, úložiště, telefon, SMS, a kontakty.</string>
+   <string name="app_manager_globel_perm_title">Povolení aplikace</string>
+   <string name="app_manager_reset_app_preferences">Obnovit povolení aplikace</string>
+   <string name="app_manager_reset_app_preferences_button">Obnovit aplikace</string>
+   <string name="app_manager_reset_app_preferences_desc">"Budou obnovena tato oprávnění:
+ 
+  "- Deaktivované aplikace"
+  "- Deaktivované upozornění aplikace"
+  "- Výchozí aplikace"
+  "- Zakázaná mobilní data aplikací"
+ 
+  Neztratíte žádná data aplikací."</string>
+   <string name="app_manager_reset_app_preferences_title">Obnovit nastavení aplikace?</string>
+   <string name="app_manager_uninstall_protected_dlg_msg">Odinstalování systémové aplikace může způsobit nesprávné fungování MIUI. Odinstalovat?</string>
+   <string name="app_manager_uninstall_protected_dlg_title">Odinstalování systémové aplikace</string>
+   <string name="sc_system_risk_fix_info_xspace">Riziko nemůže být opraveno v Druhém profilu.</string>
 </resources>

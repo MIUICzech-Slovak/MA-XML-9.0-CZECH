@@ -444,4 +444,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
    <string name="online_precust_scenery">Krajiny</string>
    <string name="online_precust_starry_sky">Vesmír</string>
    <string name="region_not_support">Promiňte, téma není podporováno.</string>
+   <string name="current_version_incompatible">Nekompatibilní verze</string>
+   <string name="hide_free">"Skrýt neplatné "</string>
+   <string name="hide_incompatible">"Skrýt nekompatibilní "</string>
 </resources>

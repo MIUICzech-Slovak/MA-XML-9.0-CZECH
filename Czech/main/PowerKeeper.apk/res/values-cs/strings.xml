@@ -223,4 +223,6 @@
   <string name="user_define_mode">Název</string>
   <string name="warm_configure">Nastavení kontroly teploty</string>
   <string name="warm_performance_tip">Ve výkonných operacích se může teplota zařízení zvýšit</string>
+  <string name="nonui_mode_config_description">Nerozsvěcovat displej, LED, senzor otisku prstu, když je zařízení v kapse.</string>
+   <string name="nonui_mode_config_title">Neinteraktivní režim</string>
 </resources>

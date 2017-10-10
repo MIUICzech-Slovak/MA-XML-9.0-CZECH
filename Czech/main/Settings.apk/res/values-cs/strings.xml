@@ -15,6 +15,7 @@
   <string name="ac_set_apps_title">Vybrat apl. pro uzamknutí</string>
   <string name="accelerometer_summary_off">Při otáčení zařízení automaticky přepínat orientaci</string>
   <string name="accelerometer_summary_on">Při otáčení zařízení automaticky přepínat orientaci</string>
+  <string name="thememanager_not_found">Nelze otevřít témata. Ujistěte se, že aplikace je nainstalována.</string>
   <string name="accelerometer_title">Auto. otočení obrazovky</string>
   <string name="access_control_app_entry_multiple">Otevřít %s</string>
   <string name="access_control_app_entry_single">Otevřít zvolenou aplikaci</string>
