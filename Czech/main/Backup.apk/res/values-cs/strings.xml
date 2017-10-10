@@ -355,4 +355,29 @@ a Přenos je povolen"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
+  <string name="trans_intro_desc_2">Zrušte přenos a zkuste to znovu. Soubory budou přepsány.</string>
+   <string name="trans_intro_desc_3">Přesun používá Wi-Fi připojení pro přenos souborů. Proto nelze používat internetové připojení přes Wi-Fi během přenosu souborů. Stále můžete využívat připojení přes mobilní data. Mi6 může stále využívat i připojení přes Wi-Fi, díky dvěma Wi-Fi anténám.</string>
+   <string name="trans_intro_desc_4">Úložiště na starém zařízení se využívá na zabalení souborů. Ujistěte se, že máte alespoň 500 MB - 1GB volného místa.</string>
+   <string name="trans_intro_desc_5">Je několik důvodů, proč se to mohlo stát: problém s kompatibilitou systému nebo aplikace, problémem se sítí, atd.</string>
+   <string name="trans_intro_desc_6">Profily některých aplikací (banky a platební aplikácie, atd.) jsou propojené se zařízení kvůi bezpečnosti. Zkuste vymazat data aplikace nebo ji přeinstalovat.</string>
+<string name="trans_intro_desc_account">usíte se znovu přihlásit ke svým účtům (např. Mi Účet, Exchange, Google, atd.) v zařízení z bezpečnostních důvodů.</string>
+   <string name="trans_intro_desc_multiapp">Přenos nepřesouvá data klonovaných aplikací, kvůli možným konfliktům souborů.</string>
+   <string name="trans_intro_desc_multiuser">Přenos nemá přístup k datům v Druhém profilu. Nejprve přesuňte soubory z Druhého profilu do hlavního profilu.</string>
+   <string name="trans_intro_desc_new">Stlačte \"Jsem příjemce\". Vygeneruje se QR kód.</string>
+   <string name="trans_intro_desc_old">Stlačte \"Jsem odesílatel\". Načtěte QR kód na novém zařízení a stiskněte \"Odeslat\".</string>
+   <string name="trans_intro_desc_private">Přenos nemá přístup k fotografiím v tajném albu, protože jsou šifrované. Můžete je obnovit z MiCloud.</string>
+   <string name="trans_intro_question_1">1. Jak se používá přenos?</string>
+   <string name="trans_intro_question_2">2. Co dělat, když se přenos zasekne?</string>
+   <string name="trans_intro_question_3">3. Proč nemohu používat WiFi během přenosu dat?</string>
+   <string name="trans_intro_question_4">4. Proč přenos hlásí málo místa na úložišti?</string>
+   <string name="trans_intro_question_5">5. Proč nelze některé aplikace přesunout?</string>
+   <string name="trans_intro_question_6">6. Přoč některé aplikace nelze spustit?</string>
+   <string name="trans_intro_question_7">7. Proč není WeChat historie plně přesunuta?"</string>
+   <string name="trans_intro_question_8">8. Proč některé položky nelze přesunout?</string>
+ <string name="trans_intro_title_account">Účty a hesla:</string>
+   <string name="trans_intro_title_multiapp">Data Klonovaných aplikací</string>
+   <string name="trans_intro_title_multiuser">Data Druhého profilu:</string>
+   <string name="trans_intro_title_new">Na novém zařízení:</string>
+   <string name="trans_intro_title_old">Na starém zařízení:</string>
+   <string name="trans_intro_title_private">Tajné album:</string>
 </resources>

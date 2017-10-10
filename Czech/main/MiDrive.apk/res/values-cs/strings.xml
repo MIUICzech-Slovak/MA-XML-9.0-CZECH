@@ -707,4 +707,8 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
+  <string name="request_permission_msg">Povolte MiDrive přístup k vašemu účtu.</string>
+   <string name="request_permission_title">Jsou vyžadována povolení</string>
+   <string name="xiaomi_drive_description_content">MiDrive je online úložiště. Chcete jej přestat využívat?</string>
+   <string name="xiaomi_drive_description_title">Co je to MiDrive</string>
 </resources>

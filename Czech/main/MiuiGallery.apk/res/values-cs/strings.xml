@@ -1092,4 +1092,19 @@
    <string name="remover_edit_type_line">Čáry</string>
    <string name="remover_erase_aera_too_big">Zóna vymazání je příliš velká</string>
    <string name="remover_menu_processing">Zpracovávání</string>
+   <string name="search_failed_mark_feedback_false_negative">Nelze přidat</string>
+   <string name="search_failed_mark_feedback_false_positive">Nelze odebrat</string>
+   <string name="search_feedback_contribute">Přidat fotografie do AI databáze</string>
+   <string name="search_feedback_false_negative_text">Přidat fotografie do \"%s\"?</string>
+   <string name="search_feedback_false_negative_title">Vybrané položky jsou \"%s\"</string>
+   <string name="search_feedback_false_positive_text">Odebrat fotografie z \"%s\"?</string>
+   <string name="search_feedback_false_positive_title">Vypadá to, že je tam “%s”</string>
+   <string name="search_feedback_likely_check_title">Zkontrolovat</string>
+   <string name="search_feedback_likely_title">Tyto fotografie mohou mít \"%s\"</string>
+   <string name="search_feedback_task_finish_title">Dotkem získáte ocenění!</string>
+   <string name="search_feedback_task_request_award_failed">Nelze získat ocenění. Zkuste to znovu.</string>
+   <string name="search_feedback_task_requesting_award">Získávání ocenění...…</string>
+   <string name="search_mark_feedback_all_false_negative_title">Všechny jsou \"%s\"</string>
+   <string name="search_mark_feedback_false_negative_title">OK</string>
+   <string name="search_mark_feedback_false_positive_title">Opravit</string>
 </resources>

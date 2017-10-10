@@ -75,4 +75,17 @@
   <string name="sender_wait_queue">Čekání</string>
   <string name="transfer_interrupt">Přenos přerušen</string>
   <string name="transmission_connect">Příjemce nenalezen</string>
+  <string name="HIPS_Perm_External_Storage">Přístup a změna souborů na úložišti</string>
+   <string name="HIPS_Perm_Location">Získat polohu</string>
+   <string name="HIPS_Perm_PhoneID">Získat informace o zařízení</string>
+   <string name="HIPS_Perm_Settings">Změnit nastavení</string>
+   <string name="HIPS_Perm_WIFI_Connectivity">Změnit Wi-Fi připojení</string>
+   <string name="HIPS_Perm_background_start_activity">Spuštění na pozadí</string>
+   <string name="HIPS_Perm_get_accounts">Přístup k účtům v zařízení</string>
+   <string name="HIPS_Perm_get_installed_apps">Získat seznam nainstalovaných aplikací</string>
+   <string name="btn_goto_grant">Povolit</string>
+   <string name="description_content">MiDrop poskytuje přenos souborů mezi zařízeními.</string>
+   <string name="description_title">Co je to MiDrop</string>
+   <string name="request_permission_msg">MiDrop vyžaduje %s, povolte oprávnění</string>
+   <string name="request_permission_title">Povolení</string>
 </resources>

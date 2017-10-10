@@ -345,4 +345,20 @@
          <item quantity="other">Nelze stáhnout %1$d souborů, zkontrolujte nastavení sítě</item>
          <item quantity="one">Nelze stáhnout %1$d soubor, zkontrolujte nastavení sítě</item>
      </plurals>
+     <plurals name="search_feedback_done_mark_false_positive">
+         <item quantity="other">Odstraněno %1$d forografií z \"%2$s\".</item>
+         <item quantity="one">Odstraněna %1$d fotografie z \"%2$s\".</item>
+     </plurals>
+     <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+         <item quantity="other">Odstraněno %1$d forografií z \"%2$s\" a přidáno do databáze.</item>
+         <item quantity="one">Odstraněna %1$d fotografie z \"%2$s\" a přidána do databáze.</item>
+     </plurals>
+     <plurals name="search_feedback_done_mark_false_negative">
+         <item quantity="other">Přidáno %1$d forografií do \"%2$s\".</item>
+         <item quantity="one">Přidána %1$d fotografie do \"%2$s\".</item>
+     </plurals>
+     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+         <item quantity="other">Přidáno %1$d forografií do \"%2$s\" a přidáno do databáze.</item>
+         <item quantity="one">Přidána %1$d fotografie do \"%2$s\" a přidána do databáze.</item>
+     </plurals>
 </resources>
