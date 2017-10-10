@@ -920,4 +920,31 @@ Chcete opustit tuto stránku?"</string>
   <string name="webview_find_on_page">Najít na stránce</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
+  <string name="action_menu_request_desktop_site">Rozložení stránky, jako na PC</string>
+   <string name="action_menu_request_desktop_site_off">Vyp</string>
+   <string name="action_menu_request_desktop_site_on">Zap</string>
+   <string name="action_menu_text_bookmark_add_off">Nelze přidat žádnou stránku.</string>
+   <string name="add_pwa_to_homescreen">Přidat tuto stránku na plochu?</string>
+   <string name="agree_permissions_request">Souhlasím</string>
+   <string name="cancle_sync_cloud_tabs">Zrušit synchr.</string>
+   <string name="contextmenu_openlink_in_browser">Otevřít v Prohlížeči</string>
+   <string name="empty_cloud_tab_login_hint">Žádné cloudové karty</string>
+   <string name="empty_cloud_tab_logout_hint">"Přihlásit se k Mi účtu
+  a karty otevřené na jiném zařízení se zobrazí zde"</string>
+   <string name="finish_sync_cloud_tabs">Synchr. dokončena</string>
+   <string name="ignore_add_pwa_dialog_today">Dnes již nezobrazovat</string>
+   <string name="permission_notification">odeslat upozornění</string>
+   <string name="permissions_prompt_message">"%s chce "</string>
+   <string name="pref_accept_quicklink_push">Start page push</string>
+   <string name="pwa_app_name">Web App</string>
+   <string name="quicklink_push_confirm_message">Turning this feature off will affect start page push.</string>
+   <string name="refuse_permissions_request">Odmítnout</string>
+   <string name="suggest_access_item_app_mark">APP</string>
+   <string name="suggest_access_item_book_mark">BOOK</string>
+   <string name="suggest_access_item_mina_mark">DIRECT SERVICE</string>
+   <string name="suggest_access_item_music_mark">MUSIC</string>
+   <string name="suggest_access_item_site_mark">SITES</string>
+   <string name="suggest_access_item_video_mark">VIDEO</string>
+   <string name="suggest_access_item_website_mark">WEBSITE</string>
+   <string name="sync_cloud_tabs">Synchr.</string>
 </resources>

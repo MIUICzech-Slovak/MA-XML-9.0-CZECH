@@ -19,6 +19,7 @@
   <string name="account_and_calendar">Účet a kalendář</string>
   <string name="account_and_calendar_to_display">Zobrazit účet a kalendář</string>
   <string name="accounts">Účty a synchronizace</string>
+  <string name="email_install_hint">Aplikace E-mail byla odinstalována. Nainstalujte ji znovu pro obnovení dat kalendáře a vašich účtů.</string>
   <string name="acct_not_synced">Tento účet není synchronizován, proto kalendáře nemusí být aktuální.</string>
   <string name="acessibility_cal_notification">Oznámení kalendáře</string>
   <string name="acessibility_selected_marker_description">Vybrané události</string>
