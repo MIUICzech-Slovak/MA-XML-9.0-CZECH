@@ -303,6 +303,6 @@
   <string name="warning_field_empty">Zadejte %1$s</string>
   <string name="warning_field_invalid">Vyberte platný %1$s</string>
   <string name="customer_service_apply">Request customer service</string>
- +  <string name="customer_service_complain">Report customer service</string>
- +  <string name="customer_service_station">Service locations</string>
+   <string name="customer_service_complain">Report customer service</string>
+   <string name="customer_service_station">Service locations</string>
 </resources>
