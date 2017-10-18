@@ -2603,7 +2603,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="data_booster_desc">Deaktivovat druhou SIM kartu pro udržení stabilního připojení</string>
    <string name="data_booster_title">Stabilizovat řipojení</string>
    <string name="game_anti_disturb_msg">DND Hry</string>
-   <string name="gamebooster_main_activity_back">Nazpět ke Zrychlení her</string>
+   <string name="gamebooster_main_activity_back">Zpět</string>
    <string name="xunyou_server_expired">Relace vypršela</string>
    <string name="app_manager_clear_cache">Vyčistit cache</string>
    <string name="app_manager_defaults_setting">Výchozí</string>
@@ -2630,4 +2630,18 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="app_manager_uninstall_protected_dlg_msg">Odinstalování systémové aplikace může způsobit nesprávné fungování MIUI. Odinstalovat?</string>
    <string name="app_manager_uninstall_protected_dlg_title">Odinstalování systémové aplikace</string>
    <string name="sc_system_risk_fix_info_xspace">Riziko nemůže být opraveno v Druhém profilu.</string>
+   <string name="forbid_autobright_title">Neměnit jas displeje</string>
+   <string name="game_booster_jump_webview">Načítání...</string>
+   <string name="game_booster_tab_top">Top</string>
+   <string name="game_bootser_tab_settings">Nastavení</string>
+   <string name="gamebooster_lowbattery_notification_summary">Připojte nabíječku, než se telefon vypne.</string>
+   <string name="gamebooster_lowbattery_notification_title">Baterie má méně, než 5%%</string>
+   <string name="gs_call_handsfree">Přijmout hovor přes hands-free</string>
+   <string name="gs_call_handsfree_mute">Režim Nerušit</string>
+   <string name="gs_forbid_autosync">Zakázat synchr. na pozadí</string>
+   <string name="international_Ad">Reklama</string>
+   <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
+   <string name="resource_gamebooster">Hrychlení her</string>
+   <string name="thermal_tips_message">Hraní her ve výkonném režimu, může způsobit přehřívání zařízení.</string>
+   <string name="thermal_tips_title">Upozornění</string>
 </resources>

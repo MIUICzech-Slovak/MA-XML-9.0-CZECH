@@ -409,4 +409,6 @@ přetažením dolů uzamknete"</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="block_notification_desc">Upozornění aplikace už nebudou zobrazeny. Můžete to změnit v nastavení.</string>
   <string name="search_hint">Vyhledat webstránky, aplikace, kontakty, videa...</string>
+  <string name="description_image_button_answer">Přijmout</string>
+  <string name="description_image_button_reject">Odmítnout</string>
 </resources>
