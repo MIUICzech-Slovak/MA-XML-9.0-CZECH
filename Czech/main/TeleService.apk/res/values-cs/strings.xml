@@ -501,7 +501,7 @@
   <string name="gsm_umts_options">Možnosti GSM/UMTS</string>
   <string name="hac_mode_summary">Zapnout režim kompatibility s naslouchátkem</string>
   <string name="hac_mode_title">Naslouchátka</string>
-  <string name="handon_ringer_summary">Nefunguje, pokud jsou zapnuty vibrace pro příchozí hovor</string>
+  <string name="handon_ringer_summary">Ztlumit vyzvánění, když zvednete telefon ze stolu.</string>
   <string name="handon_ringer_title">Zvednutím ztišit</string>
   <string name="hintName">Jméno</string>
   <string name="hintPhonenumber">Telefonní číslo</string>
