@@ -361,4 +361,8 @@
          <item quantity="other">Přidáno %1$d forografií do \"%2$s\" a přidáno do databáze.</item>
          <item quantity="one">Přidána %1$d fotografie do \"%2$s\" a přidána do databáze.</item>
      </plurals>
+     <plurals name="add_secret_ensure_message">
+         <item quantity="other">Skrýt tyto soubory?</item>
+         <item quantity="one">Skrýt tento soubor?</item>
+     </plurals>	
 </resources>

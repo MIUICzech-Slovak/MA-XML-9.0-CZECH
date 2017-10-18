@@ -581,4 +581,7 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství.</string>
+  <string name="nowplaying_circle_style">Styl zobrazení hudby</string>
+  <string name="nowplaying_circle_style_rainbow">Duha</string>
+  <string name="nowplaying_circle_style_wave">Vlna</string>  
 </resources>
