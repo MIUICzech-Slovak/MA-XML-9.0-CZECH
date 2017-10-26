@@ -140,7 +140,7 @@
   <string name="lockscreen_glogin_submit_button">Přihlásit</string>
   <string name="login_website_in_case_forget_password">Pro nastavení hesla jděte na i.xiaomi.com.</string>
   <string name="missed_call_text">Zmeškané hovory: %d</string>
-  <string name="miui_keyguard_ble_unlock_succeed_msg">Odemknuto s MiBand</string>
+  <string name="miui_keyguard_ble_unlock_succeed_msg">Odemknuto s Bluetooth</string>
   <string name="open_camera_hint_text">Potáhněte doleva pro Fotoaparát</string>
   <string name="open_remote_center_hint_text">Potáhněte doprava pro MiRemote</string>
   <string name="open_wifi_settings">Nastavení sítě</string>
