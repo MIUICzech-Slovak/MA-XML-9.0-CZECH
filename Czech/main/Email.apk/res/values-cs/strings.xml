@@ -921,4 +921,5 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
    <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Synchr. kalendáře a kontaktů není povoleno.</string>
    <string name="toastbar_local_calendar_sync_switch_close">Synchr. kalendáře není povoleno</string>
    <string name="toastbar_local_contacts_sync_swtich_close">Synchr. kontaktů není povoleno</string>
+   <string name="meeting_responded_failed">Chyba odpovědi</string>
 </resources>

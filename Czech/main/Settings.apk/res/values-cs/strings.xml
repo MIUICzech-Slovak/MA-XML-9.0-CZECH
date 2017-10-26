@@ -16,6 +16,7 @@
   <string name="accelerometer_summary_off">Při otáčení zařízení automaticky přepínat orientaci</string>
   <string name="accelerometer_summary_on">Při otáčení zařízení automaticky přepínat orientaci</string>
   <string name="thememanager_not_found">Nelze otevřít témata. Ujistěte se, že aplikace je nainstalována.</string>
+  <string name="miui_updater">Aktualizace</string>
   <string name="accelerometer_title">Auto. otočení obrazovky</string>
   <string name="access_control_app_entry_multiple">Otevřít %s</string>
   <string name="access_control_app_entry_single">Otevřít zvolenou aplikaci</string>
@@ -3151,7 +3152,7 @@ Zvolte Váš operační systém:"</string>
   <string name="restrict_background_data_dialog_summary">"Aplikace, které jsou spuštěné na pozadí, nebudou moci načítat nové zprávy. Skutečně chcete zakázat data na pozadí?"</string>
   <string name="restrict_background_data_notification_summary">"Aplikace se nemohou připojit k internetu, pokud jsou data na pozadí omezeny"</string>
   <string name="restrict_background_data_title">Omezená data na pozadí</string>
-  <string name="restrict_max_aspect_ratio_title">Doporučit deaktivaci max. poměru stran</string>
+  <string name="restrict_max_aspect_ratio_title">Nedoporučené aplikace</string>
   <string name="restriction_bluetooth_config_summary">Povolit úpravy párování a nastavení zařízení Bluetooth</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
   <string name="restriction_location_enable_summary">Povolit aplikaci používat informace o vaší poloze</string>
@@ -3230,7 +3231,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="screen_key_press">Stisknutí tlačítek</string>
   <string name="screen_key_press_action">Spustit akci</string>
   <string name="screen_locking_sounds_title">Zvuky zámku obrazovky</string>
-  <string name="screen_max_aspect_ratio_desc">Zda se aplikace může zobrazovat na celé obrazovce</string>
+  <string name="screen_max_aspect_ratio_desc">Aplikace, které se mohou zobrazovat na celé obrazovce</string>
   <string name="screen_max_aspect_ratio_title">Nastavení maximálního poměru stran</string>
   <string name="screen_monochrome_mode_apps_loading">Načítání...</string>
   <string name="screen_monochrome_mode_apps_title">Použít černobílý režim</string>
@@ -3966,7 +3967,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="sub_deactivate_not_supported">Deaktivace není podporována</string>
   <string name="sub_deactivate_success">Deaktivováno</string>
   <string name="subs_settings">Stav SUBS</string>
-  <string name="suggest_unrestrict_max_aspect_ratio_title">Doporučit aktivování max. poměru stran</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Doporučené aplikace</string>
   <string name="sum_carrier_select">Vybrat síťového operátora</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_range_verbal_combination">%1$s až %2$s</string>
@@ -4232,7 +4233,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="unlock_set_unlock_summary">Povolte prosím heslo displeje pro nastavení ochrany heslem</string>
   <string name="unlock_setup_wizard_fingerprint_details">Po nastavení zámku obrazovky můžete v Nastavení &gt; Zabezpečení nastavit také otisk prstu.</string>
   <string name="unmount_inform_text">Úložiště USB bude odpojeno.</string>
-  <string name="unrestrict_max_aspect_ratio_title">Podporovat max. poměru stran</string>
+  <string name="unrestrict_max_aspect_ratio_title">Podporován max. poměr stran</string>
   <string name="untitled_apn">Bez názvu</string>
   <string name="update_new_version">Dostupná aktualizace</string>
   <string name="update_progress_for_updates">Aktualizace（%s）</string>
