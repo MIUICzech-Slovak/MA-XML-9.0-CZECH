@@ -365,4 +365,40 @@
          <item quantity="other">Skrýt tyto soubory?</item>
          <item quantity="one">Skrýt tento soubor?</item>
      </plurals>	
+     <plurals name="delete_photo_from_local">
+         <item quantity="other">Vymazat %d fotografií?</item>
+         <item quantity="one">Vymazat tuto fotografii?</item>
+      </plurals>
+     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+         <item quantity="other">Vymazat %d fotografií ze všech zařízení a MiCloud?</item>
+         <item quantity="one">Vymazat tuto fotografii ze všech zařízení a MiCloud?</item>
+      </plurals>
+     <plurals name="delete_photo_from_this_album_and_cloud_msg">
+         <item quantity="other">Vymazat %d fotografií z tohoto alba a MiCloud?</item>
+         <item quantity="one">Vymazat tuto fotografii z tohoto alba a MiCloud?</item>
+     </plurals>
+     <plurals name="delete_video_from_local">
+         <item quantity="other">Vymazat %d videí?</item>
+         <item quantity="one">Vymazat toto video?</item>
+     </plurals>
+     <plurals name="delete_video_from_all_devices_and_cloud_msg">
+         <item quantity="other">Vymazat %d videí ze všech zařízení a MiCloud?</item>
+         <item quantity="one">Vymazat toto video ze všech zařízení a MiCloud?</item>
+     </plurals>
+     <plurals name="delete_video_from_this_album_and_cloud_msg">
+         <item quantity="other">Vymazat %d videí z tohoto alba a MiCloud?</item>
+         <item quantity="one">Vymazat toto video z tohoto alba a MiCloud?</item>
+     </plurals>
+     <plurals name="delete_media_from_local">
+         <item quantity="other">Vymazat položky (%d)?</item>
+         <item quantity="one">Vymazat %d položku?</item>
+     </plurals>
+     <plurals name="delete_media_from_all_devices_and_cloud_msg">
+         <item quantity="other">Vymazat %d položky ze všech zařízení a MiCloud?</item>
+         <item quantity="one">Vymazat %d položku ze všech zařízení a MiCloud?</item>
+     </plurals>
+     <plurals name="delete_media_from_this_album_and_cloud_msg">
+         <item quantity="other">Vymazat %d položky z tohoto alba a MiCloud?</item>
+         <item quantity="one">Vymazat %d položku z tohoto alba a MiCloud?</item>
+       </plurals>
 </resources>

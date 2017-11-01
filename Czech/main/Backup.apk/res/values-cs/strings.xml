@@ -375,7 +375,7 @@ a Přenos je povolen"</string>
    <string name="trans_intro_title_new">Na novém zařízení:</string>
    <string name="trans_intro_title_old">Na starém zařízení:</string>
    <string name="trans_intro_title_private">Tajné album:</string>
-   <string name="button_import">Import</string>
+   <string name="button_import">Importovat</string>
    <string name="cancel_moving_dialog_message">Chcete ukončit importování?</string>
    <string name="cancel_moving_dialog_title">Zastavit import</string>
    <string name="close_twice_auth_btn">Zavřít 2-fázové přihlašování</string>
