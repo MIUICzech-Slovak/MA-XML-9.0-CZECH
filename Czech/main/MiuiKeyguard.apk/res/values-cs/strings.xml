@@ -78,7 +78,7 @@
   <string name="input_password_after_boot_msg">Po restartu zařízení musíte zadat heslo.</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Nelze přepínat mezi profily během hovoru</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Musíte otevřít První profil po restartu zařízení</string>
-  <string name="input_password_handle_sdcard_fs">Vypněte Optimalizaci emulované SD karty v Nastavení pro vývojáře.</string>
+  <string name="input_password_handle_sdcard_fs">Nelze vejít do druhého prostoru ze zamykací obrazovky. Vejděte z prvního profilu</string>
   <string name="input_password_hint_text">Zadejte heslo</string>
   <string name="input_pattern_hint_text">Zadejte svůj odemykací vzor</string>
   <string name="input_pin_code">PIN</string>

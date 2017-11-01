@@ -386,4 +386,16 @@
          <item quantity="other">Vyčištěných virů: %d</item>
          <item quantity="one">Vyčištěných virů: %d</item>
      </plurals>	
+     <plurals name="number_masked">
+         <item quantity="other">%d apl.</item>
+         <item quantity="one">%d apl.</item>
+     </plurals>
+     <plurals name="number_masked_text">
+         <item quantity="other">%d upozornění bylo skryto</item>
+         <item quantity="one">%d upozornění bylo skryto</item>
+     </plurals>
+     <plurals name="number_to_mask_text">
+         <item quantity="other">%d upozornění je viditelné</item>
+         <item quantity="one">%d upozornění je viditelné</item>
+     </plurals>
 </resources>

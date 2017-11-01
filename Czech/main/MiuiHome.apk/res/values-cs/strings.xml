@@ -265,6 +265,7 @@
   <string name="uninstall">Odinstalovat</string>
   <string name="uninstall_dialog_message">Odebrat aplikaci</string>
   <string name="uninstall_dialog_title_format">Odebrat \"%s\"</string>
+  <string name="action_add_to_workspace">Přidat do pracovního prostoru</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">Odinstalovat %s a %d dalších apl.?</string>
   <string name="uninstall_result_failed">Nelze odinstalovat %s</string>
   <string name="uninstall_result_multi_succeeded">Odinstalované apl. (%1$d)</string>

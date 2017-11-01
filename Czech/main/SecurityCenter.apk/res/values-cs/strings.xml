@@ -2643,4 +2643,21 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="resource_gamebooster">Hrychlení her</string>
    <string name="thermal_tips_message">Hraní her ve výkonném režimu, může způsobit přehřívání zařízení.</string>
    <string name="thermal_tips_title">Upozornění</string>
+   <string name="ac_mask_all_apps">Skrýt všechny apl.</string>
+   <string name="ac_unmask_all_apps">Odkrýt všechny aplikace</string>
+   <string name="app_manager_as_dlg_msg">Povolení autostartu pro apikace vyžaduje více RAM a spotřebu baterie. Povolit?</string>
+   <string name="app_manager_as_dlg_title">Upozornění</string>
+   <string name="app_manager_has_not_data">Žádná data</string>
+   <string name="more_lock">Více</string>
+   <string name="notification_masked_item">Skrýt upozornění</string>
+   <string name="notification_masked_subtitle">Skrýt upozornění pro zamknuté aplikace</string>
+   <string name="status_bar_network_flow_content">Dnes: %1$s Zbývá: %2$s</string>
+   <string name="status_bar_network_flow_content_not_setting">Dnes: %1$s Tento měsíc: %2$s</string>
+   <string name="status_bar_network_flow_exceed_content">Dnes: %1$s Překročeno: %3$s</string>
+   <string name="status_bar_network_flow_phone_balance">"   Phone balance:%1$s "</string>
+   <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
+   <string name="status_bar_network_flow_setup_data_plan">"   Nastavit spotřebu dat &gt;"</string>
+   <string name="status_bar_network_flow_today">Dnes: %1$s</string>
+   <string name="suggest_app_tolock_masked">Skryté</string>
+   <string name="suggest_app_tolock_unmasked">Viditelné upozornění</string>
 </resources>
