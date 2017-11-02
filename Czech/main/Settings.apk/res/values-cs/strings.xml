@@ -2234,7 +2234,7 @@ V tomto zařízení jsou přítomni další uživatelé.
   <string name="memory_media_usage">Média</string>
   <string name="memory_music_usage">Zvuk (hudba, vyzvánění, podcasty atd.)</string>
   <string name="memory_performance">Výkon</string>
-  <string name="memory_rightvalue">Dostupné: %s</string>
+  <string name="memory_rightvalue">Kapacita: %s</string>
   <string name="memory_settings_title">Paměť</string>
   <string name="memory_size">Celková paměť</string>
   <string name="memory_title">Dostupné: %1$s\u0009\u0009Celkem: %2$s</string>
@@ -5082,4 +5082,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
   <string name="launch_recents">Zobrazit nedávné</string>
+  <string name="lockscreen_magazine">Denní tapeta</string>
+  <string name="lockscreen_magazine_title">Denní tapeta</string>  
 </resources>
