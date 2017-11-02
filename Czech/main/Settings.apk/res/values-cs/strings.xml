@@ -2112,7 +2112,6 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
   <string name="lockscreen_glogin_checking_password">Kontrola...</string>
   <string name="lockscreen_glogin_password_hint">Heslo</string>
   <string name="lockscreen_glogin_submit_button">Přihlásit se</string>
-  <string name="lockscreen_magazine_title">Denní tapeta zamyk. obrazovky</string>
   <string name="login_account_dialog_message">Přihlaste se svým Mi účtom a povolte synchr. s MiCloud.</string>
   <string name="login_account_dialog_title">Přihlaste se Mi účtem</string>
   <string name="login_action">Přihlásit se</string>
