@@ -2589,7 +2589,7 @@ Zvolte Váš operační systém:"</string>
   <string name="open_miui_optimization_title">Aktivovat optimalizaci MIUI</string>
   <string name="open_miui_optimization_warning_message">Vaše zařízení se restartuje pro aplikování těchto změn</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Zrušit</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Zavřít</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Deaktivovat</string>
   <string name="open_personal_assistant_dialog_desc">Nebude možné používat Asistenta. Chcete jej vypnout?</string>
   <string name="open_personal_assistant_dialog_title">Deaktivovat Asistenta</string>
   <string name="open_personal_assistant_title">Aktivovat Asistenta</string>
@@ -5082,5 +5082,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
   <string name="launch_recents">Zobrazit nedávné</string>
   <string name="lockscreen_magazine">Denní tapeta</string>
-  <string name="lockscreen_magazine_title">Denní tapeta</string>  
+  <string name="lockscreen_magazine_title">Denní tapeta</string> 
+  <string name="lockscreen_magazine">Denní tapeta</string>
 </resources>
