@@ -704,4 +704,5 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
+  <string name="search_guid_hint">Vyhledat soubor...</string>
 </resources>
