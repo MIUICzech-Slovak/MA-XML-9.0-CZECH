@@ -194,7 +194,6 @@ Můžete je i znovu stáhnout."</string>
   <string name="scanner_fingerprint_tips_desc">Vybrat existující otisk pro vstup do Druhého profilu. Nebude možné jej použít v Prvním profilu.</string>
   <string name="scanner_fingerprint_tips_title">Otevřít Druhý profil použitím otisku prstu</string>
   <string name="scanner_second_space_fingerprint">Naskenovat otisk pro Druhý profil</string>
-  <string name="sdcardfs_dialog_message">Vaše stará data nemusí být kompatibilní s novým souborovým systémem. Optimalizjte data před přepnutím do druhého profilu a restartujte zařízení.</string>
   <string name="search_result_text">Nebyla nalezena žádná apl.</string>
   <string name="secondSpace">Druhý profil</string>
   <string name="second_owner_finger_print">Otisk pro Druhý profil</string>
@@ -309,4 +308,15 @@ Můžete je i znovu stáhnout."</string>
   <string name="fingerprint_number_upper_limit">Příliš mnoho neúspěšných pokusů</string>  
   <string name="dialog_title">Upozornění</string>
   <string name="optimize_now">Optimalizovat</string>
+  <string name="remove_user_click_message">"*Pokud nemáte nic důležitého ve Druhém profilu, %s"</string>
+   <string name="remove_user_click_message_action">můžete vymazat Druhý profil a restartovat zařízení.</string>  
+   <string name="sdcardfs_dialog_message">MIUI 9 má nový souborový formát. Stará data nejsou kompatibilní. Pro vyřešení tohoto problému, aktualizujte systém. Vaše zařízení se dvakrát restartuje.</string>  
+   <string name="sdcardfs_dialog_title">Důležitá aktualizace</string>
+   <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 má nový souborový formát. Stará data nejsou kompatibilní. Pro aktualizaci přesuňte data z Druhého profilu, restartujte zařízení a vytvořte Druhý profil znovu.
+ Pokud nebudete aktualizovat, aplikace ve Druhém profilu nemusí fungovat správně."</string>
+   <string name="sdcradfs_dialog_in_owner_title">Druhý profil</string>
+   <string name="sdcradfs_dialog_in_sec_message">"Pro aktualizaci, by měl být smazán Druhý profil a vytvořen znovu. Přesuňte svá data z Druhého profilu do Prvního profilu a restartujte zařízení.
+ Pokud nebudete aktualizovat, aplikace ve Druhém profilu nemusí fungovat správně."</string>
+   <string name="sdcradfs_dialog_in_sec_title">Důležitá aktualizace</string>
+   <string name="space_created_success">Druhý profil vytvořen</string>
 </resources>
