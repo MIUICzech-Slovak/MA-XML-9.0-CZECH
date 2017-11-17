@@ -2645,7 +2645,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="thermal_tips_title">Upozornění</string>
    <string name="ac_mask_all_apps">Skrýt všechny apl.</string>
    <string name="ac_unmask_all_apps">Odkrýt všechny aplikace</string>
-   <string name="app_manager_as_dlg_msg">Povolení autostartu pro apikace vyžaduje více RAM a spotřebu baterie. Povolit?</string>
+   <string name="app_manager_as_dlg_msg">Povolení autostartu pro aplikace vyžaduje více RAM a spotřebu baterie. Povolit?</string>
    <string name="app_manager_as_dlg_title">Upozornění</string>
    <string name="app_manager_has_not_data">Žádná data</string>
    <string name="more_lock">Více</string>
