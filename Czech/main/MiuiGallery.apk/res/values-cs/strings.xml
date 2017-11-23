@@ -1156,4 +1156,9 @@
    <string name="sticker_words">Slova</string>
    <string name="sync_not_allow_cta_title">Nelze se připojit k síti</string>
    <string name="try_again_later">Zkuste to znovu.</string>
+   <string name="grant_permission_unlock_and_set">Odemknout a nastavit</string>
+   <string name="search_feedback_task_complete">Všechny úlohy jsou dokončeny</string>
+   <string name="search_feedback_user_notice">Souhlasím s %s.</string>
+   <string name="search_feedback_user_policy">MIUI Gallery AI Algorithm Program Privacy Policy</string>
+   <string name="title_tip">Upozornění</string>
 </resources>
