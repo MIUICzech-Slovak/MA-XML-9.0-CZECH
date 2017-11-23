@@ -358,7 +358,7 @@
   <string name="wx_scan">Skener</string>
   <string name="wx_timeline">Baterie</string>
   <string name="xspace_resolver_activity_title">vyberte aplikaci</string>
-  <string name="year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
+  <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
   <string name="Clock_main">Budík</string>
   <string name="Clock_parent">Hodiny</string>
   <string name="MiDrop_parent">MiDrop</string>
@@ -411,4 +411,5 @@
   <string name="agenda_assistant_empty">Dnes žádné události</string>
   <string name="step_cal_unit">kcal</string>
   <string name="card_note_finish">Hotovo</string>
+  <string name="agenda_assistant_allday">Celý den</string>
 </resources>

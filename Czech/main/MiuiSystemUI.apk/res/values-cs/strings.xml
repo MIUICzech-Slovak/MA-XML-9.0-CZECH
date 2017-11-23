@@ -226,7 +226,7 @@ Použijte síťovou nabíječku."</string>
   <string name="no_weather_description">Získat info o počasí &gt;</string>
   <string name="not_support_multi_window">Současná aplikace nepodporuje Multi-Window</string>
   <string name="notification_header_title">Upozornění</string>
-  <string name="notification_hidden_text">Obsah je skrytý</string>
+  <string name="notification_hidden_text">Máte novou zprávu</string>
   <string name="notification_low_battery_action_btn">Povolit</string>
   <string name="notification_low_battery_need_charge">Baterie je téměř vybitá.</string>
   <string name="notification_low_battery_open_save_mode">Povolit šetření baterie</string>
@@ -411,4 +411,17 @@ přetažením dolů uzamknete"</string>
   <string name="search_hint">Vyhledat webstránky, aplikace, kontakty, videa...</string>
   <string name="description_image_button_answer">Přijmout</string>
   <string name="description_image_button_reject">Odmítnout</string>
+  <string name="accessibility_desc_app_allow_block">Upozornění %1$s mohou být skryta.</string>
+   <string name="accessibility_desc_app_unallow_block">Upozornění %1$s nemohou být skryta.</string>
+   <string name="accessibility_desc_block_notification">Skrýt upozornění.</string>
+   <string name="accessibility_desc_cancel_block">Neskrývat.</string>
+   <string name="accessibility_desc_check_block_notification">Vybraná upozornění %1$s.</string>
+   <string name="accessibility_desc_confirm_block">Skrýt.</string>
+   <string name="accessibility_desc_details_page">%1$s podrobnosti.</string>
+   <string name="accessibility_desc_notification_shade">Roletka.</string>
+   <string name="accessibility_desc_quick_settings">Rychlé nastavení.</string>
+   <string name="accessibility_desc_reconfirm_block">Skrýt nyní?</string>
+   <string name="accessibility_desc_select_block_notification">Vyberte upozornění, která chcete skrýt.</string>
+   <string name="accessibility_desc_uncheck_block_notification">Odznačit %1$s upozornění.</string>
+   <string name="accessibility_desc_weather_temperature">Počasí %1s stupňů.</string>
 </resources>

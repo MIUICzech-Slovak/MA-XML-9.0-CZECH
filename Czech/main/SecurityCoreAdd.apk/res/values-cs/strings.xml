@@ -319,4 +319,9 @@ Můžete je i znovu stáhnout."</string>
  Pokud nebudete aktualizovat, aplikace ve Druhém profilu nemusí fungovat správně."</string>
    <string name="sdcradfs_dialog_in_sec_title">Důležitá aktualizace</string>
    <string name="space_created_success">Druhý profil vytvořen</string>
+   <string name="close_second_space">Vymazán Druhý profil</string>
+   <string name="xspace_default_app_summary">Nastavte výchozí aplikaci pro platby, sdílení atd.</string>
+   <string name="xspace_default_app_title">Výchozí aplikace</string>
+   <string name="xspace_default_setting_dialog_title">Výchozí</string>
+   <string name="xspace_default_setting_label">Výchozí aplikace</string>
 </resources>

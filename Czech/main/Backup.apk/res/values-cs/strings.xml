@@ -476,4 +476,7 @@ a Přenos je povolen"</string>
    <string name="trans_wlan_tips_title">"Please don't turn off or switch WLAN"</string>
    <string name="user_name">Apple ID or email</string>
    <string name="user_name_null">User name cannot be empty</string>
+   <string name="error_permissions">Není povolen přístup ke kalendáři, zkontrolujte povolení v nastavení.</string>
+   <string name="select_item_calendar">Kalendář</string>
+   <string name="select_item_notes">Poznámky</string>
 </resources>
