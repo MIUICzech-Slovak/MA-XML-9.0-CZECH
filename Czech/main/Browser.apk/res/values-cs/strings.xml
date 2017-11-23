@@ -947,4 +947,15 @@ Chcete opustit tuto stránku?"</string>
    <string name="suggest_access_item_video_mark">VIDEO</string>
    <string name="suggest_access_item_website_mark">WEBSITE</string>
    <string name="sync_cloud_tabs">Synchr.</string>
+   <string name="sequence_bookmark_description">Změnit pořadí složek</string>
+   <string name="nav_screen_incognito_message">Historie navštívených webstránek se v režimu inkognito nebude nikde ukládat.</string>
+   <string name="nav_screen_incognito_time">Za %s sekund se automaticky vytvoří nová stránka</string>
+   <string name="nav_screen_incognito_title">Inkognito režim</string>
+   <string name="nav_bottom_bar_close_description">Zavřít</string>
+   <string name="go_back_descirption">Zpět</string>
+   <string name="delete_bookmark_action_warning">Vymazat záložky?</string>
+   <string name="check_security_tip_privacy_policy">Ochrana soukormí</string>
+   <string name="check_security_tip_user_agreement">Podmínky používání</string>
+   <string name="bookmark_move_to">Přesunout do</string>
+   <string name="action_menu_text_drop">Ukončit</string>
 </resources>

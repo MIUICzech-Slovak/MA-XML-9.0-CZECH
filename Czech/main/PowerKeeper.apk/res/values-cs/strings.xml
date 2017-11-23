@@ -225,4 +225,8 @@
   <string name="warm_performance_tip">Ve výkonných operacích se může teplota zařízení zvýšit</string>
   <string name="nonui_mode_config_description">Nerozsvěcovat displej, LED, senzor otisku prstu, když je zařízení v kapse.</string>
    <string name="nonui_mode_config_title">Neinteraktivní režim</string>
+   <string name="performance_category">Výkon</string>
+   <string name="power_center">Výkon</string>
+   <string name="power_mode">Nastavení výkonu</string>
+   <string name="power_usage">Využití výkonu</string>
 </resources>
