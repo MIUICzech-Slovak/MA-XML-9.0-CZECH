@@ -25,7 +25,6 @@
   <string name="find_device_error_unknown">Neznámá chyba (%s)</string>
   <string name="find_device_noise_title">Vyhledání zařízení zvukem</string>
   <string name="find_device_notice_p1">Jděte na</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" pro vyhledání, zablokování, nebo obnovu vašeho zařízení.
 Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</string>
   <string name="find_device_stop_noise">Stiskněte OK pro vypnutí</string>

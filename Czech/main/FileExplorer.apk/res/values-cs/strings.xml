@@ -145,7 +145,6 @@
   <string name="dialog_type_text">Text</string>
   <string name="dialog_type_video">Video</string>
   <string name="dir_not_support">Tuto složku nelze nastavit jako soukromou</string>
-  <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prázdná složka</string>
   <string name="disk_available">"Dostupné: "</string>
   <string name="disk_total">"Celkem: "</string>

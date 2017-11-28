@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="battery_saver_turn_on_automatically_pct">%1$s baterie</string>
-  <string name="power_charging">%1$s – %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do úplného nabití</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do úplného nabití ze zásuvky</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do úplného nabití přes USB</string>

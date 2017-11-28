@@ -115,7 +115,6 @@ Délka: %s
   <string name="search_null_text">Zadejte klíčové slovo</string>
   <string name="select_all">Vybrat vše</string>
   <string name="send">Odeslat</string>
-  <string name="send_video_type">Video/*</string>
   <string name="settings">Nastavení</string>
   <string name="show_all_files_tips">Zobrazit všechny soubory</string>
   <string name="show_all_folder_tips">Zobrazit všechny složky</string>

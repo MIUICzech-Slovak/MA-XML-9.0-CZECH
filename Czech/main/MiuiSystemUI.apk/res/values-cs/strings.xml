@@ -319,7 +319,6 @@ Použijte síťovou nabíječku."</string>
 d. MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE
 d. MMMM"</string>
-  <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">Dnes: %1$s | Zbývá: %2$s</string>
   <string name="status_bar_network_flow_exceed_content">Dnes: %1$s | Překročeno: %3$s</string>
   <string name="status_bar_network_flow_limit">" | Balíček: %1$s"</string>
@@ -343,7 +342,6 @@ přetažením dolů uzamknete"</string>
   <string name="status_bar_safepay_scanning">Kontrola platebního prostředí...</string>
   <string name="status_bar_safepay_unknown">Neověřené platební prostředí.</string>
   <string name="status_bar_settings_airplane">Letadlo</string>
-  <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Žádné připojení k internetu</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi připojeno</string>
   <string name="status_bar_style_settings">Nastavení</string>

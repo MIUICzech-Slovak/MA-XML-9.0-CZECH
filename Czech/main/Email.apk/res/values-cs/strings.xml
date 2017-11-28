@@ -213,8 +213,6 @@
   <string name="auto_sync_off">Automatická synchronizace je vypnuta.</string>
   <string name="battery_saver">Úspora baterie</string>
   <string name="battery_saver_keywords">Úspora baterie;e-mail baterie</string>
-  <string name="bcc">Skrytá kopie</string>
-  <string name="bcc_heading">"Skr. kopie: "</string>
   <string name="blank_feedback_toast">Zpětná vazba je prázdná, napište váš názor!</string>
   <string name="body_forward_email_text">[Přeposláno]</string>
   <string name="body_hint">Napsat zprávu</string>
@@ -229,9 +227,6 @@
   <string name="cancel_action">Zrušit</string>
   <string name="cancel_pop3_attchemt_downloading">Zrušení stahování příloh není podporováno v POP3 protokolu.</string>
   <string name="cant_move_or_change_labels">Přesun nelze uskutečnit, protože vybrané zprávy pocházejí z různých účtů.</string>
-  <string name="cc">Kopie</string>
-  <string name="cc_attribution">Kopie: %1$s</string>
-  <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Kopie: "</string>
   <string name="change_folders_selection_dialog_title">Změnit složky</string>
   <string name="change_sync_settings">Změnit nastavení synchronizace</string>
@@ -471,7 +466,6 @@
   <string name="invalid_recipient">Adresa %s je neplatná.</string>
   <string name="invalid_recipient_title">Chyba příjemce</string>
   <string name="kilobytes">%s kB</string>
-  <string name="label_notification_ticker" formatted="false">%s: %s</string>
   <string name="load_from_remote">Pokračovat ve vyhledávání na serveru</string>
   <string name="load_more">Načíst další</string>
   <string name="loading_conversation">Načítá se...</string>
@@ -849,7 +843,6 @@
   <string name="tap_to_configure">Nastavte dotykem</string>
   <string name="tap_to_enable_sync">Zapnete ji klepnutím.</string>
   <string name="tip_cannot_switchview_in_unread_folder">Nelze zobrazit v režimu nepřečtených zpráv</string>
-  <string name="to">Komu</string>
   <string name="to_heading">"Komu: "</string>
   <string name="toast_bar_fail_synchronization">Chyba připojení, zkuste to znovu později.</string>
   <string name="toast_bar_insufficient_memory_space">Nedostatek volného místa v zařízení. Synchronizace selhala.</string>
@@ -866,9 +859,6 @@
   <string name="translation_query_failure">Selhalo</string>
   <string name="translation_technology_support">Technická podpora od PowerWord</string>
   <string name="trash_folder_selection_title">Vyberte Koš serveru pro účet %s</string>
-  <string name="trigger_compose_char">c</string>
-  <string name="trigger_refresh_char">u</string>
-  <string name="trigger_y_char">y</string>
   <string name="try_exchange_login">Zkuste se přihlásit s Exchange</string>
   <string name="turn_auto_sync_on_dialog_body">Změny, které provedete ve všech aplikacích a účtech (nikoli jen v aplikaci E-mail), budou synchronizovány mezi webem, ostatními zařízeními a zařízením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnout</string>
