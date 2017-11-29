@@ -27,6 +27,15 @@
   <string name="add_incall_show_entry">Přidat video</string>
   <string name="add_new_account">Přidat nový účet</string>
   <string name="add_new_entry_for_section">Přidat nový</string>
+  <string name="back_description">Zpět</string>
+   <string name="calllog_call_note_menu">Poznámky</string>
+   <string name="calllog_call_record_menu">Nahrávky</string>
+   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+   <string name="contact_import_methods_dialog_mi_mover">Transfer</string>
+   <string name="contact_import_methods_dialog_title">Vybete metodu importu</string>
+   <string name="contacts_unavailable_import_from_old_device">Importovat z jiného zařízení</string>
+   <string name="contacts_unavailable_import_sim_contacts">Importovat SIM kontakty</string>
+   <string name="import_sim_contacts_hint_title">Importovat SIM kontakty</string>
   <string name="add_organization">Přidat organizaci</string>
   <string name="add_to_my_contacts">Přidat do Mých kontaktů</string>
   <string name="add_wait">Přidat pauzu</string>

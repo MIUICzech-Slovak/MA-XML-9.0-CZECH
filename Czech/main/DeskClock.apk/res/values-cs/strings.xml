@@ -149,4 +149,18 @@
    <string name="go_back">Zpět</string>
    <string name="life_post_setting_close_title">Zavřít</string>
    <string name="more_setting">Více nastavení</string>
+   <string name="invalid_time">Zlý čas: %3$s %1$d: %2$d</string>
+   <string name="life_post_setting">Ranní report</string>
+   <string name="life_post_setting_FBE_remind">Kvůli systémovým omezením se počasí nemusí zobrazovat správně po restartu zařízení</string>
+   <string name="life_post_setting_open_subtitle">Zobrazit informace o počasí po zrušení budíku v čase od 4:00 do 9:30</string>
+   <string name="life_post_setting_open_title">Zobrazit ranní report</string>
+   <string name="life_post_setting_wake_up_list_title">Historie probuzení</string>
+   <string name="life_post_wake_up_acumu_day_title">Počet dní</string>
+   <string name="life_post_wake_up_item_acumu_day">%1$s dní</string>
+   <string name="life_post_wake_up_item_acumu_day_title">Počet dní</string>
+   <string name="life_post_wake_up_item_percentage_title">Mi Fans behind you</string>
+   <string name="life_post_wake_up_item_time_title">Čas probuzení</string>
+   <string name="life_post_wake_up_percentage_title">Mi Fans behind you</string>
+   <string name="life_post_wake_up_time_title">Čas probuzení</string>
+   <string name="life_post_weather_invalid">Nelze získat informace o počasí</string>
 </resources>

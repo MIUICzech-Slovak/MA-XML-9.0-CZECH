@@ -2656,6 +2656,11 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="status_bar_network_flow_exceed_content">Dnes: %1$s Překročeno: %3$s</string>
    <string name="status_bar_network_flow_phone_balance">"   Phone balance:%1$s "</string>
    <string name="status_bar_network_flow_purchase">"   Purchase &gt;"</string>
+   <string name="call_oversea_block">Blokovat hovory ze zahraničí</string>
+   <string name="st_call_intercept_oversea">Blokovat hovory ze zahraničí</string>
+   <string name="st_confirm_dialog_summary_oversea_call">Blokovat příchozí hovory ze zahraničí.</string>
+   <string name="fw_oversea">Blokovat hovory ze zahraničí</string>
+   <string name="fw_oversea_content">Blokovat příchozí hovory ze zahraničí</string>
    <string name="status_bar_network_flow_setup_data_plan">"   Nastavit spotřebu dat &gt;"</string>
    <string name="status_bar_network_flow_today">Dnes: %1$s</string>
    <string name="suggest_app_tolock_masked">Skryté</string>
