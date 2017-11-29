@@ -309,8 +309,8 @@
   <string name="no_network">Nelze se připojit k síti</string>
   <string name="no_network_btn">Znovu</string>
   <string name="notification_summary_after_auto_cleanup">Vyčištěno %s</string>
-  <string name="notification_summary_of_garbage_cleanup">Nepotřebné soubory zabírají %s.</string>
-  <string name="notification_title_of_garbage_cleanup">Upozornění na odpad</string>
+  <string name="notification_summary_of_garbage_cleanup">Uvolnit místo na úložišti</string>
+  <string name="notification_title_of_garbage_cleanup">%s odpadu</string>
   <string name="notify_when">Zobrazit upozornění, když nepotřebné soubory dosáhnou 100MB</string>
   <string name="ok">OK</string>
   <string name="open">Povolit</string>

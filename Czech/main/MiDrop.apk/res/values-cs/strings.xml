@@ -88,4 +88,9 @@
    <string name="description_title">Co je to MiDrop</string>
    <string name="request_permission_msg">MiDrop vyžaduje %s, povolte oprávnění</string>
    <string name="request_permission_title">Povolení</string>
+   <string name="drive_low_memory_description_content">Dochází vám volné místo na úložišti. Chcete uvolnit místo?</string>
+   <string name="drive_low_memory_description_title">Málo volného místa</string>
+   <string name="drive_low_memory_description_toast">Dochází vám volné místo na úložišti</string>
+   <string name="drive_low_memory_positive_content">Vyčistit</string>
+   <string name="source_file_missing">Soubor neexistuje</string>
 </resources>

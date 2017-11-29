@@ -48,5 +48,9 @@
     <plurals name="video_subtitle_last_message">
          <item quantity="other">Zbývá %d min</item>
          <item quantity="one">Zbývá 1 min</item>
+     </plurals>
+     <plurals name="nav_screen_incognito_time">
+         <item quantity="other">Za %d sekund bude vytvořena nová karta</item>
+         <item quantity="one">Za %d sekund bude vytvořena nová karta</item>
      </plurals>	
 </resources>
