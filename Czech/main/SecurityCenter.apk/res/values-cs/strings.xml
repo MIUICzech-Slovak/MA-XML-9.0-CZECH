@@ -233,7 +233,7 @@
   <string name="app_manager_factory_reset">Odinstalovat aktualizace</string>
   <string name="app_manager_factory_reset_dlg_msg">Všechny aktualizace této systémové aplikace budou odinstalovány.</string>
   <string name="app_manager_factory_reset_dlg_title">Odinstalovat aktualizace?</string>
-  <string name="app_manager_force_stop_dlg_text">POkud vynutíte ukončení aplikace, může se chovat nesprávně.</string>
+  <string name="app_manager_force_stop_dlg_text">Pokud vynutíte ukončení aplikace, může se chovat nesprávně.</string>
   <string name="app_manager_force_stop_dlg_title">Vynutit ukončení?</string>
   <string name="app_manager_go_to_manger_app">Spravovat</string>
   <string name="app_manager_have_not_consume">Žádné</string>

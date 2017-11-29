@@ -2,7 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Účty</string>
   <string name="aaid_info">"
- Reklamní identifikátor je permanentní ID vašeho zařízení. Výrobci ho používají pro výběr reklam, které mohou být pro vás zajímavé.
+ Reklamní identifikátor je permanentní ID vašeho zařízení. Výrobci ho používají Gpro výběr reklam, které mohou být pro vás zajímavé.
  
  Pokud vyberete nepoužívat přizpůsobené reklamy, jejich počet se nesníží, ale nebudou cílené přímo pro vás."</string>
   <string name="about_phone_enter_xiaomi_net">Learn more</string>
@@ -3905,14 +3905,14 @@ Po naformátování bude úložiště ^1 fungovat pouze v tomto zařízení.
 
 Formátováním vymažete veškerá data, která jsou v tomto úložišti ^1 uložena. Chcete-li ztrátě dat předejít, doporučujeme je zálohovat."</string>
   <string name="storage_wizard_format_confirm_next">Vymazat a naformátovat</string>
-  <string name="storage_wizard_format_confirm_public_body">"Tato akce vyžaduje, aby úložiště ^1 bylo naformátováno. 
+  <string name="storage_wizard_format_confirm_public_body">"Tato akce vyžaduje, aby byl proveden formát úložiště: ^1. 
 
 Formátováním vymažete veškerá data z úložiště ^1. Chcete-li předejít ztrátě dat, doporučujeme je zálohovat."</string>
   <string name="storage_wizard_format_confirm_public_title">Formátovat jako přenosné úložiště</string>
-  <string name="storage_wizard_format_confirm_third_body">^1 je formátováno</string>
+  <string name="storage_wizard_format_confirm_third_body">Formát ^1 dokončen</string>
   <string name="storage_wizard_format_confirm_title">Formátovat jako interní úložiště</string>
-  <string name="storage_wizard_format_progress_body">Během formátování úložiště ^1 neodpojujte.</string>
-  <string name="storage_wizard_format_progress_title">Formátování úložiště ^1…</string>
+  <string name="storage_wizard_format_progress_body">Během formátování ^1 neodpojujte.</string>
+  <string name="storage_wizard_format_progress_title">Formátování úložiště ^1...</string>
   <string name="storage_wizard_init_external_summary">K přenášení fotek a dalších médií mezi zařízeními.</string>
   <string name="storage_wizard_init_external_title">Použít jako přenosné úložiště</string>
   <string name="storage_wizard_init_internal_summary">K ukládání libovolných dat, včetně aplikací a fotek, pouze do tohoto zařízení. Vyžaduje naformátování, které způsobí, že nebude fungovat v jiných zařízeních.</string>
