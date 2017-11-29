@@ -2,7 +2,7 @@
 <resources>
   <string name="Accounts_settings_title">Účty</string>
   <string name="aaid_info">"
- Reklamní identifikátor je permanentní ID vašeho zařízení. Výrobci ho používají Gpro výběr reklam, které mohou být pro vás zajímavé.
+ Reklamní identifikátor je permanentní ID vašeho zařízení. Výrobci ho používají pro výběr reklam, které mohou být pro vás zajímavé.
  
  Pokud vyberete nepoužívat přizpůsobené reklamy, jejich počet se nesníží, ale nebudou cílené přímo pro vás."</string>
   <string name="about_phone_enter_xiaomi_net">Learn more</string>
