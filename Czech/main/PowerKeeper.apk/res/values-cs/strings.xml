@@ -229,4 +229,7 @@
    <string name="power_center">Výkon</string>
    <string name="power_mode">Nastavení výkonu</string>
    <string name="power_usage">Využití výkonu</string>
+   <string name="sleep_config_enhance_description_non_nfc">Pokud MIUI zjistí, že jste usnuli, ukončí aplikace na pozadí, omezí Bluetooth, GPS, mobilní data, W-Fi a nebude se rozsvěcovat displej při nových upozorněních.</string>
+  </resources>
+
 </resources>

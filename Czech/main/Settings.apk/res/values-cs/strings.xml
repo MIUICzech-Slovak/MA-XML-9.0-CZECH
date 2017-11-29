@@ -5086,4 +5086,11 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="infinity_display_title">Celý displej</string>
    <string name="model_name">Název modelu</string>
    <string name="music_dirac_mode_reduction_noise">redukce šumu TypeC</string>
+   <string name="bluetooth_wake">Probudit s Bluetooth audiem</string>
+   <string name="settings_notify_need_backup">Zálohujte vaše nastavení do MiCloud.</string>
+   <string name="settings_notify_phone_recycled">Your phone number has been recycled. Tap to add a different phone number.</string>
+   <string name="split_screen">Rozdělení obrazovky</string>
+   <string name="suggestion_for_phone_recycled">Přidat jiné telefonní číslo</string>
+   <string name="system_shortcut_wake">Probudit tlačítkem zkratek</string>
+   <string name="voice_helper_title">Hlasový asistent</string>
 </resources>

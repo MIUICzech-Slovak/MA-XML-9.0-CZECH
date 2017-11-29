@@ -1280,8 +1280,8 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="other_available_phone_accounts">Ostatní účty</string>
-   <string name="phone_account_settings">Účty pro volání</string>
    <string name="preferred_phone_account">Preferovaný účet</string>
    <string name="sim_accounts">SIM účty</string>
    <string name="volte_switch_not_support_summary2">VoLTE hovory nejsou podporovány vaším operátorem.</string>
+   <string name="miui_notification_network_selection_text" formatted="false">SIM %s Vybraná síť (%s) nedostupná</string>
 </resources>
