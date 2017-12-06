@@ -553,4 +553,6 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="wipe_secret_photo_dialog_title">Skryté fotografie nejsou synchronizovány</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="title_back">Zpět</string>
+  <string name="xiaomi_cloud_service_subtitle">Všechny důležité položky na jednom místě</string>
 </resources>
