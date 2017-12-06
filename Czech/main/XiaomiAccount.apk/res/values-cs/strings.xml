@@ -489,4 +489,8 @@ Zkontrolujte také složku SPAM."</string>
     <string name="sign_in">Přihlásit se</string>
     <string name="update_phone_notice">Změnit bezpečnostní nastavení</string>
    <string name="account_global_region">Global</string>
+   <string name="account_error_user_name">Zadané jméno není správné</string>
+   <string name="passport_get_innetdate_agree">Zkontrolovat</string>
+   <string name="passport_get_innetdate_disagree">Ne</string>
+   <string name="sim_changed_notification_title">Změnili jste telefonní čislo?</string>
 </resources>

@@ -2674,4 +2674,14 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="safepay_alert_dialog_button_fix">Opravit</string>
    <string name="sp_background_risk_dialog_summary_wifi_approve">Jste připojeni na Wi-Fi síť, která nemusí být bezpečná.</string>
    <string name="sp_background_risk_dialog_title_wifi_approve">Upozornění na veřejnou Wi-Fi</string>
+   <string name="app_manager_cache_size">Cache</string>
+   <string name="app_manager_clear_all_data">Vymazat všechna data</string>
+   <string name="app_manager_clear_dlg_title">Vymazat data</string>
+   <string name="app_manager_code_size">Velikost</string>
+   <string name="app_manager_comuting_size">Vypočítávání...</string>
+   <string name="app_manager_data_size">Uživatelská data</string>
+   <string name="app_manager_dlg_clear_cache_title">Vymazat cache?</string>
+   <string name="app_manager_not_support_uninstall">Tuto aplikaci nelze odinstalovat</string>
+   <string name="app_manager_support_uninstall">Můžete odinstalovat tyto aplikace</string>
+   <string name="app_manager_total_size">Celkem</string>
 </resources>
