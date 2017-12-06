@@ -37,6 +37,8 @@
   <string name="agenda_month_empty_hint">Žádné události na dnešek</string>
   <string name="agenda_today">Dnes, %1$s</string>
   <string name="agenda_tomorrow">ZÍTRA, %1$s</string>
+  <string name="action_bar_return">Zpět</string>
+  <string name="date_calculate_direction_content_description">Směr přepočtu, momentálně je %1s</string>
   <string name="agenda_view">Agenda</string>
   <string name="agenda_yesterday">VČERA, %1$s</string>
   <string name="alarm_label">OK</string>
