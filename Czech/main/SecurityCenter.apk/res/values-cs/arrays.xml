@@ -181,4 +181,22 @@
          <item>Zdroj poslední aktualizace</item>
          <item>Čas poslední aktualizace</item>
      </string-array>	
+     <string-array name="sort_type">		
+         <item>Stavu</item>		
+         <item>Názvu aplikace</item>		
+         <item>Frekvence používání</item>		
+         <item>Využití úložiště</item>		
+         <item>Spotřeby dat</item>		
+         <item>Využití baterie</item>		
+	     <item>Možnost odinstalace</item>		
+     </string-array>		
+     <string-array name="sort_title">		
+         <item>Seřadit podle stavu</item>		
+         <item>Seřadit podle názvu</item>		
+         <item>Seřadit podle používání</item>		
+         <item>Seřadit podle využití úložiště</item>		
+         <item>Seřadit podle spotřeby dat</item>		
+         <item>Seřadit podle spotřeby baterie</item>		
+    	 <item>Seřadit podle apl. které lze odinstalovat</item>		
+       </string-array>    
 </resources>
