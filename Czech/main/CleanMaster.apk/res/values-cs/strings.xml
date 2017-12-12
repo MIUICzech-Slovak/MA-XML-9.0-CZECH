@@ -469,4 +469,5 @@
    <string name="cd_percent">procenta</string>
    <string name="cd_settings">nastavení</string>
    <string name="cd_sort_type">třídit podle</string>  
+  <string name="dialog_msg_uninstall_apps_xspace">Odinstalovat tyto aplikace (včetně klonovaných)?</string>
 </resources>
