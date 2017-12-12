@@ -86,10 +86,10 @@
   <string name="not_sorted">Neřazeno</string>
   <string name="notification_copy_files_converted_title">Některé soubory byly převedeny</string>
   <string name="notification_touch_for_details">Klepnutím zobrazíte podrobnosti</string>
-  <string name="open_external_dialog_request">Chcete aplikaci &lt;b&gt;^1&lt;/b&gt; ud&amp;#283;lit p&amp;#345;&amp;#237;stup k adres&amp;#225;&amp;#345;i &lt;i&gt;^2&lt;/i&gt; v &amp;#250;lo&amp;#382;i&amp;#353;ti &lt;i&gt;^3&lt;/i&gt;?</string>
-  <string name="open_external_dialog_request_primary_volume">Chcete aplikaci &lt;b&gt;^1&lt;/b&gt; ud&amp;#283;lit p&amp;#345;&amp;#237;stup k adres&amp;#225;&amp;#345;i &lt;i&gt;^2&lt;/i&gt;?</string>
-  <string name="open_external_dialog_root_request">Chcete aplikaci &lt;b&gt;^1&lt;/b&gt; ud&amp;#283;lit p&amp;#345;&amp;#237;stup ke sv&amp;#253;m dat&amp;#367;m v &amp;#250;lo&amp;#382;i&amp;#353;ti &lt;i&gt;^2&lt;/i&gt;, v&amp;#269;etn&amp;#283; fotek a vide&amp;#237;?</string>
-  <string name="overwrite_file_confirmation_message">Přepsat soubor %1$s?</string>
+  <string name="open_external_dialog_request">Chcete aplikaci ^1 udělit přístup k adresáři ^2 v úložišti ^3 ?</string>
+  <string name="open_external_dialog_request_primary_volume">Chcete aplikaci ^1 udělit přístup k adresáři ^2 ?</string>
+  <string name="open_external_dialog_root_request">Chcete aplikaci ^1 udělit přístup ke svým datům v úložišti ^2, včetně fotek a videí?</string>
+   <string name="overwrite_file_confirmation_message">Přepsat soubor %1$s?</string>
   <string name="query_error">Obsah nyní nelze načíst</string>
   <string name="rename_error">Dokument se nepodařilo přejmenovat.</string>
   <string name="root_available_bytes">Volný prostor: %1$s</string>

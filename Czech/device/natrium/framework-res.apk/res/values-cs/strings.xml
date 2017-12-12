@@ -114,7 +114,7 @@ Při nabíjení zařízení se spořič baterie automaticky vypne."</string>
   <string name="bugreport_title">Vytvořit chybové hlášení</string>
   <string name="byteShort">B</string>
   <string name="cancel">Zrušit</string>
-  <string name="candidates_style">&lt;u&gt;kandid&amp;#225;ti&lt;/u&gt;</string>
+  <string name="candidates_style">kandidáti</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Za účelem usnadnění přístupu k obsahu aplikací mohou být nainstalovány skripty.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Sledování zahrnuje osobní údaje, jako jsou například čísla kreditních karet a hesla.</string>
   <string name="capability_desc_canRequestTouchExploration">Položky, na které klepnete, budou přečteny nahlas a obrazovku bude možné procházet pomocí gest.</string>
@@ -445,7 +445,7 @@ Opravdu tuto stránku chcete opustit?"</string>
   <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
   <string name="keyguard_password_enter_puk_code">Zadejte kód PUK a nový kód PIN.</string>
   <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotykem zad&amp;#225;te heslo&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Klepnutím zadáte heslo</string>
   <string name="keyguard_password_wrong_pin_code">Nesprávný kód PIN.</string>
   <string name="kg_enter_confirm_pin_hint">Potvrďte požadovaný kód PIN.</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Již %dkrát jste nesprávně nakreslili své heslo odemknutí. Po %d dalších neúspěšných pokusech budete požádáni o odemčení telefonu pomocí e-mailového účtu.
@@ -1153,7 +1153,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="sms_control_no">Odmítnout</string>
   <string name="sms_control_title">Odesílání zpráv SMS</string>
   <string name="sms_control_yes">Povolit</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;Tato akce povede k na&amp;#250;&amp;#269;tov&amp;#225;n&amp;#237; poplatku na v&amp;#225;&amp;#353; &amp;#250;&amp;#269;et u mobiln&amp;#237;ho oper&amp;#225;tora.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details">Tato akce povede k naúčtování poplatku na váš účet u mobilního operátora.</string>
   <string name="sms_short_code_confirm_allow">Odeslat</string>
   <string name="sms_short_code_confirm_always_allow">Povolit vždy</string>
   <string name="sms_short_code_confirm_deny">Zrušit</string>

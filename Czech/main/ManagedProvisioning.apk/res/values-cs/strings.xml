@@ -57,7 +57,7 @@
   <string name="progress_set_owner">Nastavování vlastníka zařízení…</string>
   <string name="provisioning">Správa účtů</string>
   <string name="provisioning_error_title">Jejda!</string>
-  <string name="read_more_delete_profile">Než budete pokračovat, přečtěte si &lt;a href="#read_this_link"&gt;tento &amp;#269;l&amp;#225;nek&lt;/a&gt;.</string>
+  <string name="read_more_delete_profile">Než budete pokračovat, přečtěte si tento článek.</string>
   <string name="set_up">Nastavit</string>
   <string name="setting_up_workspace">Nastavování pracovního profilu…</string>
   <string name="setup_device_encryption">Nastavení zařízení – šifrování</string>
