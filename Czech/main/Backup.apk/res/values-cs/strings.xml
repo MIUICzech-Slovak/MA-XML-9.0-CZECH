@@ -484,4 +484,6 @@ a Přenos je povolen"</string>
    <string name="hide_password_description">Skrýt heslo</string>
    <string name="succ_description">hotovo</string>
    <string name="view_password_description">Zobrazit heslo</string>
+  <string name="backup_security_tips_title">Bezpečnostní upozornění</string>
+  <string name="backup_security_tips_message">Aplikace, které používají osobní údaje nemusí být zálohovány nebo obnoveny správně.</string>
 </resources>
