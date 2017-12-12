@@ -13,6 +13,11 @@
   <string name="ac_privacy_mode_sum">Pro deaktivaci soukromého režimu vložte Vaše přístupové heslo</string>
   <string name="ac_privacy_mode_title">Chránit režim soukromí</string>
   <string name="ac_set_apps_title">Vybrat apl. pro uzamknutí</string>
+  <string name="encryption_progress_summary">Šifrování, vyvarujte se restartu zařízení.</string>
+     <string name="owner_space">Prvý profil</string>
+     <string name="privacy_close_dlg_button_ok">Vypnout</string>
+     <string name="privacy_password_settings_next">Další</string>
+     <string name="sim_management_title_cr_kolbi">SIM karta a mobilní sítě</string>
   <string name="accelerometer_summary_off">Při otáčení zařízení automaticky přepínat orientaci</string>
   <string name="accelerometer_summary_on">Při otáčení zařízení automaticky přepínat orientaci</string>
   <string name="thememanager_not_found">Nelze otevřít témata. Ujistěte se, že aplikace je nainstalována.</string>

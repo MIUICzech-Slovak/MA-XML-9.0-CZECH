@@ -163,4 +163,5 @@
    <string name="life_post_wake_up_percentage_title">Mi Fans behind you</string>
    <string name="life_post_wake_up_time_title">Čas probuzení</string>
    <string name="life_post_weather_invalid">Nelze získat informace o počasí</string>
+    <string name="life_post_weather_description_secondary">%1$s | %2$s | %3$s</string>
 </resources>

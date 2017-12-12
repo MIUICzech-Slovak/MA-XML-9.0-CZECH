@@ -185,6 +185,7 @@
         <item>Velmi velké</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
+        <item>Zvolené aplikací</item>
         <item>Bílé na černém</item>
         <item>Černé na bílém</item>
         <item>Žluté na černém</item>
@@ -200,9 +201,8 @@
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Vypnuto</item>
-        <item>Zobrazit překreslované oblasti</item>
+        <item>Zobrazit oblasti překreslení</item>
         <item>Zobrazit oblasti pro deuteranomálii</item>
-        <item>Zobrazit počítadlo překreslení</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nikdy</item>
@@ -332,9 +332,10 @@ Postupujte dle pokynů"</item>
     </string-array>
     <string-array name="ram_states">
         <item>normální</item>
-        <item>Střední</item>
-        <item>Nízké</item>
-        <item>Kritické</item>
+        <item>střední</item>
+        <item>nízké</item>
+        <item>kritické</item>
+        <item>\?</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Žádná akce</item>
@@ -385,9 +386,8 @@ Postupujte dle pokynů"</item>
         <item>Vše</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Vypnuto</item>
-        <item>Na obrazovce ve formě sloupců</item>
-        <item>Na obrazovce ve formě řádků</item>
+        <item>Vypnuté</item>
+        <item>Na obrazovce v podobě sloupců</item>
         <item>V adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
@@ -494,6 +494,7 @@ Postupujte dle pokynů"</item>
     <string-array name="wifi_proxy_settings">
         <item>Žádné</item>
         <item>Ručně</item>
+        <item>Proxy Auto-Config</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Nízká</item>

@@ -493,4 +493,18 @@ Zkontrolujte také složku SPAM."</string>
    <string name="passport_get_innetdate_agree">Zkontrolovat</string>
    <string name="passport_get_innetdate_disagree">Ne</string>
    <string name="sim_changed_notification_title">Změnili jste telefonní čislo?</string>
+   <string name="action_add_phone">Připojit telefonní číslo</string>
+     <string name="action_update_phone">Změnit telefonní číslo</string>
+     <string name="get_back_pwd">Obnovit heslo</string>
+     <string name="identity">Identita</string>
+     <string name="mi_vip_info">Oprávnění</string>
+     <string name="no_phone">Žádné číslo</string>
+     <string name="passport_confirm_recycle_account_msg">%s is the operator to buy again after the purchase number, the number has been under the millet account, this account is your</string>
+     <string name="passport_continue">Pokračovat</string>
+     <string name="passport_login_recycle_account_no">Ne</string>
+     <string name="passport_login_recycle_account_yes">Ano</string>
+     <string name="passport_reg_recycle_account_no">Ne</string>
+     <string name="passport_reg_recycle_account_yes">Ano</string>
+     <string name="phone_num_use_for">Telefonní číslo použito pro:</string>
+     <string name="vip_settings_info">VIP nastavení</string>
 </resources>

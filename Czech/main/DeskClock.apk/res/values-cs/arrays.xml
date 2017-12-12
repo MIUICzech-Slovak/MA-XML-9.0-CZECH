@@ -77,4 +77,14 @@
         <item>Odložit budík</item>
         <item>Vypnout budík</item>
      </string-array>
+     <string-array name="weather_tips_value">
+        <item>Raději nevycházejte ven</item>
+        <item>Na cestách to klouže</item>
+        <item>Venku je bouřka, buďte opatrní!</item>
+        <item>Ovzduší je znečištěné, nezapoměňte si roušku!</item>
+        <item>Nezapomeňte si deštník</item>
+        <item>Opatrně na cestách</item>
+        <item>Blíží se píšečná bouře!</item>
+        <item>Přejeme příjemný den!</item>
+     </string-array>
 </resources>

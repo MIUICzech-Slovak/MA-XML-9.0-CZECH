@@ -22,6 +22,7 @@
   <string name="add_to_browser_favorite_failed">selhalo</string>
   <string name="add_to_browser_favorite_success">úspěšné</string>
   <string name="add_video">Přidat video</string>
+   <string name="add_miui_contact">Kontakt</string>
   <string name="adding_attachments">Čekejte prosím, než budou položky přidány do prezentace.</string>
   <string name="adding_attachments_title">Přidávání příloh</string>
   <string name="adding_recipients">Přidání příjemce...</string>

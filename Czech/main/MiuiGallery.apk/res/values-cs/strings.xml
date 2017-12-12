@@ -15,6 +15,7 @@
   <string name="__leak_canary_toast_heap_dump">Výpis paměti, aplikace zamrzne. Brrrr.</string>
   <string name="abandon">Zahodit</string>
   <string name="accept">Přijmout</string>
+  <string name="alert_secret_album_message_lower_case">Potáhněte dolů v kartě alb a dotkněte se skrytého alba.</string>
   <string name="accept_or_deny">%1$s sdílí %2$s s Vámi.</string>
   <string name="add_automatically_alert_msg">Přidat fotografie od \"%1$s\" automaticky do tohoto alba?</string>
   <string name="add_automatically_alert_title">Přidat fotografie automaticky</string>

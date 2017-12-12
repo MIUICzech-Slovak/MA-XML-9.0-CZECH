@@ -486,4 +486,8 @@ a Přenos je povolen"</string>
    <string name="view_password_description">Zobrazit heslo</string>
   <string name="backup_security_tips_title">Bezpečnostní upozornění</string>
   <string name="backup_security_tips_message">Aplikace, které používají osobní údaje nemusí být zálohovány nebo obnoveny správně.</string>
+  <string name="btn_got_it">Rozumím</string>
+     <string name="trans_intro_title">FAQ</string>
+     <string name="trans_security_tips_message">Některé aplikace nepodporují Přenos.</string>
+     <string name="trans_security_tips_title">Kompatibilita Přenosu</string>
 </resources>
