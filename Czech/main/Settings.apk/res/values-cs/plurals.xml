@@ -171,4 +171,8 @@
          <item quantity="other">Počkejte alespoň %ds a zkuste to znovu .</item>
          <item quantity="one">Počkejte alespoň %ds a zkuste to znovu .</item>
      </plurals>		
+    <plurals name="lockpassword_pin_fixed_length">
+	        <item quantity="other">PIN musí mít %d čísla</item>
+	        <item quantity="one">PIN musí mít %d číslo</item>
+    </plurals>    
 </resources>
