@@ -5093,7 +5093,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="suggestion_for_phone_recycled">Přidat jiné telefonní číslo</string>
    <string name="system_shortcut_wake">Probudit tlačítkem zkratek</string>
    <string name="voice_helper_title">Hlasový asistent</string>
-  <string name="app_disable_notifications_dlg_text">Pokud v této aplikaci vypnete oznámení, můžete přijít o důležitá upozornění a aktuality.</string>
     <string name="privacy_password_toggle_summary">Vyžadovat heslo při každém přístupu ke chráněnému obsahu.</string>
   <string name="privacy_close_dlg_msg">Pokud je vypnuto heslo ochrany soukromí, vaše data nebudou více chráněny.</string>
   <string name="privacy_close_dlg_title">Upozornění</string>
