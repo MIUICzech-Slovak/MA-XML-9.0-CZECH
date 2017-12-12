@@ -1348,7 +1348,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="sms_control_no">Odmítnout</string>
   <string name="sms_control_title">Odesílání zpráv SMS</string>
   <string name="sms_control_yes">Povolit</string>
-  <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;Budou &amp;#250;&amp;#269;tov&amp;#225;ny poplatky na v&amp;#225;&amp;#353; mobiln&amp;#237; &amp;#250;&amp;#269;et.&lt;/font&gt;</string>
+  <string name="sms_premium_short_code_details">Tato akce povede k naúčtování poplatku na váš účet u mobilního operátora.</string>
   <string name="sms_short_code_confirm_allow">Odeslat</string>
   <string name="sms_short_code_confirm_always_allow">Povolit vždy</string>
   <string name="sms_short_code_confirm_deny">Zrušit</string>
