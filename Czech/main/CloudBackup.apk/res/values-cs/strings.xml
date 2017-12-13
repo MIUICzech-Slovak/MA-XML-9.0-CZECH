@@ -24,6 +24,8 @@
   <string name="button_next">Další</string>
   <string name="can_not_backup_in_lite_mode">Nelze zálohovat Zjednodušený režim</string>
   <string name="can_not_restore_in_lite_mode">Nelze obnovit Zjednodušený režim</string>
+  <string name="device_corrupt">MiPhone (Poškozená data)</string>
+  <string name="size_unknown">Neznámá velikost</string>
   <string name="cancel_recover_settings">Zrušit</string>
   <string name="click_try_to_restore_again">Zkuste to znovu</string>
   <string name="cloud_app_backup_success">Aplikace zálohovány</string>
