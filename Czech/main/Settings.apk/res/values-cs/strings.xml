@@ -750,7 +750,6 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
   <string name="bootloader_status_unlocked">Odemčen</string>
   <string name="bootloader_status_unlocked_info">Bootloader je odemčen.</string>
   <string name="bootloader_summary">Instalace přes USB (Fastboot)</string>
-  <string name="bootloader_unlock_webhome">http://en.miui.com/unlock</string>
   <string name="breathing_light_color_menu_title">Barva</string>
   <string name="breathing_light_color_summary">Barva LED při nové notifikaci</string>
   <string name="breathing_light_freq_summary">Pauza LED před blikáním</string>
