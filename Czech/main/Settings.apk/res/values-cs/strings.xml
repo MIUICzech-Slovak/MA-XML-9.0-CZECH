@@ -5101,4 +5101,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
     <string name="privacy_password_toggle_summary">Vyžadovat heslo při každém přístupu ke chráněnému obsahu.</string>
   <string name="privacy_close_dlg_msg">Pokud je vypnuto heslo ochrany soukromí, vaše data nebudou více chráněny.</string>
   <string name="privacy_close_dlg_title">Upozornění</string>
+  <string name="tether_data_usage_limit">Jednorázový limit dat</string>
+  <string name="tether_data_usage_limit_summary">Limit dat bude aplikován při opětovném spuštění hot-spot</string>
 </resources>

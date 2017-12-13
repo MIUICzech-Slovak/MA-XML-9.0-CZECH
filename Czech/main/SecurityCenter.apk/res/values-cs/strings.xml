@@ -2684,4 +2684,18 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="app_manager_not_support_uninstall">Tuto aplikaci nelze odinstalovat</string>
    <string name="app_manager_support_uninstall">Můžete odinstalovat tyto aplikace</string>
    <string name="app_manager_total_size">Celkem</string>
+   <string name="more_settings">Více</string>
+   <string name="firewall_mobile">Mobilní data</string>
+   <string name="firewall_system_title">Spotřeba dat pro systémové apl.</string>
+   <string name="firewall_wifi">Wi-Fi</string>
+   <string name="pref_key_tethering_setting">Jednorázový limit dat</string>
+   <string name="pref_key_tethering_title">Jednorázový limit dat</string>
+   <string name="tether_custom_dialog_title">Limit mobilních dat</string>
+   <string name="tether_limit_dialog_title">Limit mobilních dat</string>
+   <string name="tether_limit_value_custom">Vlastní</string>
+   <string name="tether_over_limit_dialog_cancle_btn">Resetovat hot-spot</string>
+   <string name="tether_over_limit_dialog_message">Byl dosažen limit dat hot-spotu.</string>
+   <string name="tether_over_limit_dialog_title">Upozornění mobilních dat</string>
+   <string name="tether_over_limit_warning_notify_message">Deaktivovat hot-spot.</string>
+   <string name="tether_over_limit_warning_notify_title">Byl dosažen limit dat hot-spotu</string>
 </resources>

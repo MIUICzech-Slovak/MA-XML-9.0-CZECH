@@ -6,6 +6,8 @@
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_cache_data">Cache dat</string>
   <string name="activity_title_deep_apk">Vymazat APK</string>
+  <string name="qq_clean_finish_summary">Vybrané soubory byly vymazány</string>
+  <string name="unlike">Ne</string>
   <string name="activity_title_deep_clean">Hloubkové čištění</string>
   <string name="activity_title_garbage_cleanup">Čistič</string>
   <string name="activity_title_ignored_image">Ignorováno</string>

@@ -960,4 +960,7 @@ Chcete opustit tuto stránku?"</string>
    <string name="action_menu_text_drop">Ukončit</string>
    <string name="cloud_tabs_sync_off">Synchr. vyp</string>
    <string name="miuishare_dialog_cancel">Zrušit</string>
+   <string name="action_menu_user_center">Uživatelské centrum</string>
+  <string name="action_modify_bookmark">Upravit záložku</string>
+   <string name="action_put_in_search_box">Vložit %s do vyhledávání</string>
 </resources>

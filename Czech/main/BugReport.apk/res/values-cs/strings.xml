@@ -294,6 +294,7 @@
   <string name="toast_problem_class_required">Vybrat kategorii</string>
   <string name="toast_report_copied_to_clipboard">Hlášení zkopírováno do schránky</string>
   <string name="toast_report_sent_failed">Odeslání hlášení selhalo</string>
+   <string name="issue_search">Vyhledat</string>
   <string name="toast_report_sent_succeed">Hlášení chyb bylo odesláno</string>
   <string name="toast_third_packagename_required">Zadejte název aplikace</string>
   <string name="toast_title_required">Popište svůj problém</string>
