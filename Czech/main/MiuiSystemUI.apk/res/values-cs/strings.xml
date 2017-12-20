@@ -422,4 +422,21 @@ přetažením dolů uzamknete"</string>
    <string name="accessibility_desc_select_block_notification">Vyberte upozornění, která chcete skrýt.</string>
    <string name="accessibility_desc_uncheck_block_notification">Odznačit %1$s upozornění.</string>
    <string name="accessibility_desc_weather_temperature">Počasí %1s stupňů.</string>
+   <string name="accessibility_desc_work_lock">Work lock screen</string>
+ +  <string name="keyboard_shortcut_group_applications">aplikace</string>
+   <string name="keyboard_shortcut_group_applications_assist">Asistent</string>
+   <string name="keyboard_shortcut_group_applications_browser">Prohlížeč</string>
+   <string name="keyboard_shortcut_group_applications_calendar">Kalendář</string>
+   <string name="keyboard_shortcut_group_applications_contacts">Kontakty</string>
+   <string name="keyboard_shortcut_group_applications_email">E-mail</string>
+   <string name="keyboard_shortcut_group_applications_im">IM</string>
+   <string name="keyboard_shortcut_group_applications_music">Hudba</string>
+   <string name="keyboard_shortcut_group_applications_sms">SMS</string>
+   <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
+   <string name="keyboard_shortcut_group_system">Systém</string>
+   <string name="keyboard_shortcut_group_system_back">Zpět</string>
+   <string name="keyboard_shortcut_group_system_home">Domů</string>
+   <string name="keyboard_shortcut_group_system_notifications">Upozornění</string>
+   <string name="keyboard_shortcut_group_system_shortcuts_helper">Klávesové zkratky</string>
+   <string name="keyboard_shortcut_group_system_switch_input">Přepnout metodu vstupu</string>
 </resources>

@@ -5089,7 +5089,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="infinity_display_slogan">Více obsahu na vaší obrazovce</string>
    <string name="infinity_display_title">Celý displej</string>
    <string name="model_name">Název modelu</string>
-   <string name="music_dirac_mode_reduction_noise">redukce šumu TypeC</string>
+   <string name="music_dirac_mode_reduction_noise">Redukce šumu (USB-C)</string>
    <string name="bluetooth_wake">Probudit s Bluetooth audiem</string>
    <string name="settings_notify_need_backup">Zálohujte vaše nastavení do MiCloud.</string>
    <string name="settings_notify_phone_recycled">Your phone number has been recycled. Tap to add a different phone number.</string>
@@ -5102,4 +5102,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="privacy_close_dlg_title">Upozornění</string>
   <string name="tether_data_usage_limit">Jednorázový limit dat</string>
   <string name="tether_data_usage_limit_summary">Limit dat bude aplikován při opětovném spuštění hot-spot</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Ochrana funkcí vašeho profilu nebude fungovat bez hesla.
+ Nebude možné odemknout váš profil nebo se přihlásit do aplikací."</string>
+   <string name="unlock_set_unlock_password_none">Žádné</string>
 </resources>
