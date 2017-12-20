@@ -310,7 +310,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_main_sync_need_charge">Čeká na nabíječku</string>
   <string name="micloud_main_sync_need_charge_or_sleep">Nabijte baterii a vypněte displej</string>
   <string name="micloud_main_sync_now">Synchronizovat</string>
-  <string name="micloud_main_sync_on">Synchr. povolena</string>
+  <string name="micloud_main_sync_on">Povolit synchr.</string>
   <string name="micloud_main_sync_on_wifi">Synchr. jen přes Wi-Fi</string>
   <string name="micloud_main_sync_pause">Zastaveno</string>
   <string name="micloud_main_sync_pending">Čeká na synchr.</string>
@@ -555,4 +555,10 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="xmpp_server_addr"/>
   <string name="title_back">Zpět</string>
   <string name="xiaomi_cloud_service_subtitle">Všechny důležité položky na jednom místě</string>
+  <string name="micloud_main_head_menu_cloud_backup">MiCloud záloha</string>
+   <string name="micloud_main_head_menu_recycle_bin_summary">Znovu zálohovat Kontakty a fotografie</string>
+   <string name="micloud_main_head_menu_recycle_bin_title">Koš</string>
+   <string name="micloud_main_head_menu_state_close">Zakázáno</string>
+   <string name="micloud_main_head_menu_state_open">Povoleno</string>
+   <string name="micloud_manage_space_data">Spravovat MiCloud data</string>
 </resources>

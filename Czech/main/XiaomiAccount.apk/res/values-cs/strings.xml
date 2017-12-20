@@ -507,4 +507,5 @@ Zkontrolujte také složku SPAM."</string>
      <string name="passport_reg_recycle_account_yes">Ano</string>
      <string name="phone_num_use_for">Telefonní číslo použito pro:</string>
      <string name="vip_settings_info">VIP nastavení</string>
+     <string name="passport_confirm_login">Pokračovat</string>
 </resources>

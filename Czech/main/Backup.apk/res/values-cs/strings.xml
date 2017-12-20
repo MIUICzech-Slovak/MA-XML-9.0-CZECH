@@ -490,4 +490,23 @@ a Přenos je povolen"</string>
      <string name="trans_intro_title">FAQ</string>
      <string name="trans_security_tips_message">Některé aplikace nepodporují Přenos.</string>
      <string name="trans_security_tips_title">Kompatibilita Přenosu</string>
+     <string name="list_footer_tip_title">Tipy:</string>
+   <string name="trans_detail_app_apk_list_title">Nainstalované aplikace</string>
+   <string name="trans_detail_app_apk_page_title">Vyberte aplikace</string>
+   <string name="trans_detail_app_data_list_title">Data aplikace</string>
+   <string name="trans_detail_app_data_page_title">Vyberte data aplikace</string>
+   <string name="trans_detail_app_data_useless_tip">Tato data můžete obnovit z aplikace, není zapotřebí přenos.</string>
+   <string name="trans_detail_audio_video_doc_list_title">Audio, video, a soubory</string>
+   <string name="trans_detail_audio_video_doc_page_title">Vyberte audio, video, a soubory</string>
+   <string name="trans_detail_category_audio_video_doc">Audio, video, a soubory</string>
+   <string name="trans_detail_category_user_app_data">Data aplikace</string>	
+   <string name="trans_detail_category_wechat_qq">WeChat and QQ data (including chat history)</string>
+   <string name="trans_detail_item_app_data_selected_tip">Vyberte i příslušnou aplikaci.</string>
+   <string name="trans_detail_item_app_data_too_large_tip">Položka je příliš velká pro přenos.</string>
+   <string name="trans_detail_list_footer">Poznámka: Můžete vybrat aplikace na přenos postupně. Pokud vyberete data aplikace, bude přenesena i samotná aplikace.</string>
+   <string name="trans_detail_page_tip">Čím více položek vyberete, tím déle bude trvat přenos.</string>
+   <string name="trans_detail_sys_data_list_title">Systémové aplikace</string>
+   <string name="trans_detail_sys_data_page_title">Vyberte systémové aplikace</string>
+   <string name="trans_pausing">Pozastaveno...</string>
+   <string name="trans_select_data_too_large">Data jsou příliš velká, přenos potrvá déle. Doporučujeme vybrat pouze data těch aplikací, které jsou důležité.</string>
 </resources>

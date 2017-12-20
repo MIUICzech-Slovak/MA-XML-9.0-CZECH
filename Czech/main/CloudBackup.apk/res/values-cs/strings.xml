@@ -167,4 +167,7 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
    <string name="restoring_file_tile">Obnovení %d souborů</string>
    <string name="total_space">Celkem: %s</string>
    <string name="try_again">Dotykem zkuste znovu</string>
+    <string name="btn_retry">Zkontrolovat</string>
+   <string name="provision_error_connect_msg">Zkontrolujte nastavení sítě a zkuste to znovu.</string>
+   <string name="provision_error_connect_title">Nelze se připojit</string>
 </resources>
