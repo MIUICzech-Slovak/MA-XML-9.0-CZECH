@@ -423,7 +423,7 @@ přetažením dolů uzamknete"</string>
    <string name="accessibility_desc_uncheck_block_notification">Odznačit %1$s upozornění.</string>
    <string name="accessibility_desc_weather_temperature">Počasí %1s stupňů.</string>
    <string name="accessibility_desc_work_lock">Work lock screen</string>
- +  <string name="keyboard_shortcut_group_applications">aplikace</string>
+   <string name="keyboard_shortcut_group_applications">aplikace</string>
    <string name="keyboard_shortcut_group_applications_assist">Asistent</string>
    <string name="keyboard_shortcut_group_applications_browser">Prohlížeč</string>
    <string name="keyboard_shortcut_group_applications_calendar">Kalendář</string>
