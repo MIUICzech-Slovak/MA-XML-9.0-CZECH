@@ -5105,4 +5105,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="unlock_disable_frp_warning_content_profile">"Ochrana funkcí vašeho profilu nebude fungovat bez hesla.
  Nebude možné odemknout váš profil nebo se přihlásit do aplikací."</string>
    <string name="unlock_set_unlock_password_none">Žádné</string>
+   <string name="back_button">Zpět</string>
 </resources>
