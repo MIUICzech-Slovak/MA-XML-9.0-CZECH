@@ -2710,4 +2710,20 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="gs_autobooster">Automaticky zrychlit</string>
    <string name="gs_autobooster_detail">Zrychlit pro vybrané aplikace</string>
    <string name="gs_autobooster_dialog_message">"If you're using Xunyou speed boost, open games on the designated page."</string>
+   <string name="app_bg_restrict_dialog_message">Zakázání přístupu k datům na pozadí může způsobit nefunkčnost synchronizace aplikace nebo její notifikace. Opravdu chcete zakázat data na pozadí?</string>
+   <string name="app_manager_open_show_all_apps_immediate">Zobrazit vše</string>
+   <string name="app_manager_search_prompt">Nic nebylo nalezeno? Zkuste zobrazit všechny aplikace.</string>
+   <string name="app_manager_show_all_apps_opened">Zobrazení všech aplikací...</string>
+   <string name="back_sound_data">Jsou vyžadována data, zkuste to znovu!</string>
+   <string name="back_sound_fail">Selhalo！</string>
+   <string name="back_sound_success">Hotovo!</string>
+  <string name="back_sound_support">Váš současný operátor to nepodporuje!</string>
+   <string name="bg_network_exception_title">Omezené připojení na pozadí</string>
+   <string name="dlg_add_white">Nové hovory a SMS z čísel ve výjimkách budou zobrazeny v historii hovorů a seznamu SMS. Přidat vybrané číslo do výjimek?"</string>
+   <string name="dlg_move_to_white">Přidat do výjimek</string>
+   <string name="dlg_not_block_call">Odblokovat vybraná čísla? Budou přidána do výjimek.</string>
+   <string name="dlg_not_block_sms">Odblokovat vybraná čísla? Budou přidána do výjimek.</string>
+   <string name="gmscore_support_remind">Povolte tuto funkci v případě, že pozorujete problémy se synchronizací Gmail, Google Maps a ostatních Google aplikací.</string>
+   <string name="gmscore_support_service">Google Služby</string>
+   <string name="pref_bg_network_title">Připojení na pozadí</string>
 </resources>

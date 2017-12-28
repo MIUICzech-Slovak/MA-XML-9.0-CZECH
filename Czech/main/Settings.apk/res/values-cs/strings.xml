@@ -5127,4 +5127,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="open_demo_mode">Povolit</string>
    <string name="open_demo_mode_warning_message">Pokud je povolen Režim ukázky, čas v liště se zastaví, ukazatel baterie a signálu budou zobrazovat plný stav.</string>
    <string name="close_demo_mode">Zrušit</string>
+   <string name="mute_music_stream">Ztišit streamování hudby</string>
 </resources>

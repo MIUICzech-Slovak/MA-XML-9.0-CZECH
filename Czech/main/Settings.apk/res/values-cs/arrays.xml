@@ -697,11 +697,13 @@ Postupujte dle pokynů"</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Každý den</item>
+	<item>Po-Pá</item>
         <item>Víkend</item>
         <item>Vybrat dny</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Každý den</item>
+	<item>Po-Pá</item>
         <item>Víkend</item>
         <item>Vybrat dny</item>
     </string-array>

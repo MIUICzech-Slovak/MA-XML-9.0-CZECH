@@ -398,4 +398,16 @@
          <item quantity="other">%d upozornění je viditelné</item>
          <item quantity="one">%d upozornění je viditelné</item>
      </plurals>
+      <plurals name="network_restrict_count">
+         <item quantity="other">Přístup k síti je zakázán pro %d aplikací</item>
+         <item quantity="one">Přístup k síti je zakázán pro %d aplikaci</item>
+     </plurals>	
+     <plurals name="bg_network_allow_count">
+         <item quantity="other">%d aplikací se může připojit k síti na pozadí</item>
+         <item quantity="one">%d aplikace se může připojit k síti na pozadí</item>
+     </plurals>
+     <plurals name="bg_network_restrict_count">
+         <item quantity="other">%d aplikací se nemůže připojit k síti na pozadí</item>
+         <item quantity="one">%d aplikace se nemůže připojit k síti na pozadí</item>
+     </plurals>	
 </resources>

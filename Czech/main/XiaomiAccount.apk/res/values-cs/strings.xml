@@ -508,4 +508,5 @@ Zkontrolujte také složku SPAM."</string>
      <string name="phone_num_use_for">Telefonní číslo použito pro:</string>
      <string name="vip_settings_info">VIP nastavení</string>
      <string name="passport_confirm_login">Pokračovat</string>
+     <string name="passport_sms_verification_code_login">Ověřovací SMS kód</string>
 </resources>
