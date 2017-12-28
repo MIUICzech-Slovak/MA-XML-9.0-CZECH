@@ -5106,4 +5106,22 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
  Nebude možné odemknout váš profil nebo se přihlásit do aplikací."</string>
    <string name="unlock_set_unlock_password_none">Žádné</string>
    <string name="back_button">Zpět</string>
+    <string name="enalbe_identify_iPhone">AP identifikace</string>
+   <string name="navigation_guide_back_anim_summary">Gesto Zpět s animací</string>
+   <string name="navigation_guide_back_anim_title">Animace gesta Zpět</string>
+   <string name="navigation_guide_back_summary">Potáhněte vlevo nebo vpravo</string>
+   <string name="navigation_guide_back_title">Zpět na předchozí stránku</string>
+   <string name="navigation_guide_dialog_dont_show_again">Znovu nezobrazovat</string>
+   <string name="navigation_guide_dialog_ok">Naučit se</string>
+   <string name="navigation_guide_dialog_skip">Přeskočit</string>
+   <string name="navigation_guide_dialog_summary">Poižít gesta namísto tlačítek.</string>
+   <string name="navigation_guide_dialog_title">Ukázat gesta</string>
+   <string name="navigation_guide_home_summary">Potáhněte nahoru</string>
+   <string name="navigation_guide_home_title">Zpět na domácí obrazovku</string>
+   <string name="navigation_guide_recent_summary">Potáhněte nahoru a zastavte na 1s</string>
+   <string name="navigation_guide_recent_title">Nedávné</string>
+   <string name="navigation_guide_settings">Lekce</string>
+   <string name="navigation_type_radio_text_full_screen">Gesta celého displeje</string>
+   <string name="navigation_type_radio_text_virtual_key">Klasická navigační tlačítka</string>
+   <string name="navigation_type_settings">Navigace v systému</string>
 </resources>

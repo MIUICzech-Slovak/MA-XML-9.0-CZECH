@@ -2702,4 +2702,12 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="st_msg_keyword_black">Blokovaná slova</string>
    <string name="st_msg_keyword_white">Povolená slova</string>
    <string name="st_title_keywords_whitelist">Povolená slova</string>
+   <string name="auto_back_booster">Zastavit zrychlení</string>
+  <string name="auto_booster_suc">Zrycheno</string>
+   <string name="gb_description_image_button_answer">Přijmout</string>
+   <string name="gb_description_image_button_reject">Odmítnout</string>
+   <string name="gb_description_image_button_video_answer">Video hovor</string>
+   <string name="gs_autobooster">Automaticky zrychlit</string>
+   <string name="gs_autobooster_detail">Zrychlit pro vybrané aplikace</string>
+   <string name="gs_autobooster_dialog_message">"If you're using Xunyou speed boost, open games on the designated page."</string>
 </resources>

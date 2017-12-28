@@ -439,4 +439,23 @@ přetažením dolů uzamknete"</string>
    <string name="keyboard_shortcut_group_system_notifications">Upozornění</string>
    <string name="keyboard_shortcut_group_system_shortcuts_helper">Klávesové zkratky</string>
    <string name="keyboard_shortcut_group_system_switch_input">Přepnout metodu vstupu</string>
+   <string name="click_expand">Dotykem rozbalíte</string>
+   <string name="fs_gesture_back_home_summary">Rychle potáhněte nahoru</string>
+   <string name="fs_gesture_back_ready_title">Jak se vrátit na předchozí stránku?</string>
+   <string name="fs_gesture_final_over">Dokončit</string>
+   <string name="fs_gesture_final_restart">Ukázat znovu</string>
+   <string name="fs_gesture_final_summary">Lze nastavit v [Nastavení - Celý displej]</string>
+   <string name="fs_gesture_final_title">Dokončit</string>
+   <string name="fs_gesture_finish">Super!</string>
+   <string name="fs_gesture_left_back_ready_summary">Potáhněte doleva</string>
+   <string name="fs_gesture_right_back_ready_summary">Potáhněte doprava</string>
+   <string name="fs_gesture_skip">Zpět</string>
+   <string name="fs_gesture_switch_recents_summary">Potáhněte nahoru a počkejte 1s</string>
+   <string name="fsg_demo_back">Zpět</string>
+   <string name="fsg_demo_go_on">Začněte</string>
+   <string name="how_to_back_home">Jak jít zpět na domovskou obrazovku?</string>
+   <string name="how_to_switch_recents">Jak zobrazit nedávné úlohy?</string>
+   <string name="how_to_use_fsg">Jak používat gesta?</string>
+   <string name="screenshot_feedback_txt">Odezva</string>
+   <string name="screenshot_toalbum_txt">Ukázka</string>
 </resources>

@@ -33,4 +33,12 @@
          <item quantity="other">Skrytá upozornění: %d</item>
          <item quantity="one">Skrytá upozornění: %d</item>
      </plurals> 
+     <plurals name="notification_group_child_count">
+        <item quantity="other">Upozornění: %1$d</item>
+         <item quantity="one">Upozornění: %1$d</item>
+     </plurals>
+     <plurals name="notification_group_overflow_description">
+         <item quantity="other">%s dalších upozornění.</item>
+         <item quantity="one">%s další upozornění.</item>
+     </plurals>	
 </resources>

@@ -1292,4 +1292,8 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
    <string name="miui_network_selection_reset_text">Reset</string>
    <string name="miui_notification_network_selection_title">SIM nemá signál</string>
    <string name="miui_notification_network_selection_title_by_sim">SIM %s nemá signál</string>
+   <string name="dialog_cancel">Zrušit</string>
+   <string name="dialog_report">Nahlásit</string>
+   <string name="modem_dialog_body">Mobilní síť je nestabilní, což způsobuje ztrátu spojení nebo problémy se sítí. Odeslat hlášení o chybě?</string>
+   <string name="modem_dialog_title">Mobilní síť je nestabilní</string>
 </resources>
