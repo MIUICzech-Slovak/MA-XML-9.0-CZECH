@@ -5124,4 +5124,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="navigation_type_radio_text_full_screen">Gesta celého displeje</string>
    <string name="navigation_type_radio_text_virtual_key">Klasická navigační tlačítka</string>
    <string name="navigation_type_settings">Navigace v systému</string>
+   <string name="open_demo_mode">Povolit</string>
+   <string name="open_demo_mode_warning_message">Pokud je povolen Režim ukázky, čas v liště se zastaví, ukazatel baterie a signálu budou zobrazovat plný stav.</string>
+   <string name="close_demo_mode">Zrušit</string>
 </resources>
