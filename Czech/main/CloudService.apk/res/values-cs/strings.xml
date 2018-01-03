@@ -561,4 +561,7 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
    <string name="micloud_main_head_menu_state_close">Zakázáno</string>
    <string name="micloud_main_head_menu_state_open">Povoleno</string>
    <string name="micloud_manage_space_data">Spravovat MiCloud data</string>
+   <string name="micloud_main_head_menu_state_unavailable">Nedostupné</string>
+   <string name="reading_status">Načítání...</string>
+   <string name="reading_status_failure">Nelze zjistit stav</string>
 </resources>
