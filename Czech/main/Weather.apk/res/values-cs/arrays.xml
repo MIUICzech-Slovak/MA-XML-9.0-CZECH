@@ -117,5 +117,12 @@
          <item>Hustý</item>
          <item>Střední</item>
          <item>Jemný</item>
-     </string-array>	
+     </string-array>
+     <string-array name="wind_unit_replace">
+         <item>Síla %1$s</item>
+         <item>%1$s km/h</item>
+         <item>%1$s m/s</item>
+         <item>%1$s mph</item>
+         <item>%1$s kn</item>
+     </string-array> 	
 </resources>
