@@ -324,4 +324,7 @@ Můžete je i znovu stáhnout."</string>
    <string name="xspace_default_app_title">Výchozí aplikace</string>
    <string name="xspace_default_setting_dialog_title">Výchozí</string>
    <string name="xspace_default_setting_label">Výchozí aplikace</string>
+   <string name="xspace_default_guide_notification_content">Dotykem změníte</string>
+   <string name="xspace_default_guide_notification_main_title">Použít výchozí apl.</string>
+   <string name="xspace_default_guide_notification_xspace_title">Použít klonovanou apl.</string>
 </resources>

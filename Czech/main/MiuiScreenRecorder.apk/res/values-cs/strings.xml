@@ -37,7 +37,7 @@
   <string name="low_battery">Nejprve nabijte baterii před spuštěním nahrávání</string>
   <string name="low_battery_title">Slabá baterie</string>
   <string name="low_battery_warning">Baterie je téměř vybitá. Nahrávání je zastaveno a uloženo.</string>
-  <string name="low_memory">Máte méně, než 200 MB volného místa. Můžete nahrát maximálně 5 minut.</string>
+  <string name="low_memory">Máte méně, než 1 GB volného místa. Můžete nahrát maximálně 5 minut.</string>
   <string name="low_memory_dior">Máte méně, než 500 MB volného místa na úložišti. Můžete nahrát max. 12 minut záznamu.</string>
   <string name="low_memory_title">Není dostatek volného místa</string>
   <string name="low_momery_warning">Není dostatek volného místa. Nahrávání je zastaveno a uloženo.</string>
@@ -72,4 +72,6 @@
   <string name="stop_recording">Zastavit nahrávání</string>
   <string name="description_content">Screen recording provides system-level recording capabilities. This action means that you will discard the screen recording feature. Confirm Continue.</string>
   <string name="description_title">Co je nahrávání plochy</string>
+  <string name="app_notification_info">Nahávání plochy je spuštěno na pozadí</string>
+  <string name="recording_without_mic">Mikrofon je využíván jinou aplikací</string>
 </resources>

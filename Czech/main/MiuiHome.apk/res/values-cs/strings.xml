@@ -35,7 +35,7 @@
   <string name="aqi_quality_index_hazardous">Hazardní</string>
   <string name="aqi_quality_index_light_pollution">Nízké znečištění</string>
   <string name="aqi_quality_index_moderate">Střední</string>
-  <string name="edit_mode_group">Skupina</string>
+  <string name="edit_mode_group">Složka</string>
    <string name="edit_mode_group_error_full">Není dostatek místa</string>
    <string name="edit_mode_group_error_in_folder">Zavřete složku před seskupením ikon</string>
    <string name="edit_mode_group_error_one_folder">Nelze duplikovat složku s vybranými ikonami</string>

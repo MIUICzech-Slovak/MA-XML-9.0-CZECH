@@ -1302,4 +1302,13 @@ Vyberte si z následujících možností:</string>
   <string name="group_member_remove_fail_toast">Není odstraněno ze skupiny</string>
    <string name="group_member_remove_success_toast">Odstraněno ze skupiny</string>
    <string name="unknown_details_add_to_contact">Existující</string>
+   <string name="dialer_firewall_entry_name">Záznam blokovaných hovorů</string>
+  <string name="description_quick_dial_button">Rychlá volba</string>
+   <string name="quick_dial_setting_delete_dialog_message">Vymazat rychlou volbu?</string>
+   <string name="quick_dial_setting_delete_dialog_option_delete">Vymazat</string>
+   <string name="quick_dial_setting_hint">Stiskněte tlačítko pro přidání rychlé volby. Stiskněte a podržte tlačítko s přiřazenou rychlou volbou.</string>
+   <string name="quick_dial_setting_set_dialog_message">Přidat rychlou volbu pro toto tlačítko?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Ano</string>
+   <string name="quick_dial_setting_title">Rychlá volba</string>
+   <string name="search_quick_dial_setting">Kontakty</string>
 </resources>

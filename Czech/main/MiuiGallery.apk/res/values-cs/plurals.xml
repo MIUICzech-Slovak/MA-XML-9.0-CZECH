@@ -401,4 +401,24 @@
          <item quantity="other">Vymazat %d položky z tohoto alba a MiCloud?</item>
          <item quantity="one">Vymazat %d položku z tohoto alba a MiCloud?</item>
        </plurals>
+     <plurals name="add_to_album_failed_with_reason_and_count">
+         <item quantity="other">"%2$d položek nebylo možné přidat do alba. %1$s."</item>
+         <item quantity="one">"%2$d položku nebylo možné přidat do alba. %1$s."</item>
+     </plurals>
+     <plurals name="add_to_secret_failed_with_reason_and_count">
+         <item quantity="other">"%2$d položek nebylo možné přidat do skrytého alba. %1$s."</item>
+         <item quantity="one">"%2$d položku nebylo možné přidat do skrytého alba. %1$s."</item>
+     </plurals>
+     <plurals name="fail_reason_processing_file">
+         <item quantity="other">Zpracovávání...</item>
+         <item quantity="one">Zpracovávání...</item>
+     </plurals>
+     <plurals name="remove_from_secret_failed_with_reason_and_count">
+         <item quantity="other">"%2$d položek nebylo možné odebrat ze skrytého alba. %1$s."</item>
+         <item quantity="one">"%2$d položku nebylo možné odebrat ze skrytého alba. %1$s."</item>
+     </plurals>
+     <plurals name="send_processing_files_error">
+         <item quantity="other">Nelze sdílet. Stále se zpracovává %d fotografií...</item>
+         <item quantity="one">Nelze sdílet. Stále se zpracovává %d fotografie...</item>
+     </plurals>
 </resources>

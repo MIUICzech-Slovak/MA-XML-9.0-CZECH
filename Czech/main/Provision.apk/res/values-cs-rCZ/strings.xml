@@ -75,4 +75,7 @@
   <string name="accessibility_enabled">Zjednodušení je zapnuto.</string>
    <string name="continue_to_enable_accessibility">Podržte dva prsty na displeji pro povolení režimu zjednodušení.</string>
    <string name="enable_accessibility_canceled">Zjednodušení je vypnuto.</string>
+   <string name="terms_of_use_label_gms">"Vaše bezpečnost je hlavní prioritou. Přečtěte si naše Podmínky používání a Ochranu soukromí.
+ 
+ Musíte souhlasit s našimi Podmínkami používání a Ochranou soukromí před používáním MIUI."</string>
 </resources>
