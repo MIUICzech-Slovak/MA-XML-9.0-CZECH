@@ -2760,4 +2760,6 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="wrong_password">Nesprávné heslo</string>
    <string name="firewall_temp_rule_reason">%2$s zakázané intenetové připojení pro %1$s​</string>
    <string name="main_indicator_title">Aktivace</string>
+   <string name="app_manager_mobile_slot1">Mobilní data (SIM 1)</string>
+   <string name="app_manager_mobile_slot2">Mobilní data (SIM 2)</string>
 </resources>
