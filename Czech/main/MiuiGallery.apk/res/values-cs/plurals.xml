@@ -421,4 +421,16 @@
          <item quantity="other">Nelze sdílet. Stále se zpracovává %d fotografií...</item>
          <item quantity="one">Nelze sdílet. Stále se zpracovává %d fotografie...</item>
      </plurals>
+     <plurals name="slim_complete_photo_count">
+         <item quantity="other">Optimalizovaných %d fotografií</item>
+         <item quantity="one">Optimalizována %d fotografie</item>
+     </plurals>
+     <plurals name="slim_exit_dialog_message">
+         <item quantity="other">%d fotografií nebylo optimalizovaných. Chcete to přerušit?</item>
+         <item quantity="one">"%d fotografie nebyla optimalizována. Chcete to přerušit?"</item>
+     </plurals>
+     <plurals name="slim_remain_photo_count">
+         <item quantity="other">Zbývá: %d</item>
+         <item quantity="one">Zbývá: %d</item>
+     </plurals>
 </resources>
