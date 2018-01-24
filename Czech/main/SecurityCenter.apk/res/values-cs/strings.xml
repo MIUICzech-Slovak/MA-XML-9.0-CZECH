@@ -2762,4 +2762,6 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="main_indicator_title">Aktivace</string>
    <string name="app_manager_mobile_slot1">Mobilní data (SIM 1)</string>
    <string name="app_manager_mobile_slot2">Mobilní data (SIM 2)</string>
+   <string name="lockpattern_tutorial_continue_label_confirm">Stiskněte OK</string>
+   <string name="lockpattern_tutorial_continue_label_next">Stiskněte Další</string>  
 </resources>

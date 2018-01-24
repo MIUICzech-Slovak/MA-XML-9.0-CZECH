@@ -231,4 +231,6 @@ http://www.miuios.cz/rom
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
    <string name="cloud_service_state_open_reminder">Povolte synchr. s MiCloud pro synchronizaci poznámek.</string>
+   <string name="refuse_to_open_as_pic_because_of_loading">Vyčkejte na načtení poznámky a zkuste to znovu</string>
+   <string name="toast_cancel_to_insert_image">Zrušit přidávání obrázků.</string>
 </resources>

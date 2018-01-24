@@ -171,6 +171,7 @@
   <string name="unlock_string">OK</string>
   <string name="unlocking_sim_card">Odblokování SIM karty</string>
   <string name="unlockscreen_low_battery">Připojte nabíječku</string>
+  <string name="keyguard_left_view_lock_wallpaper">Denní tapeta</string>
   <string name="unlockscreen_quick_charging_message">Rychlonabíjení %d%%</string>
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
