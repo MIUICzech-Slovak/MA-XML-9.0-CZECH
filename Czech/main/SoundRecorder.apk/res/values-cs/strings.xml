@@ -149,4 +149,9 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
   <string name="cloud_service_state_open_reminder">Povolte synchronizaci s MiCloud.</string>
+  <string name="content_desc_back_button">Zpět</string>
+   <string name="content_desc_close_button">Zavřít</string>
+   <string name="content_desc_edit_city_manage">Spravovat města</string>
+   <string name="minute_rain">Minutová předpověď</string>
+   <string name="missing_required_permission">Zakázali jste požadované povolení.</string>
 </resources>

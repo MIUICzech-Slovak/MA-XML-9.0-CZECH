@@ -5128,4 +5128,13 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="open_demo_mode_warning_message">Pokud je povolen Režim ukázky, čas v liště se zastaví, ukazatel baterie a signálu budou zobrazovat plný stav.</string>
    <string name="close_demo_mode">Zrušit</string>
    <string name="mute_music_stream">Ztišit streamování hudby</string>
+    <string name="find_my_device">Vyhledat mé zařízení</string>
+   <string name="find_my_device_disable">Vyp</string>
+   <string name="find_my_device_enable">Zap</string>
+   <string name="night_light">Noční podsvícení</string>
+   <string name="night_light_brightness">Noční jas</string>
+   <string name="night_light_color">Barva nočního podsvícení</string>
+   <string name="night_light_summary">Minimalizovat podsvícení v noci</string>
+   <string name="security_status">Stav zabezpečení</string>
+   <string name="security_update">Aktualizace zabezpečení</string>
 </resources>
