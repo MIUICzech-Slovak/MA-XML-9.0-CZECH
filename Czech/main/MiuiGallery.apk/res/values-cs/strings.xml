@@ -1262,7 +1262,6 @@
    <string name="slim_space">uvolněno</string>
    <string name="slim_stop">Zastavit</string>
    <string name="cleaner_empty_value_description">Vše se zdá být v pořádku</string>
-   <string name="main_save_error_msg">Nelze uložit změny kvůli chybě</string>
    <string name="mark_myself_default_name">Já</string>
    <string name="mark_myself_suggestion_load_more">To nejsem já</string>
    <string name="mark_myself_suggestion_title">Vyberte fotografie s vaší tváří</string>
