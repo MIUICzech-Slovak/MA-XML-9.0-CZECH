@@ -564,4 +564,7 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
    <string name="micloud_main_head_menu_state_unavailable">Nedostupné</string>
    <string name="reading_status">Načítání...</string>
    <string name="reading_status_failure">Nelze zjistit stav</string>
+   <string name="micloud_alert_dialog_negative">Zrušit</string>
+   <string name="micloud_alert_dialog_positive">OK</string>
+   <string name="micloud_main_head_menu_finddevice_unavailable">Vyhledávání zařízení není dostupné ve Druhém profilu.</string>
 </resources>

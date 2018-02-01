@@ -3366,7 +3366,7 @@ Postup připnutí obrazovky:
   <string name="search_gps">GPS</string>
   <string name="search_handy_mode">ovládání jednou rukou</string>
   <string name="search_hint">Nastavení hledání</string>
-  <string name="search_input_hint">Nastavení vyhledávání</string>
+  <string name="search_input_hint">Vyhledat v nastaveních</string>
   <string name="search_key">klíč</string>
   <string name="search_label">Nastavení</string>
   <string name="search_language">Jazyk</string>
