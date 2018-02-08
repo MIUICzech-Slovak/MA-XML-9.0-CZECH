@@ -68,7 +68,6 @@
     <string name="s6">Povolit reklamě, aby vytvořila událost kalendáře?</string>
     <string name="s7">Zkušební reklama</string>
     <string name="search_menu_title">Hledat</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="about">O Mi Hudbě</string>
     <string name="account">Účet</string>
     <string name="account_and_cloud">Účet</string>
@@ -758,7 +757,6 @@ poskytována především firmou Ultimate Inc."</string>
     <string name="privacy_notif_content">Klepnutím zobrazíte podrobnosti.</string>
     <string name="privacy_notif_title">Urychlovač stahování Xunlei je zapnutý</string>
     <string name="privacy_policy">Zásady ochrany osobních údajů</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="privacy_tip_cancel">Zrušit</string>
     <string name="privacy_tip_content">Použít Urychlovač Xunlei ke zvýšení rychlosti stahování? Adresa URL stahované položky bude nahrána na servery Xunlei. Podrobnosti o vašem Xiaomi účtu budou také nahrány pro zjištění, zda máte aktivní předplatné pro tuto službu.</string>
     <string name="privacy_tip_ok">OK</string>
@@ -1002,7 +1000,6 @@ poskytována především firmou Ultimate Inc."</string>
     <string name="upgrade_to">Aktualizovat na</string>
     <string name="upgrade_waringing">Budete moci poslouchat pouze hudbu uloženou na vašem zařízení.</string>
     <string name="user_agreement">Smlouva s uživatelem</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="valid_period">Platné: %s</string>
     <string name="version_info">Verze</string>
     <string name="vip_after_tomorrow_auto_renew_message">Vaše hudební předplatné bude automaticky obnoveno pozítří večer. Ujistěte se, že máte na vašem účtě dostatek Mi Kreditů k dokončení této platby.</string>

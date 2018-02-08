@@ -236,7 +236,6 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="screen_overlay_title">Byla zjištěna překryvná vrstva obrazovky</string>
   <string name="security_settings_desc">Povolit této aplikaci:</string>
   <string name="settings">Nastavení</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="system_warning">Pokud toto oprávnění zamítnete, základní funkce zařízení nemusejí fungovat správně.</string>
   <string name="trust_switch_dialog_msg">"MIUI se nebude ptát na potvrzení operací této aplikace, což může ohrozit Vaši bezpečnost.\nVěříte této aplikaci?"</string>
   <string name="uninstall_activity_text">Činnost %1$s je součástí následující aplikace:</string>

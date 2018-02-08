@@ -1226,7 +1226,6 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="ssl_ca_cert_noti_managed">Původce: %s</string>
   <string name="ssl_certificate">Certifikát zabezpečení</string>
   <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stk_cc_ss_to_dial">Požadavek SS byl změněn na požadavek DIAL.</string>
   <string name="stk_cc_ss_to_ss">Požadavek SS byl změněn na nový požadavek SS.</string>
   <string name="stk_cc_ss_to_ussd">Požadavek SS byl změněn na požadavek USSD.</string>

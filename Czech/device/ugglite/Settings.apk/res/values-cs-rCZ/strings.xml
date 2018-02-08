@@ -521,7 +521,6 @@ Poznámka: Otisk prstu nelze použít k odemykání tohoto zařízení. Další
   <string name="sound_settings_summary_vibrate">Vyzvánění bylo nastaveno na vibrace</string>
   <string name="special_access">Speciální přístup</string>
   <string name="spell_checker_not_selected">Nevybráno</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_detail_dialog_system">Systém zahrnuje soubory, které Android nedokáže zobrazit samostatně.</string>
   <string name="storage_detail_system">Systém</string>
   <string name="storage_menu_free">Uvolnit místo</string>
