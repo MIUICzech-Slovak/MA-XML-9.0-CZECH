@@ -525,4 +525,6 @@ a Přenos je povolen"</string>
    <string name="notif_parse_select_descript_error">Nelze synchronizovat seznam zálohovaných položek.</string>
    <string name="notif_receiving_transingsd">Přijímání %1$s (%2$s)...</string>
    <string name="notif_sending_transingsd">Odesílání %1$s (%2$s)...</string>
+   <string name="notif_miasist_try_to_connect">MiPCSuite se snaží připojit k zařízení</string>
+  <string name="trans_switching_5g">Přepínání na 5GHz Wi-Fi...</string>
 </resources>

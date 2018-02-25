@@ -174,4 +174,6 @@
   <string name="wx_paycode">Platby</string>
   <string name="Paytm_parent">Platby</string>
   <string name="Paytm_main">Načíst</string>
+  <string name="card_title_empty_agenda">Žádné události</string>
+  <string name="card_title_empty_note">Žádné poznámky</string>
 </resources>

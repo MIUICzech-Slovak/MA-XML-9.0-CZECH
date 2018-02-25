@@ -5137,4 +5137,25 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="night_light_summary">Minimalizovat podsvícení v noci</string>
    <string name="security_status">Stav zabezpečení</string>
    <string name="security_update">Aktualizace zabezpečení</string>
+   <string name="fsg_mistake_touch_summary">V některých situacích, jako např. hry a videa, musí být gesta provedena 2x</string>
+  <string name="fsg_mistake_touch_title">Dvojité použití gest</string>
+  <string name="disabled_authorised_apps_title">Odmítnutá autorizace</string>
+  <string name="disabled_low_ram_device">Tato funkce není pro vaše zařízení dostupné</string>
+  <string name="enabled_authorised_apps_summary">Vaše autorizace bude odmítnuta po přepnutí přepínače aplikace.</string>
+  <string name="enabled_authorised_apps_title">Povolená autorizace</string>
+  <string name="privacy_authorize_dialog_agree">Souhlasím</string>
+  <string name="privacy_authorize_dialog_exit">Ukončit</string>
+  <string name="privacy_authorize_dialog_message">%1$s vyžaduje souhlas s %2$s. Aplikace vyžaduje připojení na internet. Souhlasíte?</string>
+  <string name="privacy_authorize_network_error">Připojte se k síti a zkuste to znovu.</string>
+  <string name="privacy_authorize_privacy_policy">Ochranou soukromí</string>
+  <string name="privacy_authorize_revoke">Odmítnout</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Pokud zamítnete autorizaci, aplikace nebude shromažďovat data a všechna data budou vymazána ze serveru. Odmítnout autorizaci?</string>
+  <string name="privacy_authorize_revoke_dialog_title">Odmítnutí autorizace</string>
+  <string name="privacy_authorize_revoke_failed">Nelze zakázat autorizaci</string>
+  <string name="privacy_authorize_revoke_success">Autorizace zakázána</string>
+  <string name="privacy_authorize_revoke_time">Odmítnout (%1$ds)</string>
+  <string name="privacy_authorize_revoke_title">Autorizace</string>
+  <string name="privacy_authorize_revoking">Zakazování autorizace...</string>
+  <string name="privacy_authorize_success">Autorizace povolena</string>
+  <string name="privacy_authorize_title">Povolení autorizace</string>
 </resources>

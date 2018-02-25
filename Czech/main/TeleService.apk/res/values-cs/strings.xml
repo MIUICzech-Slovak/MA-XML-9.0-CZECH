@@ -1297,4 +1297,7 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
    <string name="modem_dialog_body">Mobilní síť je nestabilní, což způsobuje ztrátu spojení nebo problémy se sítí. Odeslat hlášení o chybě?</string>
    <string name="modem_dialog_title">Mobilní síť je nestabilní</string>
     <string name="quick_dial_setting_title">Rychlá volba</string>
+    <string name="vice_slot_volte_data_switch_prompt">Během VoLTE hovorů, bude zařízení připojeno k mobilním datům přes druhou SIM kartu. Může to navýšit poplatky operátora.</string>
+  <string name="vice_slot_volte_data_switch_summary">Během VoLTE hovorů, bude zařízení připojeno k mobilním datům přes druhou SIM kartu</string>
+  <string name="vice_slot_volte_data_switch_title">Používat mobilní data během hovoru přes VoLTE na druhé SIM</string>
 </resources>

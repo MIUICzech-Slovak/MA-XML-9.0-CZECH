@@ -1311,4 +1311,6 @@ Vyberte si z následujících možností:</string>
   <string name="quick_dial_setting_set_dialog_option_set">Ano</string>
    <string name="quick_dial_setting_title">Rychlá volba</string>
    <string name="search_quick_dial_setting">Kontakty</string>
+    <string name="preference_contacts_moresetting">Více</string>
+  <string name="preference_display_contact">Nastavení zobrazení</string>
 </resources>

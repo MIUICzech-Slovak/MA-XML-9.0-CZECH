@@ -7,6 +7,8 @@
   <string name="btn_download">Stáhnout novou verzi (%1$s)</string>
   <string name="btn_install">Instalovat novou verzi</string>
   <string name="btn_no">Zrušit</string>
+  <string name="btn_pause">Zastavit</string>
+  <string name="btn_stop">Ukončit</string>
   <string name="btn_ok">OK</string>
   <string name="btn_share">Sdílet</string>
   <string name="btn_yes">Ano</string>

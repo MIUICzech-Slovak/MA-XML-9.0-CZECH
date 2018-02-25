@@ -2766,4 +2766,10 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="lockpattern_tutorial_continue_label_next">Stiskněte Další</string>  
    <string name="network_changed_noti_summary">Jsou používána mobilní data</string>
    <string name="network_changed_noti_title">Odpojeno od Wi-Fi</string>
+   <string name="ac_notification_contentText">Dotykem povolíte</string>
+  <string name="ac_notification_contentTitle">Chraňte aplikace heslem</string>
+  <string name="ac_post_notification_contentText">Získejte systémovou ochranu</string>
+  <string name="ac_post_notification_contentTitle">Povolit Zámek aplikací</string>
+  <string name="ac_pre_notification_contentText">Chraňte své osobní informace</string>
+  <string name="ac_pre_notification_contentTitle">Vyzkoušejte Zámek aplikací</string>
 </resources>

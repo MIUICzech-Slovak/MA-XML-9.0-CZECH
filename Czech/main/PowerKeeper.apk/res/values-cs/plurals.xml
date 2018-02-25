@@ -19,5 +19,9 @@
      <plurals name="app_list_total">
          <item quantity="other">%d apl.</item>
          <item quantity="one">%d apl.</item>
-     </plurals>  
+     </plurals>
+     <plurals name="search_app_count_txt_na">
+        <item quantity="other">Vyhledat %d apl.</item>
+        <item quantity="one">Vyhledat %d apl.</item>
+    </plurals>  
 </resources>
