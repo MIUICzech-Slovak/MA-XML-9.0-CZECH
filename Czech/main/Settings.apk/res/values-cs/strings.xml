@@ -3409,7 +3409,6 @@ Postup připnutí obrazovky:
   <string name="security_encryption_attention_3">Bude nutné zadat nové heslo.</string>
   <string name="security_encryption_attention_4">Ujistěte se, že si budete pamatovat své heslo, jinak bude nutné kompletní vymazání zařízení.</string>
   <string name="security_encryption_attention_info">Můžete zašifrovat účty, nastavení, stažené aplikace a jejich data, média, a ostatní soubory.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Důležité upozornění</string>
   <string name="security_encryption_close_dialog_info">Pokud nebude vaše zařízení zašifrováno, některé Google služby mohou být nedostupné (např. Google NFC Platby).</string>
   <string name="security_encryption_close_dialog_title">Vrátit na výchozí zabezpečení</string>
