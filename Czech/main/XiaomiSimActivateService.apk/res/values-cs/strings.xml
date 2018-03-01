@@ -123,4 +123,6 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
   <string name="sync_notification_title_format">Synchronizace: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
+  <string name="privacy_revoke_failed_msg">Zamítnuto, nelze získat číslo telefonu. Aktivace selhala.</string>
+  <string name="privacy_revoke_tips">pokud zamítnete, nebude možné využít synchronizaci SMS</string>
 </resources>

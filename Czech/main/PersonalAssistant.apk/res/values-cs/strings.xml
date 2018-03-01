@@ -412,4 +412,13 @@
   <string name="step_cal_unit">kcal</string>
   <string name="card_note_finish">Hotovo</string>
   <string name="agenda_assistant_allday">Celý den</string>
+  <string name="card_title_empty_agenda">Žádné události</string>
+   <string name="card_title_empty_note">Žádné poznámky</string>
+  <string name="card_expand_note_clear">Vymazat</string>
+  <string name="card_expand_note_toast_clear_null">Vymazáno</string>
+  <string name="card_expand_note_dialog_message">Nová poznámka je vytvořena vždy, když stisknete tlačítko \"Uložit\".</string>
+  <string name="card_expand_note_dialog_title">Uložení poznámky</string>
+  <string name="card_expand_note_toast_save_done">Uloženo do Poznámek</string>
+  <string name="card_expand_note_toast_save_dup">Uloženo</string>
+  <string name="card_expand_note_dialog_button">Rozumím</string>
 </resources>

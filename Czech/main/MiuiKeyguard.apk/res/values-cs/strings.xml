@@ -185,4 +185,10 @@
    <string name="face_data_siggesstion_next_time">Další (%ds)</string>
    <string name="face_unlock_reenter_content">Algoritmus odemknutí tváří byl aktualizován. Nastavte svou tvář znovu.</string>
    <string name="face_unlock_reenter_title">Nastavte svou tvář znovu.</string>
+   <string name="change_to_ac_charging">Přepnout na bezdrátové nabíjení</string>
+  <string name="reset_device_detail_tip">Bezdrátové nabíjení, vyrovnejte zařízení pro co nejrychlejší nabití.</string>
+  <string name="reset_device_tip">Pomalé nabíjení, změňte pozici zařízení</string>
+  <string name="wireless_charge_dialog_cancel">Zrušit</string>
+  <string name="wireless_charge_dialog_title">Mimo pozici, posuňte zařízení</string>
+  <string name="wireless_charge_stop">Bezdrátové nabíjení bylo ukončeno</string>
 </resources>

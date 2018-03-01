@@ -5157,4 +5157,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="privacy_authorize_revoking">Zakazování autorizace...</string>
   <string name="privacy_authorize_success">Autorizace povolena</string>
   <string name="privacy_authorize_title">Povolení autorizace</string>
+  <string name="tether_auto_disable_summary">Automaticky ukončit hot-spot, když nejsou připojena žádná zařízení</string>
+  <string name="tether_auto_disable_title">Automaticky ukončit hot-spot</string>
+  <string name="use_personalized_ad_service_summary">V naší ROM od miuios.cz jsou systémové reklamy blokovány.</string>
+  <string name="night_light_color_tip">Změny budou aktivovány po deaktivaci Čtecího režimu</string>
+  <string name="night_light_tip">Změny budou aplikovány po aktivaci Čtecího režimu</string>
 </resources>

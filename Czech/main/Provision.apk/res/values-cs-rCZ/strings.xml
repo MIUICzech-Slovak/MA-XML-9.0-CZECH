@@ -84,4 +84,6 @@
    <string name="navigation_picker_radio_text_virtual_key">Režim tlačítek</string>
    <string name="sim_card_detecting_check">Nelze najít SIM kartu.</string>
    <string name="system_navigation_mode">Navigace v systému</string>
+   <string name="other_settings_ad_enable">Přizpůsobený výběr reklam</string>
+  <string name="other_settings_ad_enable_summary">Přizpůsobit reklamy Vašemu chování</string>
 </resources>

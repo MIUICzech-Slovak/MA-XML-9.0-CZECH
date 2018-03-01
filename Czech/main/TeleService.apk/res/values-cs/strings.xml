@@ -1300,4 +1300,10 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
     <string name="vice_slot_volte_data_switch_prompt">Během VoLTE hovorů, bude zařízení připojeno k mobilním datům přes druhou SIM kartu. Může to navýšit poplatky operátora.</string>
   <string name="vice_slot_volte_data_switch_summary">Během VoLTE hovorů, bude zařízení připojeno k mobilním datům přes druhou SIM kartu</string>
   <string name="vice_slot_volte_data_switch_title">Používat mobilní data během hovoru přes VoLTE na druhé SIM</string>
+  <string name="close">Turn off</string>
+  <string name="prompt_to_turnoff_volte_when_failed">VoLTE Není dostupné. Vypněte VoLTE pro běžné volání.</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">Služba není dostupná. Vypněte VoLTE v Nastavení.</string>
+  <string name="prompt_when_turnon_volte_without_lte">LTE síť není momentálně dostupná. Povolení VoLTE může způsobit problémy s voláním.</string>
+  <string name="volte_switch_summary2">Ověřte se, že váš operátor podporuje VoLTE, než jej povolíte. Může to ovlivnit běžné hovory.</string>
+  <string name="volte_tips_when_turn_on">VoLTE služby jsou dostupné jen v pokrytí LTE.</string>
 </resources>
