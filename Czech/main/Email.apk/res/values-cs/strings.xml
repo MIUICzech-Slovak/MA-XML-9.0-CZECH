@@ -245,7 +245,6 @@
   <string name="click_download_all_content">[ Dotykem načtete zprávu ]</string>
   <string name="click_to_reload">Dotkněte se displeje pro obnovení</string>
   <string name="collapse_recipient_details">Sbalit podrobnosti o příjemci</string>
-  <string name="colon">:</string>
   <string name="compose">Napsat</string>
   <string name="compose_attachment_number_limit">Maximálně můžete připojit 10 příloh!</string>
   <string name="compose_paste_address_oob">Vložený text je příliš dlouhý</string>
