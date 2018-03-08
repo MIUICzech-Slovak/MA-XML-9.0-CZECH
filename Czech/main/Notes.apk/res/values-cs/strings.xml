@@ -233,4 +233,5 @@ http://www.miuios.cz/rom
    <string name="cloud_service_state_open_reminder">Povolte synchr. s MiCloud pro synchronizaci poznámek.</string>
    <string name="refuse_to_open_as_pic_because_of_loading">Vyčkejte na načtení poznámky a zkuste to znovu</string>
    <string name="toast_cancel_to_insert_image">Zrušit přidávání obrázků.</string>
+  <string name="dialog_privacy_revoke_tips">Po odmítnutí aurotizace přestane aplikace shromažďovat data a všechna data budou vymazána ze serveru.</string>
 </resources>

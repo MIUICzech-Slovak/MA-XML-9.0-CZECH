@@ -580,4 +580,22 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="micloud_privacy_warning_button">Zpět</string>
   <string name="micloud_privacy_warning_content">Nelze aktivovat MiCloud. Zkuste to později.</string>
   <string name="micloud_privacy_warning_title">Informace</string>
+  <string name="ks_certificate_udpate_time">Aktualizace certifikátu</string>
+  <string name="ks_certificate_version">Číslo certifikátu</string>
+  <string name="ks_download_certificate">Stáhnout certifikát</string>
+  <string name="ks_download_success">Staženo</string>
+  <string name="ks_fingerprint_payment">Platby otiskem prstu</string>
+  <string name="ks_fingerprint_status">Stav plateb</string>
+  <string name="ks_name_alipay">IFAA</string>
+ <string name="ks_name_fido">FIDO</string>
+  <string name="ks_name_soter">Soter</string>
+  <string name="ks_status_available">Dostupné</string>
+  <string name="ks_status_unavailable">Nedostupné</string>
+  <string name="ks_update_certificate">Certifikát</string>
+ <string name="ks_update_fail">nelze stáhnout</string>
+  <string name="ks_update_fail_code">Nelze stáhnout. Kód chyby: %d</string>
+  <string name="ks_update_fail_no_network">Nelze se připojit k síti. Zkuste to znovu.</string>
+  <string name="ks_update_fail_request_timeout">Požadavek na připojený vypršel. Zkuste to později.</string>
+  <string name="ks_update_success">Aktualizováno</string>
+  <string name="ks_update_wait">Načítání...</string>
 </resources>

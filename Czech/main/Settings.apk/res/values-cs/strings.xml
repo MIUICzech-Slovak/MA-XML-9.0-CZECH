@@ -5162,4 +5162,11 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="use_personalized_ad_service_summary">V naší ROM od miuios.cz jsou systémové reklamy blokovány.</string>
   <string name="night_light_color_tip">Změny budou aktivovány po deaktivaci Čtecího režimu</string>
   <string name="night_light_tip">Změny budou aplikovány po aktivaci Čtecího režimu</string>
+  <string name="fingerprint_payment">Platby otiskem prsta</string>
+  <string name="secondspace_category">Druhý profil</string>
+  <string name="secondspace_delete_space_title">Vymazat Druhý profil</string>
+  <string name="privacy_authorize_cloud_msg">Pro zajištění bezpečnosti vašeho účtu se přihlaste na i.mi.com, pokud chcete odmítnout autorizaci pro služby MiCloud.</string>
+  <string name="wfd_status_dialog_disconnect">Odpojit</string>
+  <string name="wfd_status_dialog_message">Obsah displeje se zobrazí na vzdálené obrazovce prostřednictvím Wi-fi připojení</string>
+  <string name="wfd_status_dialog_title">Bezdrátový displej</string>
 </resources>
