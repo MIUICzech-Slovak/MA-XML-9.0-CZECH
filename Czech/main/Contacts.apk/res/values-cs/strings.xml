@@ -1313,4 +1313,5 @@ Vyberte si z následujících možností:</string>
    <string name="search_quick_dial_setting">Kontakty</string>
     <string name="preference_contacts_moresetting">Více</string>
   <string name="preference_display_contact">Nastavení zobrazení</string>
+   <string name="dialog_privacy_revoke_tips">Po odmítnutí autorizace přestane aplikace shromažďovat vaše data a všechna data budou vymazána se serveru. Opravdu chcete odmítnout autorizaci a smazat Vaše data ze serveru?</string>
 </resources>

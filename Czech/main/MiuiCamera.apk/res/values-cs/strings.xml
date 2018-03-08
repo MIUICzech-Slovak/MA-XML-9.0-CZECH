@@ -557,4 +557,5 @@
   <string name="pref_camera_mfnr_sat_enable_title">Povolit MFNR</string>
   <string name="pref_camera_optimized_flash_enable_title">Optimalizovat blesk</string>
   <string name="pref_video_hfr_title">Video HFR</string>
+  <string name="ai_scene_mode_use_hint_text">Otevřít AI Fotoaparát, identifikovat scénu a optimalizovat nastavení pro co nejlepší záběr</string>
 </resources>
