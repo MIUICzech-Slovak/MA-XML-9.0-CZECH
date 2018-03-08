@@ -447,7 +447,21 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
    <string name="current_version_incompatible">Nekompatibilní verze</string>
    <string name="hide_free">"Skrýt neplatné "</string>
    <string name="hide_incompatible">"Skrýt nekompatibilní "</string>
-   <string name="find_more_theme">Najít více</string>
+   <string name="find_more_theme">Vyhledat více</string>
    <string name="online_precust_abstract">Abstrakt</string>
    <string name="present_official_themes">Oficiální výběr</string>
+   <string name="resource_current_using_title">Současné zdroje</string>
+  <string name="resource_free_trial_15_days">Vyzkoušejte si na 15 dní zdarma</string>
+  <string name="resource_free_use_last_one_day">Zkušební doba vypršela.</string>
+  <string name="resource_is_off_shelf">není dostupné</string>
+  <string name="resource_local_picker">Vybrat lokální zvonění</string>
+  <string name="resource_on_use">Použito: %1$s</string>
+  <string name="resource_online_picker">Vybrat online zvonění</string>
+  <string name="resource_select_ringtone_confirm">Vybrat toto zvonění?</string>
+  <string name="resource_trial_15_days_end_title">Zkušební 15-ti denní doba skončila</string>
+  <string name="resource_trial_15_days_immediately">Zkusit na 15 dní</string>
+  <string name="resource_trial_end_change">Změnit</string>
+  <string name="title_system_audio_notification_resource">Upozornění systému</string>
+  <string name="up_to_the_end">To je vše. Přijďte znovu později.</string>
+  <string name="wallpaper_detail_load_page_no_network">Připojte se k síti a zkuste to znovu.</string>
 </resources>

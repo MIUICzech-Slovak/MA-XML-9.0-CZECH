@@ -28,7 +28,7 @@
   <string name="button_abandon">Zrušit změny</string>
   <string name="button_add_city">Přidat město</string>
   <string name="button_allow">Potvrdit</string>
-  <string name="button_confirm">Povolit</string>
+  <string name="button_confirm">Souhlasím</string>
   <string name="button_exit">Ukončit</string>
   <string name="button_not_allow">Zrušit</string>
   <string name="button_sure_abandon">Zrušit změny?</string>
@@ -177,6 +177,16 @@ Zadejte město manuálně"</string>
   <string name="other_settings">Ostatní nastavení</string>
   <string name="china_version_first_start_network_msg">Používáním této aplikace souhlasíte s Xiaomi %1$s a %2$s. Tato aplikace využívá připojení na internet.</string>
   <string name="international_version_first_start_network_msg">Používáním této aplikace souhlasíte s Xiaomi %1$s a %2$s. Tato aplikace využívá připojení na internet.</string>
- </resources>
-
+<string name="button_settings_cancel">Zrušit</string>
+  <string name="button_settings_confirm">Odmítnout</string>
+  <string name="button_settings_confirm_to_revoke_msg">Pokud zamítnete autorizaci, aplikace Pačasí nebude fungovat správně.</string>
+  <string name="button_settings_confirm_to_revoke_title">Odmítnout autorizace?</string>
+  <string name="eu_region_version_first_start_network_msg">Používáním této aplikace souhlasíte, že Xiaomi bude používat vaše osobní data, zpracovávat a zhromažďovat je, sledovat vaši polohu a jiná data specifikovaná v Podmínkách používání. Tlačítkem \"Souhlasím\", souhlasíte s Xiaomi %1$s a %2$s.</string>
+  <string name="policy_settings">Podmínkami používání</string>
+  <string name="privacy_grant_failed">Nelze získat autorizaci. Zkuste to později.</string>
+  <string name="privacy_grant_or_revoke_settings">Získávání autorizace</string>
+  <string name="privacy_grant_success">Autorizace získána</string>
+  <string name="privacy_revoke_failed">Nelze odmítnout autorizaci. Zkuste to později.</string>
+  <string name="privacy_revoke_success">Autorizace odmítnuta</string>
+  <string name="privacy_settings">Ochrana soukromí</string>
 </resources>

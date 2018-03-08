@@ -465,9 +465,9 @@ Zkontrolujte také složku SPAM."</string>
   <string name="unbind_sns_description">Po odpojení se již nepřihlásíte do Mi účtu přes %s</string>
   <string name="unbind_weibo_description">After unbinding, you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
   <string name="unlock_help_notice">"Pomoc:
- · Pokud jste zapomněli heslo, můžete jej obnovit na id.mi.com.
- · Pokud nemůžete odemknout vaše zařízení, jděte na i.mi.com a deaktivujte Vyhledávání zařízení (Find device).
- · Toto číslo napište naší zákaznické podpoře: %s"</string>
+ 1. Pokud jste zapomněli heslo, můžete jej obnovit na id.mi.com.
+ 2. Pokud nemůžete odemknout vaše zařízení, jděte na i.mi.com a deaktivujte Vyhledávání zařízení (Find device).
+ 3. Toto číslo napište naší zákaznické podpoře: %s"</string>
   <string name="update_contacts">Aktualizovat kontakty</string>
   <string name="update_contacts_description">Aktualizovat Vaše kontakty a ostatní informace</string>
   <string name="update_email_address_dialog_message">Musíte ověřit svou identitu před tím, než změníte e-mail.</string>
@@ -509,4 +509,7 @@ Zkontrolujte také složku SPAM."</string>
      <string name="vip_settings_info">VIP nastavení</string>
      <string name="passport_confirm_login">Pokračovat</string>
      <string name="passport_sms_verification_code_login">Ověřovací SMS kód</string>
+     <string name="passport_extra_gdpr_license">Vytvořením Mi účtu souhlasíte, že Xiaomi bude shromažďovat a zpracovávat vaše osobní data a ostatní data specifikovaná v Podmínkách používání.</string>  
+ </resources>
+
 </resources>

@@ -461,4 +461,5 @@ přetažením dolů uzamknete"</string>
    <string name="please_slide_agian">Potáhněte znovu</string> 
    <string name="how_to_use_drawer">Jak používat funkci přesouvání aplikace</string>
   <string name="how_to_use_drawer_summary">Potáhněte z levého horního rohu</string>   
+  <string name="recent_cannot_dock">Rozdělení obrazovky nelze pužít v Druhém profilu</string>
 </resources>

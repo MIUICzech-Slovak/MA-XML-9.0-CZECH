@@ -928,4 +928,6 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
    <string name="auto_login_fail">Automatické přihlášení selhalo</string>
    <string name="auto_login_fail_to_retry">Automatické přihlášení selhalo, zkuste to znovu.</string>
    <string name="retry_login">Přihlaste se znovu</string>
+   <string name="see_more_content">Zobrazit více</string>
+  <string name="signature_black_shark">Odesláno z mého Blackshark telefonu</string>
 </resources>

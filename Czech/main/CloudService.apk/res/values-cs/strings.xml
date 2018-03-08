@@ -598,4 +598,5 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="ks_update_fail_request_timeout">Požadavek na připojený vypršel. Zkuste to později.</string>
   <string name="ks_update_success">Aktualizováno</string>
   <string name="ks_update_wait">Načítání...</string>
+  <string name="micloud_privacy_progress_content">Získávání autorizace...</string>
 </resources>

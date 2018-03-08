@@ -971,4 +971,13 @@ Chcete opustit tuto stránku?"</string>
    <string name="temp_refuse">Odmítnout</string>
    <string name="contextmenu_manually_block_ad">Označit jako reklamu</string>
   <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Nelze otevřít soubor. Zkontrolujte povolení pro přístup k úložišti.</string>
+<string name="action_menu_download">Stáhnout</string>
+ <string name="action_menu_text_readmode">Režim čtení</string>
+  <string name="close">Zavřít</string>
+  <string name="enter_the_group_name">zadfejte název skupiny</string>
+  <string name="enter_the_password">Zadejte heslo</string>
+  <string name="enter_the_user_name">Zadejte jméno uživatele</string>
+  <string name="save_to_bookmark">Uložit do záložek</string>
+  <string name="storage_close">Zavřít</string>
+  <string name="storage_open">Otevřít</string>
 </resources>
