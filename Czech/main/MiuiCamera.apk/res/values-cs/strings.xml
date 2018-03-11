@@ -55,7 +55,6 @@
   <string name="dual_camera_too_close_toast">Fotoaparát je příliš blízko u objektu.</string>
   <string name="dual_camera_use_hint">Stereo režim pomáhá rozmazat pozadí. Objekt by neměl být vzdálen více, jak 2 metry.</string>
   <string name="effect_setting_top_text">Filtry</string>
-  <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Záznam zvuku selhal.</string>
   <string name="face_analyze_info">%1$s %2$s let</string>
   <string name="face_analyze_info_female">Žena</string>

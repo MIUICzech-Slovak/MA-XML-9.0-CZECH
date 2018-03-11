@@ -150,7 +150,6 @@ Please check tracking number"</string>
   <string name="payment_unknown_status_summary">Zkontrolujte nastavení sítě a zkuste to znovu.</string>
   <string name="payment_unknown_status_title">"Chyba při platbě"</string>
   <string name="phone_event_setting_notice_text_with_contacts_permission">Používáním této funkce souhlasíte s našimi %1$s a %2$s.</string>
-  <string name="phone_info_divider">" | "</string>
   <string name="provider_tag">Zdroj informací</string>
   <string name="recharge_actual_price">Cena:</string>
   <string name="recharge_charge_range">Cena:¥%1$s-%2$s</string>

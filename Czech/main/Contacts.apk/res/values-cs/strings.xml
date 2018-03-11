@@ -606,7 +606,6 @@ Chyba: \"%s\""</string>
   <string name="keep_local">Místní</string>
   <string name="keep_local_btn">Uložit jen do telefonu</string>
   <string name="label_custom_type">Vlastní</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Gratulujeme! Nemáte žádné duplicitní kontakty.</string>
   <string name="label_notes">Poznámky</string>
   <string name="label_sip_address">Internetový telefon (SIP)</string>
@@ -905,7 +904,6 @@ Synchronizujte je nyní."</string>
   <string name="payphone">Veřejný telefon</string>
   <string name="people">Kontakty</string>
   <string name="phoneLabelsGroup">Telefon</string>
-  <string name="phone_info_divider">"  |  "</string>
   <string name="phone_number_too_long_toast">Číslo je příliš dlouhé</string>
   <string name="phone_primary">Primární</string>
   <string name="photoPickerNotFoundText">V telefonu nejsou k dispozici žádné obrázky.</string>

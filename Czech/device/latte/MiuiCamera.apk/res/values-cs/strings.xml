@@ -88,7 +88,6 @@
   <string name="effect_goofy_face_squeeze">Smrsknutí</string>
   <string name="effect_none">Žádný</string>
   <string name="effect_silly_faces">Směšné tváře</string>
-  <string name="empty">" "</string>
   <string name="enable_feature">Ano</string>
   <string name="error_app_unsupported">Nepodporované rozlišení videa</string>
   <string name="error_app_unsupported_hfr_720p">720p podporuje až 90 FPS</string>

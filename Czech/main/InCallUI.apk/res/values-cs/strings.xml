@@ -231,7 +231,6 @@
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_yes">Ano</string>
   <string name="payphone">Veřejný telefon</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Načítání kontaktu...</string>
   <string name="private_num">Soukromé číslo</string>
   <string name="remind_unlock_message">Vaše zařízení je uzamčeno. \"%s\" bude dostupné až po odblokování zařízení. Odblokovat?</string>

@@ -297,7 +297,6 @@ Chcete-li pokračovat, vyberte možnost Vymazat a převést…"</string>
      <string name="power_remaining_charging_duration_only">Plně se nabije za %1$s</string>
      <string name="power_remaining_duration_only">Zbývá asi %1$s</string>
      <string name="power_remaining_duration_only_short">Zbývající čas: %1$s</string>
-     <string name="process_kernel_label">OS Android</string>
      <string name="remaining_length_format">Zbývající čas: %1$s</string>
      <string name="retail_demo_reset_message">Chcete-li v ukázkovém režimu obnovit zařízení do továrního nastavení, zadejte heslo</string>
      <string name="retail_demo_reset_next">Další</string>

@@ -1804,7 +1804,6 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="privacy_prompt_traffic_adjust_message">Vaše telefonní číslo a podrobnosti o operátorovi budou odeslány na Mi server pro aktualizaci vzoru SMS zprávy a kontrolu, zda je tato funkce podporována vaším operátorem.</string>
   <string name="privacy_prompt_traffic_purchase_message">Vaše telefonní číslo a podrobnosti o operátorovi budou odeslány na Mi server pro kontrolu množství navýšení objemu spotřeby dat.</string>
   <string name="privacy_prompt_upload">Bezpečnostní upozornění</string>
-  <string name="process_kernel_label">OS Android</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="promotion">Reklama</string>
   <string name="prompt_all">Zeptat se na vše</string>
