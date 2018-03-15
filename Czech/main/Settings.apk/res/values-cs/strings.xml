@@ -5168,4 +5168,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wfd_status_dialog_disconnect">Odpojit</string>
   <string name="wfd_status_dialog_message">Obsah displeje se zobrazí na vzdálené obrazovce prostřednictvím Wi-fi připojení</string>
   <string name="wfd_status_dialog_title">Bezdrátový displej</string>
+  <string name="carrier_show_in_lock_screen">Zobrazit pouze na zamykací obrazovce</string>
+  <string name="carrier_show_none">Nikdy nezobrazovat</string>
+  <string name="memory_system_rom">Systémové úložiště</string>
+  <string name="memory_system_space">Systémové úložiště</string>
 </resources>

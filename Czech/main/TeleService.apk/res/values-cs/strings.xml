@@ -1305,4 +1305,7 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="prompt_when_turnon_volte_without_lte">LTE síť není momentálně dostupná. Povolení VoLTE může způsobit problémy s voláním.</string>
   <string name="volte_switch_summary2">Ověřte se, že váš operátor podporuje VoLTE, než jej povolíte. Může to ovlivnit běžné hovory.</string>
   <string name="volte_tips_when_turn_on">VoLTE služby jsou dostupné jen v pokrytí LTE.</string>
+  <string name="close_volte">Deaktivovat VoLTE</string>
+  <string name="prefered_network_type_3g_promp">Před výběrem 3G sítě je lepší deaktivovat VoLTE. Deaktivovat nyní?</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Před povolením VoLTE vyberte LTE síť.</string>
 </resources>

@@ -462,4 +462,7 @@ přetažením dolů uzamknete"</string>
    <string name="how_to_use_drawer">Jak používat funkci přesouvání aplikace</string>
   <string name="how_to_use_drawer_summary">Potáhněte z levého horního rohu</string>   
   <string name="recent_cannot_dock">Rozdělení obrazovky nelze pužít v Druhém profilu</string>
+   <string name="low_temperature_button_ok">Rozumím</string>
+  <string name="low_temperature_warning_message">Teplota je příliš nízká, zařízení se může kdykoliv vypnout.</string>
+  <string name="low_temperature_warning_title">Upozornění na vypnutí</string>
 </resources>
