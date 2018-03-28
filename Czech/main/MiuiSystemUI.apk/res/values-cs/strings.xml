@@ -465,4 +465,12 @@ přetažením dolů uzamknete"</string>
    <string name="low_temperature_button_ok">Rozumím</string>
   <string name="low_temperature_warning_message">Teplota je příliš nízká, zařízení se může kdykoliv vypnout.</string>
   <string name="low_temperature_warning_title">Upozornění na vypnutí</string>
+  <string name="no_sim_card">Žádná SIM karta</string>
+  <string name="notch_status_bar_date_format_12">EEEE, d. MMMM</string>
+  <string name="prompt_danger">Nebezpečí</string>
+  <string name="prompt_detecting">Kontrola</string>
+  <string name="prompt_failure">Chyba</string>
+  <string name="prompt_return_to_split">Rozdělit</string>
+  <string name="prompt_safe">Bezpečné</string>
+  <string name="prompt_unknown">Neznámé</string>
 </resources>

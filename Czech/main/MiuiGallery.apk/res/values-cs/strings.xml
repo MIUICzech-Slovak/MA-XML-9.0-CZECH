@@ -27,6 +27,9 @@
   <string name="add_to_album_success">Přidáno do alba</string>
   <string name="add_to_album_tip">Cloud fotografie</string>
   <string name="add_to_secret_exist">Fotografie již ve skrytém albu existuje</string>
+  <string name="storage_description_primary">Interní úložiště</string>
+  <string name="storage_description_sdcard">SD karta</string>
+  <string name="storage_description_xspace">Klonovaná aplikace</string>
   <string name="add_to_secret_fail">Přidání do skrytého alba selhalo</string>
   <string name="add_to_secret_failed_with_reason">"Nelze přidat do skrytého alba. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s položky nelze přidat do skrytého alba. %1$s."</string>

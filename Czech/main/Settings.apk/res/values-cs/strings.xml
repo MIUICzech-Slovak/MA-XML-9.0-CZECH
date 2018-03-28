@@ -5172,4 +5172,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="carrier_show_none">Nikdy nezobrazovat</string>
   <string name="memory_system_rom">Systémové úložiště</string>
   <string name="memory_system_space">Systémové úložiště</string>
+  <string name="key_operation_diagram">Operační diagram</string>
+  <string name="provision_activation">Aktivní</string>
 </resources>

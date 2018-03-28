@@ -174,5 +174,9 @@
     <plurals name="lockpassword_pin_fixed_length">
 	        <item quantity="other">PIN musí mít %d čísla</item>
 	        <item quantity="one">PIN musí mít %d číslo</item>
-    </plurals>    
+    </plurals> 
+    <plurals name="print_jobs_summary">
+        <item quantity="other">%1$d tiskových úloh</item>
+        <item quantity="one">1 tisková úloha</item>
+    </plurals>  
 </resources>
