@@ -990,4 +990,26 @@ Postupujte dle pokynů"</item>
         <item>Pouze od oblíbených kontaktů</item>
         <item>Žádný</item>
     </string-array>
+    <string-array name="date_of_app_all">
+        <item>Dnes 2G/3G\u0020</item>
+        <item>Tento měsíc 2G/3G\u0020</item>
+        <item>Minulý měsíc 2G/3G\u0020</item>
+        <item>Dnes Wi-Fi\u0020</item>
+        <item>Tento měsíc Wi-Fi\u0020</item>
+        <item>Minulý měsíc Wi-Fi\u0020</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Dnes\u0020</item>
+        <item>Tento měsíc\u0020</item>
+        <item>Minulý měsíc\u0020</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>Dnes\u0020</item>
+        <item>Tento měsíc\u0020</item>
+        <item>Minulý měsíc\u0020</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobilní data "</item>
+        <item>"Wi-Fi "</item>
+    </string-array>	
 </resources>

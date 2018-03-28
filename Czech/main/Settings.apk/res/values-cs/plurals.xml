@@ -179,4 +179,16 @@
         <item quantity="other">%1$d tiskových úloh</item>
         <item quantity="one">1 tisková úloha</item>
     </plurals>  
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d aplikací se může připojit k síti na pozadí</item>
+        <item quantity="one">%d aplikace se může připojit k síti na pozadí</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">%d aplikací se nemůže připojit k síti na pozadí</item>
+        <item quantity="one">%d aplikace se nemůže připojit k síti na pozadí</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">Zakázat připojení pro %s aplikací</item>
+        <item quantity="one">Zakázat připojení pro %s aplikaci</item>
+    </plurals>
 </resources>

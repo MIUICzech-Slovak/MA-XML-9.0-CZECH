@@ -356,4 +356,11 @@ Můžete je i znovu stáhnout."</string>
   <string name="space_create_guide_title_1">Ochrana Vašeho soukromí</string>
   <string name="space_create_guide_title_2">Kdykoliv můžete vytvořit</string>
   <string name="space_create_guide_title_3">Bez rizika</string>
+  <string name="encrypt_space_delete_dialog_click_message">Pokud nepotřebujete přesunout data, %s</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">vymažte a vytvořte Druhý profil znovu.</string>
+  <string name="encrypt_space_delete_dialog_message">Chystáte se aktualizovat Android. Po aktualizaci nebudou data v Druhém profilu kompatibilní. Přesuňte data z Druhého profilu do Prvního profilu, vymažte Druhý profil a vytvořte ho znovu.</string>
+  <string name="encrypt_space_delete_dialog_positive_text">Přesunout data</string>
+  <string name="encrypt_space_delete_dialog_title">Upozornění</string>
+  <string name="encrypt_space_delete_notification_message">Vymažte Druhý profil a vytvořte ho znovu.</string>
+  <string name="encrypt_space_delete_notification_title">Druhý profil</string>
 </resources>

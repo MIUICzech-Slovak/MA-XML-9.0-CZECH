@@ -600,4 +600,6 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="ks_update_wait">Načítání...</string>
   <string name="micloud_privacy_progress_content">Získávání autorizace...</string>
   <string name="micloud_web_discription_place_holder">Navštívit %1$s</string>
+  <string name="user_agreement_content">Používaním této služby souhlasíte s %s.</string>
+  <string name="user_agreement_link">MiCloud Podmínkami používání</string>
 </resources>

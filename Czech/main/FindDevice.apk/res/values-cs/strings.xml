@@ -82,4 +82,6 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="verifing_account">Ověřování hesla...</string>
   <string name="verify_password_failed">Nelze ověřit Mi účet. %s.</string>
   <string name="open_wifi_settings">Otevřít nastavení Wi-Fi</string>
+  <string name="emergency_call">Nouzový hovor</string>
+  <string name="return_to_call">Zpět k hovoru</string>
 </resources>
