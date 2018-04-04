@@ -5258,7 +5258,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="traffic_none">Žádné</string>
   <string name="lockscreen_magazine_summary">Tapety ve vysoké kvalitě</string>
   <string name="screen_paper_mode_hdr_toast">Režim čtení bude deaktivován během přehrávání HDR videí. Po skončení přehrávání se opět automaticky aktivuje.</string>
-<string name="defalut_launcher_title">Výchozí Launcher</string>
 <string name="eq_auto">Vlastní</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_cancel">Zrušit</string>
