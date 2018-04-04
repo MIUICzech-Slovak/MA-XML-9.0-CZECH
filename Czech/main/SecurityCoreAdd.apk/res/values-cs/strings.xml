@@ -363,4 +363,9 @@ Můžete je i znovu stáhnout."</string>
   <string name="encrypt_space_delete_dialog_title">Upozornění</string>
   <string name="encrypt_space_delete_notification_message">Vymažte Druhý profil a vytvořte ho znovu.</string>
   <string name="encrypt_space_delete_notification_title">Druhý profil</string>
+  <string name="entrance_reopen_toast_msg">Zobrazuje se odkaz na Druhý profil z důvodu jiného hesla</string>
+  <string name="reset_password_dialog_message">Používáte jiný typ hesla Pro První a druhý profil. Druhý profil by měl používat stejné heslo, jako První profil.</string>
+  <string name="reset_password_dialog_positve_btn_title">Změnit</string>
+  <string name="reset_password_dialog_title">Nelze skrýt odkaz na Druhý profil</string>
+  <string name="xspace_install_completed_global">Ikona přidána na plochu</string>
 </resources>

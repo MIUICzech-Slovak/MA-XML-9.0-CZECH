@@ -980,4 +980,18 @@ Chcete opustit tuto stránku?"</string>
   <string name="save_to_bookmark">Uložit do záložek</string>
   <string name="storage_close">Zavřít</string>
   <string name="storage_open">Otevřít</string>
+  <string name="mw_data_traffic_prompt_change">Přehrávání videí na mobilním připojení může výrazně navýšit vaše poplatky.</string>
+  <string name="mw_data_traffic_prompt_message">Prohlížení webu na mobilním připojení může výrazně navýšit vaše poplatky.</string>
+  <string name="mw_data_traffic_prompt_message_short">Prohlížení webu na mobilním připojení může výrazně navýšit vaše poplatky.</string>
+  <string name="mw_data_traffic_prompt_title">Spotřeba dat</string>
+  <string name="mw_miui_content_copy">Kopírovat</string>
+  <string name="mw_miui_content_cut">Vyjmout</string>
+  <string name="mw_miui_content_extent_select">Upravit výběr</string>
+  <string name="mw_miui_content_open_url">Otevřít</string>
+  <string name="mw_miui_content_paste">Vložit</string>
+  <string name="mw_miui_content_select">Vybrat</string>
+  <string name="mw_miui_content_select_all">Vše</string>
+  <string name="mw_miui_content_share">Sdílet</string>
+  <string name="mw_miui_content_translate">Přeložit</string>
+  <string name="mw_miui_content_web_search">Hledat</string>
 </resources>

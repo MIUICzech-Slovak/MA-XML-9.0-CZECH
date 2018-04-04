@@ -5258,4 +5258,27 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="traffic_none">Žádné</string>
   <string name="lockscreen_magazine_summary">Tapety ve vysoké kvalitě</string>
   <string name="screen_paper_mode_hdr_toast">Režim čtení bude deaktivován během přehrávání HDR videí. Po skončení přehrávání se opět automaticky aktivuje.</string>
+<string name="defalut_launcher_title">Výchozí Launcher</string>
+<string name="eq_auto">Vlastní</string>
+  <string name="eq_blues">Blues</string>
+  <string name="eq_cancel">Zrušit</string>
+  <string name="eq_classical">Klaska</string>
+  <string name="eq_country">Country</string>
+  <string name="eq_dance">Dance</string>
+  <string name="eq_delete">Odstranit</string>
+  <string name="eq_delete_success">Hotovo</string>
+  <string name="eq_electronic">Electronic</string>
+  <string name="eq_flat">Výchozí</string>
+  <string name="eq_hiphop">Hip Hop</string>
+  <string name="eq_jazz">Jazz</string>
+  <string name="eq_metal">Metal</string>
+  <string name="eq_ok">OK</string>
+  <string name="eq_pop">Pop</string>
+  <string name="eq_preset_create">Vytvořit</string>
+  <string name="eq_preset_format">Vlastní nastavení %d</string>
+  <string name="eq_preset_hint">Název efektu</string>
+  <string name="eq_preset_rename">Přejmenovat</string>
+  <string name="eq_preset_select">Vyberte nastavení</string>
+  <string name="eq_rock">Rock</string>
+  <string name="input_hint_prefix">Zadejte %1$s</string>
 </resources>

@@ -2794,4 +2794,18 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="toast_update_notneed">Aktuálně</string>
   <string name="toast_update_success">Aktualizováno</string>
   <string name="app_manager_uninstall">Odinstalovat</string>
+  <string name="dialog_button_ignore">Ignorovat</string>
+  <string name="dialog_button_yes">Ano</string>
+  <string name="summary_background_connection">Pro tuto aplikaci bylo zakázáno připojení na pozadí.</string>
+  <string name="summary_block_calls_from_cantacts">Používáte Černou listinu.</string>
+  <string name="summary_block_calls_from_strangers">Jsou povoleny pouze hovory z kontaktů.</string>
+  <string name="summary_do_not_disturb">Používáte Režim nerušit</string>
+  <string name="summary_eye_shield">Používáte Režim čtení</string>
+  <string name="summary_restrict_data_usage">Pro tuto aplikaci jsou zakázána data.</string>
+  <string name="title_background_connection">Nelze použít %s na pozadí?</string>
+  <string name="title_block_calls_from_cantacts">Zmeškali jste hovor?</string>
+  <string name="title_block_calls_from_strangers">Zmeškali jste důležitý hovor?</string>
+  <string name="title_do_not_disturb">Neslyšíte zvonění?</string>
+  <string name="title_eye_shield">Barva podsvícení nevypadá dobře?</string>
+  <string name="title_restrict_data_usage">%s se nemůže připojit k síti?</string>
 </resources>
