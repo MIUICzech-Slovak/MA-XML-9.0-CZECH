@@ -5249,7 +5249,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="root">Root</string>
   <string name="tether_custom_dialog_title">Limit mobilních dat</string>
   <string name="tether_limit_dialog_title">Limit mobilních dat</string>
-  <string name="tether_limit_value_custom">Vlastní</string>
   <string name="tether_over_limit_dialog_cancle_btn">Obnovit hot-spot</string>
   <string name="tether_over_limit_dialog_message">Byl dosažen limit dat hot-spotu.</string>
   <string name="tether_over_limit_dialog_title">Upozornění na využití dat</string>
