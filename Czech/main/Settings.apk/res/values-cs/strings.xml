@@ -5279,4 +5279,12 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="eq_preset_select">Vyberte nastavení</string>
   <string name="eq_rock">Rock</string>
   <string name="input_hint_prefix">Zadejte %1$s</string>
+  <string name="wireless_connected">Připojeno</string>
+  <string name="miui_touch_filtered_warning">Pokud aplikace blokuje okno pro udělení povolení, zavřete aplikaci.</string>
+  <string name="accessibility_wifi_security_type_none">Nechráněná síť</string>
+  <string name="accessibility_wifi_security_type_secured">Zabezpečená síť</string>
+  <string name="confirm_frp_credential_message">Vaše zařízení bylo obnoveno do továrního nastavení, můžete jej odemknout s vašim heslem.</string>
+  <string name="confirm_frp_credential_skip_txt">POUŽÍT GOOGLE ÚČET</string>
+  <string name="confirm_frp_credential_title">Ochrana výchozích nastavení</string>
+  <string name="wifi_tether_enabled_summary">%1$s je aktivní</string>
 </resources>

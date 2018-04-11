@@ -368,4 +368,8 @@ Můžete je i znovu stáhnout."</string>
   <string name="reset_password_dialog_positve_btn_title">Změnit</string>
   <string name="reset_password_dialog_title">Nelze skrýt odkaz na Druhý profil</string>
   <string name="xspace_install_completed_global">Ikona přidána na plochu</string>
+  <string name="remove_button">Vymazat a restartovat</string>
+  <string name="remove_button_time">Vymazat a restartovat (%ds)</string>
+  <string name="stop_xspace_alert_content">Vymazali jste všechny klonované aplikace. Chcete vymazat i účty a data?</string>
+  <string name="stop_xspace_alert_title">Vymazání účtů klonovaných aplikací</string>
 </resources>
