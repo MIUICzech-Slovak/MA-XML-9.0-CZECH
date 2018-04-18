@@ -5287,4 +5287,24 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="confirm_frp_credential_skip_txt">POUŽÍT GOOGLE ÚČET</string>
   <string name="confirm_frp_credential_title">Ochrana výchozích nastavení</string>
   <string name="wifi_tether_enabled_summary">%1$s je aktivní</string>
+  <string name="wifi_hide_password">Skrýt heslo</string>
+  <string name="add_fingerprint_cancel_button_text">Zpět</string>
+  <string name="gxzw_add_fingerprint_continue">Pokračovat</string>
+  <string name="gxzw_add_fingerprint_edge_message">Pohněte svým prstem tak, aby senzor nasnímal i okraje prstu.</string>
+  <string name="gxzw_add_fingerprint_edge_title">Pohněte prstem</string>
+  <string name="gxzw_add_fingerprint_finish">Dokončit</string>
+  <string name="gxzw_add_fingerprint_indicate">Stiskněte silněji</string>
+  <string name="gxzw_add_fingerprint_know">Rozumím</string>
+  <string name="gxzw_add_fingerprint_message">Udržujte prsty a displej čistý</string>
+  <string name="gxzw_add_fingerprint_move_indicate">Pohněte prstem</string>
+  <string name="gxzw_add_fingerprint_move_message">Příliš mnoho opakovaných částí prstu, pohněte prstem.</string>
+  <string name="gxzw_add_fingerprint_move_title">Pohněte prstem</string>
+  <string name="gxzw_add_fingerprint_put_finger_message">Stiskněte silněji, zvednětě prst po zavibrování a opakujte snímání vícekrát</string>
+  <string name="gxzw_add_fingerprint_put_finger_title">Stiskněte silněji</string>
+  <string name="gxzw_add_fingerprint_title">Přidat otisk</string>
+  <string name="choose_a_card_to_reset">Vybrat SIM pro obnovení</string>
+  <string name="reset_network_bluetooth">Bluetooth</string>
+  <string name="reset_network_category">Všechna nastavení sítě budou obnovena, včetně:</string>
+  <string name="reset_network_data">Mobilní data</string>
+  <string name="reset_network_wifi">Wi-Fi</string>
 </resources>

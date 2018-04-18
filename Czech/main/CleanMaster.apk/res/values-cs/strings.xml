@@ -489,4 +489,5 @@
   <string name="pref_title_auto_clean">Vyčistit automaticky</string>
   <string name="pref_title_auto_clean_operation">Způsob čištění</string>
   <string name="pref_title_auto_clean_trigger">Vyčistit úložiště</string>
+   <string name="desc_image">obrázek</string>
 </resources>

@@ -87,4 +87,5 @@
    <string name="other_settings_ad_enable">Přizpůsobený výběr reklam</string>
   <string name="other_settings_ad_enable_summary">Přizpůsobit reklamy Vašemu chování</string>
   <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Povolit připojení k mobilním datům?</string>
 </resources>

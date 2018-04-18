@@ -602,4 +602,5 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="micloud_web_discription_place_holder">Navštívit %1$s</string>
   <string name="user_agreement_content">Používaním této služby souhlasíte s %s.</string>
   <string name="user_agreement_link">MiCloud Podmínkami používání</string>
+  <string name="micloud_main_see_unsynced_data">Zkontrolujte data pro synchronizaci</string>
 </resources>
