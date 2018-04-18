@@ -528,5 +528,16 @@ a Přenos je povolen"</string>
    <string name="notif_miasist_try_to_connect">MiPCSuite se snaží připojit k zařízení</string>
   <string name="trans_switching_5g">Přepínání na 5GHz Wi-Fi...</string>
    <string name="err_not_allow">Není podporováno</string>
-
+   <string name="button_clean_garbage">Uvolnit místo</string>
+  <string name="button_got_it">OK</string>
+  <string name="button_quit">Ukončit</string>
+  <string name="err_bakfile_not_exist">Zálohovaný soubor neexistuje.</string>
+  <string name="err_binder_died">Aplikace se neočekávaně ukončila.</string>
+  <string name="err_pkg_not_exist">Nelze najít aplikaci.</string>
+  <string name="err_user_abort">Zrušeno uživatelem.</string>
+  <string name="trans_failed_details_page_title">Neúspěšné přenosy</string>
+  <string name="trans_generate_qrcode_failed">Nelze vygenerovat QR kód. Zkuste to znovu.</string>
+  <string name="trans_generating_qrcode">Generování QR kódu...</string>
+  <string name="trans_old_phone_low_space_msg">Přenos vyžaduje místo na úložišti pro vytvoření balíčku dat. Na starém zařízení není dostatek volného místa. Uvolněte místo, nebo vyberte pouze důležité aplikace.</string>
+  <string name="trans_old_phone_low_space_title">Není dostatek volného místa</string>
 </resources>

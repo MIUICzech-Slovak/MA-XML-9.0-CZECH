@@ -52,4 +52,12 @@
         <item quantity="other">Importovat %d položek znovu.</item>
         <item quantity="one">Importovat %d položku znovu.</item>
     </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">Nelze přenést %d položek. Zobrazit podrobnosti.</item>
+        <item quantity="one">Nelze přenést %d položku. Zobrazit podrobnosti.</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">Nelze přenést %d položek.</item>
+        <item quantity="one">Nelze přenést %d položku.</item>
+    </plurals>	
 </resources>
