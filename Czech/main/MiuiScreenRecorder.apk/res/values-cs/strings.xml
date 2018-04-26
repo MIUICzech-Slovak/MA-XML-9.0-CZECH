@@ -74,4 +74,15 @@
   <string name="description_title">Co je nahrávání plochy</string>
   <string name="app_notification_info">Nahávání plochy je spuštěno na pozadí</string>
   <string name="recording_without_mic">Mikrofon je využíván jinou aplikací</string>
+  <string name="cannot_change_frames">Snímkovací frekvence může být nastavena pouze v případě, kdy používáte fixní hodnotu.</string>
+  <string name="close_screen_record">Nahrávání ukončeno</string>
+  <string name="fixed_frame_rate">Fixní snímkovací frekvence</string>
+  <string name="fixed_frame_rate_summary">Nahrávání s fixní snímkovací frekvencí vylepšuje kvalitu nahrávky.</string>
+  <string name="is_checked">Vybráno</string>
+  <string name="is_go_home">Zpět do nahrávání</string>
+  <string name="is_go_home_summary">Otevřít aplikaci po ukončení nahrávání</string>
+  <string name="settings">Nastavení</string>
+  <string name="storage_location">Úložiště</string>
+  <string name="storage_location_summary">Vyberte úložiště pro uložení nahrávky</string>
+  <string name="unchecked">Žádné</string>
 </resources>

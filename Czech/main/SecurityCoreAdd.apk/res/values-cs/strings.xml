@@ -373,4 +373,7 @@ Můžete je i znovu stáhnout."</string>
   <string name="stop_xspace_alert_content">Vymazali jste všechny klonované aplikace. Chcete vymazat i účty a data?</string>
   <string name="stop_xspace_alert_title">Vymazání účtů klonovaných aplikací</string>
   <string name="msg_switch_file_second">Vymazat tyto soubory v Druhém profilu?</string>
+   <string name="agree">Souhlasím</string>
+  <string name="disagree">Nesouhlasím</string>
+  <string name="net_work_notice">Rodičovský zámek potřebuje připojení na internet a přístup k Vaší poloze. Povolit?</string>
 </resources>

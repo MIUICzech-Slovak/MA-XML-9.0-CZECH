@@ -5307,4 +5307,11 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="reset_network_category">Všechna nastavení sítě budou obnovena, včetně:</string>
   <string name="reset_network_data">Mobilní data</string>
   <string name="reset_network_wifi">Wi-Fi</string>
+  <string name="navigation_guide_app_summary">Potáhněte vlevo nebo vpravo od hrany v horní části displeje</string>
+  <string name="navigation_guide_app_title">Vyvolat akci aplikace</string>
+  <string name="mqs_privacy_automatically_upload">Odesílat automaticky</string>
+  <string name="mqs_privacy_dialog_cancel">Zrušit</string>
+  <string name="mqs_privacy_dialog_confirm">Odeslat</string>
+  <string name="mqs_privacy_dialog_content">Odeslat záznam o chybě?</string>
+  <string name="mqs_privacy_dialog_title">Nastala chyba</string>
 </resources>
