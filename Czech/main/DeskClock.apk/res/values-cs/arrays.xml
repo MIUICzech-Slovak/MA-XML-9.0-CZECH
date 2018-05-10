@@ -81,9 +81,11 @@
         <item>Raději nevycházejte ven</item>
         <item>Na cestách to klouže</item>
         <item>Venku je bouřka, buďte opatrní!</item>
+        <item>Venku je mlha. Jezděte opatrně!</item>	     
         <item>Ovzduší je znečištěné, nezapoměňte si roušku!</item>
         <item>Nezapomeňte si deštník</item>
         <item>Opatrně na cestách</item>
+	<item>Venku padají kroupy!</item>
         <item>Blíží se píšečná bouře!</item>
         <item>Přejeme příjemný den!</item>
      </string-array>
